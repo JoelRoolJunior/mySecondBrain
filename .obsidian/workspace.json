@@ -102,8 +102,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "f3b1b16559389cbd",
   "lastOpenFiles": [
+    "Notas/Modelagem de sistemas em UML.md",
+    "Notas/Programação orientada a objetos em Java.md",
     "Notas/Estatística e Probabilidade.md",
     "Diario/2024-03-08.md",
     "Notas/ÁREA DE TRABALHO.canvas",
@@ -174,7 +176,6 @@
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Digitais.md",
-    "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/Pasted image 20240226211355.png",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Pasted image 20240227235308.png",
@@ -191,7 +192,6 @@
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-09 19.44.01.excalidraw.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/Programação orientada a objetos em Java.md",
     "Zettels/Untitled.canvas",
     "Diario/2024-03-09.md",
     "Zettels/sasas.md",
