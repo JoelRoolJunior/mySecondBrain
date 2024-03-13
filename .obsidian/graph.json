@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#CIÊNCIA_DA_COMPUTAÇÃO  ",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 1.00176470588235,
+  "lineSizeMultiplier": 1.00176470588235,
+  "collapse-forces": false,
+  "centerStrength": 0.358823529411765,
+  "repelStrength": 9.8655462184874,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6761087283441167,
+  "close": true
+}

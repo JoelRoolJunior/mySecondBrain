@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "b7c447da021fc7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a11ef3eb9f340243",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d282bccfd616e497",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eaacd7e8fbfba44",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d373be67aa3fb66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a2dc442d87e4072",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1de3aa3c26ba0e89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#produtividade",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ce31ab001190dbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c4dabbda835bf68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0e4487645f99f1d",
+        "type": "tabs",
+        "dimension": 34.83796296296296,
+        "children": [
+          {
+            "id": "e12554e16a897815",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "e400d1eddabb3a06",
+        "type": "tabs",
+        "dimension": 65.16203703703704,
+        "children": [
+          {
+            "id": "4c82bae5e84b42fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83e37b32bcc24f7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f3fbcde603720b81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab94dc696fcf3aa2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0a2dc442d87e4072",
+  "lastOpenFiles": [
+    "Templates/daily_template.md",
+    "Untitled.md",
+    "Fundamentos de Sistemas Distribuídos.md",
+    "Templates/moc_template.md",
+    "Templates/note_template.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Sistemas Digitais.md",
+    "Notas/Modelagem de sistemas em UML.md",
+    "Arquivos/Pasted image 20240226211355.png",
+    "Notas/Estatística e Probabilidade.md",
+    "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
+    "Arquivos/Pasted image 20240227235503.png",
+    "Arquivos/Pasted image 20240227235308.png",
+    "Arquivos/Pasted image 20240227235201.png",
+    "Arquivos/Pasted image 20240227235113.png",
+    "Arquivos/Pasted image 20240227234931.png",
+    "Arquivos/Pasted image 20240220235340.png",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/Métodos de estudo.md",
+    "Notas/MATEMÁTICA.md",
+    "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
+    "asasasasasasasa.md",
+    "Excalidraw/Drawing 2024-03-09 19.44.09.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-03-09 19.44.01.excalidraw.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Diario/2024-03-08.md",
+    "Notas/Programação orientada a objetos em Java.md",
+    "Arquivos/Pasted image 20240309173751.png",
+    "Zettels/Untitled.canvas",
+    "Diario/2024-03-09.md",
+    "Zettels/sasas.md",
+    "Untitled.canvas",
+    "Notas/PRODUTIVIDADE.md",
+    "Untitled",
+    "Zettels/Arvore de Conhecimento.md",
+    "Zettels/Drawing 2024-03-06 19.10.35.excalidraw.md",
+    "Zettels/Teste.md",
+    "Notas",
+    "Projetos",
+    "Diario",
+    "Arquivos",
+    "Templates",
+    "Vault"
+  ]
+}
