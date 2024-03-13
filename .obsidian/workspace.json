@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a11ef3eb9f340243",
+        "id": "1399401ac0f212da",
         "type": "tabs",
         "children": [
           {
-            "id": "d282bccfd616e497",
+            "id": "f3b1b16559389cbd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "viewState": {
+                  "x": -470,
+                  "y": -250,
+                  "zoom": -0.5872100397968242
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -97,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,17 +143,20 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/ÁREA DE TRABALHO.canvas"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -154,8 +166,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a2dc442d87e4072",
+  "active": "f3b1b16559389cbd",
   "lastOpenFiles": [
+    "Arquivos/Materias para estudar para op ITA.pdf",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Arquivos/edital do ITA 2024.pdf",
+    "Diario/2024-03-13.md",
+    "Arquivos/quadro de horarios.png",
+    "Arquivos/Pasted image 20240227235503.png",
+    "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Templates/daily_template.md",
     "Untitled.md",
     "Fundamentos de Sistemas Distribuídos.md",
@@ -168,7 +187,6 @@
     "Arquivos/Pasted image 20240226211355.png",
     "Notas/Estatística e Probabilidade.md",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Arquivos/Pasted image 20240227235503.png",
     "Arquivos/Pasted image 20240227235308.png",
     "Arquivos/Pasted image 20240227235201.png",
     "Arquivos/Pasted image 20240227235113.png",
@@ -182,25 +200,19 @@
     "Excalidraw/Drawing 2024-03-09 19.44.09.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-09 19.44.01.excalidraw.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Diario/2024-03-08.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Arquivos/Pasted image 20240309173751.png",
     "Zettels/Untitled.canvas",
     "Diario/2024-03-09.md",
     "Zettels/sasas.md",
     "Untitled.canvas",
     "Notas/PRODUTIVIDADE.md",
     "Untitled",
-    "Zettels/Arvore de Conhecimento.md",
-    "Zettels/Drawing 2024-03-06 19.10.35.excalidraw.md",
-    "Zettels/Teste.md",
     "Notas",
     "Projetos",
     "Diario",
     "Arquivos",
-    "Templates",
-    "Vault"
+    "Templates"
   ]
 }

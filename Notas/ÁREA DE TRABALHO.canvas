@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"8748df6e3d97640c","type":"file","file":"Notas/ÁRVORE DE CONHECIMENTO.md","x":-380,"y":-300,"width":640,"height":400},
-		{"id":"302c5d9f5641a0ff","type":"file","file":"Arquivos/Pasted image 20240309173751.png","x":-800,"y":-600,"width":1060,"height":260}
+		{"id":"302c5d9f5641a0ff","type":"file","file":"Arquivos/quadro de horarios.png","x":-800,"y":-600,"width":1060,"height":260},
+		{"id":"8748df6e3d97640c","type":"file","file":"Notas/ÁRVORE DE CONHECIMENTO.md","x":-800,"y":-300,"width":1060,"height":400},
+		{"id":"74bbfe8704304465","type":"text","text":"[EDITAL DO ITA](obsidian://open?vault=mySecondBrain&file=Arquivos%2Fedital%20do%20ITA%202024.pdf)","x":-1200,"y":-600,"width":360,"height":50},
+		{"id":"c41fcfff2ea67257","type":"text","text":"[MATERIAS PARA A PROVA DO ITA](obsidian://open?vault=mySecondBrain&file=Arquivos%2FMaterias%20para%20estudar%20para%20op%20ITA.pdf)","x":-1200,"y":-520,"width":360,"height":50}
 	],
 	"edges":[]
 }
