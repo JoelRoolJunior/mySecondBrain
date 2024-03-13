@@ -11,14 +11,11 @@
             "id": "f3b1b16559389cbd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
-                "viewState": {
-                  "x": -470,
-                  "y": -250,
-                  "zoom": -0.5872100397968242
-                }
+                "file": "Diario/2024-03-08.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Diario/2024-03-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Diario/2024-03-08.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas"
+                "file": "Diario/2024-03-08.md"
               }
             }
           }
@@ -168,8 +165,8 @@
   },
   "active": "f3b1b16559389cbd",
   "lastOpenFiles": [
-    "Arquivos/Materias para estudar para op ITA.pdf",
     "Notas/ÁREA DE TRABALHO.canvas",
+    "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Diario/2024-03-13.md",
     "Arquivos/quadro de horarios.png",
