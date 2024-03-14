@@ -27,7 +27,7 @@ Descrever as medidas de dispersão ou variabilidade.
 **Quantitativas**: Quando assumem valores numéricos.
 **Qualitativas**: Quando seus possíveis valores não são numéricos
 
-![[Pasted image 20240220235340.png]]
+![[Tipos de Variaveis.png]]
 #### Conceitos básicos
 - **População**: Conjunto de indivíduos ou objetos com pelo menos uma característica em comum.
 - **Amostra**: Uma parte da população.
@@ -77,7 +77,7 @@ São ferramentas fundamentais de visualização.
 ###### Gráfico de barras ou colunas
 É o tipo de gráfico mais utilizado em geral, pois serve para representar quaisquer dados ==quantitativos==.
 *Exemplo*: Considere a distribuição de frequência referente à quantidade de famílias que receberam auxílio escolar por número de filhos.
-![[Pasted image 20240227234931.png]]
+![[exemplo grafico de barras.png]]
 ###### Histograma
 É o gráfico típico da distribuição de frequência. A diferença desse gráfico para o gráfico de barras ou colunas se dá pelo fato de as colunas apresentarem-se justapostas, ou seja, sem espaçamento entre elas. Em geral, a abcissa desse gráfico é representada pelas classes e a ordem é representada pela frequência absoluta ou relativa.
 *Exemplo*: Considere a distribuição de frequência a seguir, que representa as notas na disciplina de estatística em uma turma de 40 alunos.

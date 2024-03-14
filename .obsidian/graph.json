@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
-  "showAttachments": false,
+  "showTags": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": true,
@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 16776960
       }
+    },
+    {
+      "query": "tag:#MATEMÁTICA  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.9,
-  "nodeSizeMultiplier": 1.00176470588235,
-  "lineSizeMultiplier": 1.00176470588235,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.985294117647059,
+  "lineSizeMultiplier": 1.01823529411765,
   "collapse-forces": false,
-  "centerStrength": 0.358823529411765,
-  "repelStrength": 9.8655462184874,
+  "centerStrength": 1,
+  "repelStrength": 10.8739495798319,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.4431881582129602,
-  "close": true
+  "scale": 1.4769860980686549,
+  "close": false
 }

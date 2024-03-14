@@ -11,8 +11,10 @@
             "id": "64607827c9c34e0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Arquivos/exemplo grafico de barras.png"
+              }
             }
           }
         ],
@@ -98,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arquivos/exemplo grafico de barras.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arquivos/exemplo grafico de barras.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Arquivos/exemplo grafico de barras.png"
+              }
             }
           }
         ]
@@ -159,6 +165,8 @@
   },
   "active": "64607827c9c34e0d",
   "lastOpenFiles": [
+    "Arquivos/Tipos de Variaveis.png",
+    "Templates/study_template.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Digitais.md",
@@ -167,7 +175,6 @@
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Templates/study_template.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Templates/daily_template.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -188,8 +195,7 @@
     "Arquivos/Pasted image 20240227235308.png",
     "Arquivos/Pasted image 20240227235201.png",
     "Arquivos/Pasted image 20240227235113.png",
-    "Arquivos/Pasted image 20240227234931.png",
-    "Arquivos/Pasted image 20240220235340.png",
+    "Arquivos/exemplo grafico de barras.png",
     "Notas/MATEMÁTICA.md",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
     "asasasasasasasa.md",
@@ -198,7 +204,6 @@
     "Excalidraw/Drawing 2024-03-09 19.44.01.excalidraw.md",
     "Zettels/Untitled.canvas",
     "Diario/2024-03-09.md",
-    "Zettels/sasas.md",
     "Untitled.canvas",
     "Untitled",
     "Notas",
