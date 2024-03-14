@@ -1,6 +1,6 @@
 # Sistemas Distribuídos - Introdução aos Sistemas Distribuídos
 created:: 2024-03-10 17:03
-tags:: 
+tags:: #CIÊNCIA_DA_COMPUTAÇÃO 
 people::
 
 Anotações das vídeo aulas do canal [UNIVESP](https://www.youtube.com/@univesptv)

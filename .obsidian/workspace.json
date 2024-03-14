@@ -11,8 +11,12 @@
             "id": "f3b1b16559389cbd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Sistemas Digitais.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 245.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Sistemas Digitais.md"
+              }
             }
           }
         ]
@@ -157,11 +165,14 @@
   },
   "active": "f3b1b16559389cbd",
   "lastOpenFiles": [
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Estatística e Probabilidade.md",
     "Diario/2024-03-08.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Diario/2024-03-13.md",
@@ -173,7 +184,6 @@
     "Fundamentos de Sistemas Distribuídos.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Digitais.md",
     "Arquivos/Pasted image 20240226211355.png",
@@ -183,7 +193,6 @@
     "Arquivos/Pasted image 20240227235113.png",
     "Arquivos/Pasted image 20240227234931.png",
     "Arquivos/Pasted image 20240220235340.png",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/Métodos de estudo.md",
     "Notas/MATEMÁTICA.md",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
@@ -191,7 +200,6 @@
     "Excalidraw/Drawing 2024-03-09 19.44.09.excalidraw.md",
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-09 19.44.01.excalidraw.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Zettels/Untitled.canvas",
     "Diario/2024-03-09.md",
     "Zettels/sasas.md",
