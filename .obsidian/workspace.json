@@ -11,12 +11,8 @@
             "id": "64607827c9c34e0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Sistemas Digitais.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Sistemas Digitais.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,14 +159,14 @@
   },
   "active": "64607827c9c34e0d",
   "lastOpenFiles": [
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Sistemas Digitais.md",
     "Notas/Métodos de estudo.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Notas/Sistemas Digitais.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/Sistemas distribuídos e computação paralela.md",
     "Templates/study_template.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Templates/daily_template.md",
