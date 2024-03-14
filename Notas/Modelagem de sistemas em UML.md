@@ -42,7 +42,7 @@ Outra forma de abordar os sistemas computacionais por meio de visões que seriam
 - Os modelos são descritos em notações gráficas, que denominamos diagramas.
 ## O PROCESSO DE DESENVOLVIMENTO DE SISTEMAS EM FASES
 Inicio do processo, quando o nível de abstração é alto e pouco se conhece da realidade. 
-![[Pasted image 20240226211355.png]]
+![[Realidade Nebulosa.png]]
 
 *O principal recurso no desenvolvimento de um sistema são pessoas, profissionais capacitados.*
 

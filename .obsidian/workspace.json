@@ -11,9 +11,11 @@
             "id": "64607827c9c34e0d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Arquivos/exemplo grafico de barras.png"
+                "file": "Notas/Sistemas Digitais.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#produtividade",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/exemplo grafico de barras.png",
+                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/exemplo grafico de barras.png",
+                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/exemplo grafico de barras.png"
+                "file": "Notas/Sistemas Digitais.md"
               }
             }
           }
@@ -165,37 +167,37 @@
   },
   "active": "64607827c9c34e0d",
   "lastOpenFiles": [
-    "Arquivos/Tipos de Variaveis.png",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/Estatística e Probabilidade.md",
+    "Arquivos/Realidade Nebulosa.png",
+    "Arquivos/Setor.png",
+    "Arquivos/Gráfico de Linhas.png",
+    "Arquivos/classificação das Variáveis.png",
+    "Arquivos/Histograma.png",
+    "Arquivos/gráfico de barras.png",
+    "Arquivos/boxplot.png",
     "Templates/study_template.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Métodos de estudo.md",
-    "Notas/Estatística e Probabilidade.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Templates/daily_template.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Diario/2024-03-08.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Diario/2024-03-13.md",
     "Arquivos/quadro de horarios.png",
-    "Arquivos/Pasted image 20240227235503.png",
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Untitled.md",
     "Fundamentos de Sistemas Distribuídos.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
-    "Arquivos/Pasted image 20240226211355.png",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Arquivos/Pasted image 20240227235308.png",
-    "Arquivos/Pasted image 20240227235201.png",
-    "Arquivos/Pasted image 20240227235113.png",
-    "Arquivos/exemplo grafico de barras.png",
     "Notas/MATEMÁTICA.md",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
     "asasasasasasasa.md",

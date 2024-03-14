@@ -1,8 +1,8 @@
 # Sistemas Digitais
 created:: 2024-03-06 18:59
 tags:: #CIÊNCIA_DA_COMPUTAÇÃO
-people::
-- 
+people:
+
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**

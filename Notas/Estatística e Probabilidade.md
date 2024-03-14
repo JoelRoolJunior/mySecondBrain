@@ -27,7 +27,7 @@ Descrever as medidas de dispersão ou variabilidade.
 **Quantitativas**: Quando assumem valores numéricos.
 **Qualitativas**: Quando seus possíveis valores não são numéricos
 
-![[Tipos de Variaveis.png]]
+![[classificação das Variáveis.png]]
 #### Conceitos básicos
 - **População**: Conjunto de indivíduos ou objetos com pelo menos uma característica em comum.
 - **Amostra**: Uma parte da população.
@@ -77,25 +77,25 @@ São ferramentas fundamentais de visualização.
 ###### Gráfico de barras ou colunas
 É o tipo de gráfico mais utilizado em geral, pois serve para representar quaisquer dados ==quantitativos==.
 *Exemplo*: Considere a distribuição de frequência referente à quantidade de famílias que receberam auxílio escolar por número de filhos.
-![[exemplo grafico de barras.png]]
+![[gráfico de barras.png]]
 ###### Histograma
 É o gráfico típico da distribuição de frequência. A diferença desse gráfico para o gráfico de barras ou colunas se dá pelo fato de as colunas apresentarem-se justapostas, ou seja, sem espaçamento entre elas. Em geral, a abcissa desse gráfico é representada pelas classes e a ordem é representada pela frequência absoluta ou relativa.
 *Exemplo*: Considere a distribuição de frequência a seguir, que representa as notas na disciplina de estatística em uma turma de 40 alunos.
-![[Pasted image 20240227235113.png]]
+![[Histograma.png]]
 ###### Gráfico de Linhas
 É o gráfico mais apropriado quando trabalhamos com uma série de tempo.
 *Exemplo*: Número de acidentes por mês ao longo de um ano.
-![[Pasted image 20240227235201.png]]
+![[Gráfico de Linhas.png]]
 ###### Setor
 É o gráfico mais apropriado quando trabalhamos com porcentagens.
 *Exemplo*: Em uma pesquisa de satisfação sobre determinado produto, 55% dos entrevistados disseram que estavam satisfeitos, 35% disseram que estavam insatisfeitos e 10% disseram que eram indiferentes.
-![[Pasted image 20240227235308.png]]
+![[Setor.png]]
 ###### Caixa (BoxPlot)
 É um dos gráficos mais utilizados atualmente, visto que traz várias informações sobre o conjunto de dados. Com esse gráfico é possível verificar a tendência central, a variabilidade e a simetria da distribuição dos dados, conceitos esses que serão vistos de forma mais detalhada posteriormente.
 *Exemplo*: Considere os dados referentes aos preços de aluguéis de imóveis (em reais) em certo bairro do Rio de Janeiro.
 
 1000 1500 1800 2000 2200 2500 2600 3000 3500 7000
-![[Pasted image 20240227235503.png]]
+![[boxplot.png]]
 Observe que nesse gráfico temos informações como: o primeiro e o terceiro quartis, a **mediana** e a **média**. Os traços abaixo do primeiro quartil e acima do terceiro quartil representam o **menor** e o **maior** valor dentro do intervalo normal de variação dos dados.
 
 ## Medidas de posição ou tendência central
