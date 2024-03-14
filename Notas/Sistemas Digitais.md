@@ -6,7 +6,7 @@ people:
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
-		1. FLOYD, THomas L. Sistemas Digitais: Fundamentos e Aplicações. 9 ed. Porto Alegre: Bookman, 2007. 
+		1. [FLOYD, THomas L. Sistemas Digitais: Fundamentos e Aplicações. 9 ed. Porto Alegre: Bookman, 2007.](obsidian://open?vault=mySecondBrain&file=Arquivos%2FFLOYD%2C%20Thomas%20-%20Sistemas%20Digitais_%20Fundamentos%20e%20Aplica%C3%A7%C3%B5es-Bookman%20(2007).pdf)
 		2. VAHID, Frank. Sistemas Digitais: Projeto, Otimização e HDLs. Porto Alegre: Bookman, 2008.
 		3. WIDMER, Neal S. Sistemas digitais: princípios e aplicações. 12 ed.. São Paulo: Pearson, 2018. 
 		4. WIDMER, Neal S. Sistemas digitais: princípios e aplicações. 12 ed.. São Paulo: Pearson, 2018. 
