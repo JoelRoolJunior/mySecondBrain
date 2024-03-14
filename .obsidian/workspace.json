@@ -11,14 +11,11 @@
             "id": "f3b1b16559389cbd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
-                "viewState": {
-                  "x": -425.5688949130569,
-                  "y": -242.59483151248048,
-                  "zoom": -0.6255018242178976
-                }
+                "file": "Notas/Sistemas Digitais.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas"
+                "file": "Notas/Sistemas Digitais.md"
               }
             }
           }
@@ -168,9 +165,9 @@
   },
   "active": "f3b1b16559389cbd",
   "lastOpenFiles": [
-    "Notas/Sistemas Digitais.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/Sistemas Digitais.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Modelagem de sistemas em UML.md",
