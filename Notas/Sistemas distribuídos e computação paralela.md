@@ -50,6 +50,7 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 | **vários** | SIMD Processadores vetoriais de granularidade fina | MIMD Multicomputadores<br>           Multiprocessadores |
 ''
 
+
 ---
 # Referencias
 - **LIVROS**:
