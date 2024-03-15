@@ -21,6 +21,7 @@ Um sistema distribuído é aquele no qual os componentes localizados em computad
 *(COULOURIS _et al._, 2013, p. 1)*
 ```
 
+
 Os computadores conectados por uma rede podem estar em continentes diferentes, em um mesmo prédio ou sala, ou ainda a milhares de quilômetros de distância. A definição de Coulouris tem as seguintes consequências significativas:
 
 #### Concorrência
