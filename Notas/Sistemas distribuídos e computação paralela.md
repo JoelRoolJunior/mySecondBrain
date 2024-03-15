@@ -18,7 +18,7 @@ tags:: #CIÊNCIA_DA_COMPUTAÇÃO
 ### CONCEITOS DE SISTEMAS DISTRIBUÍDOS
 
 #### definição formal 
-```ad-note
+```ad-quote
 Um sistema distribuído é aquele no qual os componentes localizados em computadores interligados em rede se comunicam e coordenam suas ações apenas passando mensagens.
 *(COULOURIS _et al._, 2013, p. 1)*
 ```
@@ -57,6 +57,7 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 | **Single  instruction**  | SISD        | SIMD          |
 | **Multiple Instruction** | MISD        | MIND          |
 
+## L
 
 ---
 # Referencias

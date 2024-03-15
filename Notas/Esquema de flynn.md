@@ -1,6 +1,6 @@
 # Esquema de flynn
 created:: 2024-03-15 16:51
-tags:: #CIÊNCIA_DA_COMPUTAÇÃO  #flashcards 
+tags:: #flashcards 
 people::
 
 |                          | Single data | Multiple data |
@@ -35,7 +35,17 @@ Se você possuí mais de um registrador PC, caso dos processadores do tipo _mul
 ?
 Análogo, é a quantidade de operandos que são utilizados pela função.
 ```ad-info
+Novamente considerando a máquina de von Neumann, se você quiser multiplicar um vetor inteiro por uma constante você precisa multiplicar elemento a elemento por esta constante. Em uma máquina SIMD essa multiplicação ocorre de maneira simultânea, onde a instrução executada é a mesma em todas as unidades processantes.
 ```
+<!--SR:!2024-03-16,1,230-->
+
+Quais são os elementos do esquema de flynn
+?
+SISD -  *Single instruction - Single Data*
+SIMD - *Single instruction - Multiple Data*
+MISD - *Multiple instruction - Single Data*
+MIMD - *Multiple instruction - Multiple Data*
+<!--SR:!2024-03-18,3,250-->
 
 ---
 ## Referencias

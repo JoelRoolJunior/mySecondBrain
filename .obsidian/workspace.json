@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e89ccc844bd9ef55",
+        "id": "7e03e667a13947d0",
         "type": "tabs",
         "children": [
           {
-            "id": "8b336f8cb6662e2a",
+            "id": "f76bd901cf5e38e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Esquema de flynn.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Esquema de flynn.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Esquema de flynn.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Esquema de flynn.md"
+                "file": "Notas/Sistemas distribuídos e computação paralela.md"
               }
             }
           }
@@ -183,20 +184,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8b336f8cb6662e2a",
+  "active": "f76bd901cf5e38e8",
   "lastOpenFiles": [
-    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/Esquema de flynn.md",
-    "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
     "Templates/study_template.md",
+    "Templates/note_template.md",
+    "Templates/moc_template.md",
+    "Templates/daily_template.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Sistemas Digitais.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/MATEMÁTICA.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
-    "Templates/note_template.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Arquivos/Realidade Nebulosa.png",
     "Arquivos/Setor.png",
@@ -210,7 +213,6 @@
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Templates/daily_template.md",
     "Diario/2024-03-08.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
@@ -219,7 +221,6 @@
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Untitled.md",
     "Fundamentos de Sistemas Distribuídos.md",
-    "Templates/moc_template.md",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
     "asasasasasasasa.md",
