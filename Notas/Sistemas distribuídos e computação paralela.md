@@ -50,7 +50,12 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 | ---------- | -------------------------------------------------- | ------------------------------------------------------- |
 | **um**     | SISD Arquitetura tradicional de von neumann        | MISD Compútadores em pipeline                           |
 | **vários** | SIMD Processadores vetoriais de granularidade fina | MIMD Multicomputadores<br>           Multiprocessadores |
+*Outra tabela com a mesma ideia*
 
+|                          | Single data | Multiple data |
+| ------------------------ | ----------- | ------------- |
+| **Single  instruction**  | SISD        | SIMD          |
+| **Multiple Instruction** | MISD        | MIND          |
 
 
 ---
