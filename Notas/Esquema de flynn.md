@@ -22,9 +22,16 @@ Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computador
 	- São as máquinas que possuem CPUs independentes, onde cada unidade processante atua com instruções diferentes em dados diferentes.
 	- Os processadores com mais de um núcleo caem nesse modelo.
 
-o que significam essas "instruções únicas/múltiplas";;É o número de instruções diferentes que são executadas ao mesmo tempo.
+**o que significam essas "instruções únicas/múltiplas"**
+?
+	*É o número de instruções diferentes que são executadas ao mesmo tempo.*
+>Considere a máquina de von Neumann, nela a próxima instrução que será executada é apontada pelo registrador PC (_program counter_), logo a instrução executada é uma única. 
+>Se você possuí mais de um registrador PC, caso dos processadores do tipo _multi-core_ onde cada núcleo possuí o seu próprio PC, as instruções executadas são múltiplas e cada uma é apontada por um PC diferente.
 <!--SR:!2024-03-16,1,230-->
 
+**o que significam esses  "dados únicos/múltiplos"**
+?
+	Análogo, é a quantidade de operandos que são utilizados pela função.
 
 ---
 ## Referencias
