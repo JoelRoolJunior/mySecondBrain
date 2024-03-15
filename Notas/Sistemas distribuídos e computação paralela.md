@@ -1,14 +1,12 @@
 # Sistemas distribuídos e computação paralela
 created:: 2024-03-06 19:01
-tags:: #CIÊNCIA_DA_COMPUTAÇÃO
+tags:: #CIÊNCIA_DA_COMPUTAÇÃO #flashcards 
 
 ## Fundamentos de Sistemas Distribuídos
 **Propósito**
 	Introduzir os conceitos fundamentais de sistemas distribuídos, bem como conhecer as técnicas que possibilitaram que esse tipo de arquitetura se desenvolvesse. Saber diferenciar os diversos conceitos dentro do tema e ter conhecimento de algumas arquiteturas de sistemas distribuídos, identificando vantagens e desvantagens.
 
 ***Tenha à mão um aplicativo de planilha eletrônica e uma calculadora ou use a calculadora de seu smartphone/computador.***
-
-
 ### OBJETIVOS
 - Descrever os conceitos básicos de sistemas distribuídos
 - Diferenciar memória compartilhada e memória distribuída
@@ -63,7 +61,7 @@ Existe um limite teórico para a velocidade de execução de tarefas em paralelo
 ```ad-attention
 A lei de Amdahl afirma que podemos paralelizar e/ou distribuir nossos cálculos tanto quanto quisermos, ganhando em desempenho à medida que adicionamos recursos de computação. No entanto, nosso código não pode ser mais rápido do que a velocidade de suas partes sequenciais combinadas (ou seja, não paralelizáveis) em um único processador.
 ```
-
+ ![[Parte Serial e Parte paralela.png]]
 ---
 # Referencias
 - **LIVROS**:
