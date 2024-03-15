@@ -1,6 +1,6 @@
 # Esquema de flynn
 created:: 2024-03-15 16:51
-tags::
+tags:: #flashcards 
 people::
 
 |                          | Single data | Multiple data |
@@ -19,7 +19,8 @@ Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computador
 	- Máquinas MISD operam várias instruções diferentes em um único dado
 	- É quase que um modelo completamente teórico, sem nenhum exemplo real
 1. MIMD - *Multiple instruction - Multiple Data*
-	- 
+	- São as máquinas que possuem CPUs independentes, onde cada unidade processante atua com instruções diferentes em dados diferentes.
+	- Os processadores com mais de um núcleo caem nesse modelo.
 
 ---
 ## Referencias
@@ -28,4 +29,4 @@ Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computador
 - **VIDEOS**
 	1. 
 - **OUTRAS REFERÊNCIAS**
-	1. 
+	1. https://pt.stackoverflow.com/questions/257086/qual-o-significado-das-siglas-sisd-simd-misd-mimd-qual-a-sua-relação-com-pro
