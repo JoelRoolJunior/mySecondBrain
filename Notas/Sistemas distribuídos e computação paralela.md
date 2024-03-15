@@ -57,7 +57,12 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 | **Single  instruction**  | SISD        | SIMD          |
 | **Multiple Instruction** | MISD        | MIND          |
 
-## L
+## LEI DE AMDAHL E SPEEDUP
+Existe um limite teórico para a velocidade de execução de tarefas em paralelo, que é determinado pela de Amdhl. 
+
+```ad-attention
+A lei de Amdahl afirma que podemos paralelizar e/ou distribuir nossos cálculos tanto quanto quisermos, ganhando em desempenho à medida que adicionamos recursos de computação. No entanto, nosso código não pode ser mais rápido do que a velocidade de suas partes sequenciais combinadas (ou seja, não paralelizáveis) em um único processador.
+```
 
 ---
 # Referencias
