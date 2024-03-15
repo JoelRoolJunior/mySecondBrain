@@ -11,9 +11,11 @@
             "id": "64607827c9c34e0d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
+                "file": "Notas/Sistemas Digitais.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5,
-    "collapsed": true
+    "width": 245.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -87,8 +88,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "05b48dfc5d9be3de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e400d1eddabb3a06",
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
+                "file": "Notas/Sistemas Digitais.md"
               }
             }
           }
@@ -166,11 +176,11 @@
   },
   "active": "64607827c9c34e0d",
   "lastOpenFiles": [
+    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Notas/Sistemas Digitais.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/MATEMÁTICA.md",
-    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Templates/note_template.md",
     "Templates/study_template.md",
