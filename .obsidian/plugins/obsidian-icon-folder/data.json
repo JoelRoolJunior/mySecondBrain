@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "😒",
+      "🖥",
       "📁"
     ],
     "recentlyUsedIconsSize": 5,
@@ -27,5 +29,6 @@
   "Projetos": "📁",
   "Templates": "📁",
   "Arquivos": "📁",
-  "Notas": "📁"
+  "Notas": "📁",
+  "Notas/CIÊNCIA DA COMPUTAÇÃO.md": "🖥"
 }

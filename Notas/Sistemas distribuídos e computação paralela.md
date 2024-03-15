@@ -44,7 +44,7 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 - Propõe uma abordagem para esclarecer os tipos de paralelismo suportados no hardware por um sistema de processamento ou disponíveis em uma aplicação.
 - Sua classificação é baseada na visão da máquina ou do aplicativo pelo programador de linguagem de máquina.
 
-## ESQUEMA DE FLYNN
+## [[Esquema de flynn]]
 
 |            | **um**                                             | **vários**                                              |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------- |
