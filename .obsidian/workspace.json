@@ -32,7 +32,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Esquema de flynn.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Esquema de flynn.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Esquema de flynn.md"
+                "file": "Notas/Sistemas distribuídos e computação paralela.md"
               }
             }
           }
@@ -187,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b336f8cb6662e2a",
+  "active": "64607827c9c34e0d",
   "lastOpenFiles": [
-    "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Esquema de flynn.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
     "Templates/study_template.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Sistemas Digitais.md",

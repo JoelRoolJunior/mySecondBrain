@@ -10,7 +10,10 @@ people::
 
 Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computadores paralelos --- existem outros esquemas como esse, mas em geral acabam sendo imprecisos (este também).
 
-1. Sisd
+1. SISD -  *Single instruction - Single Data*
+2. SIMD - *Single instruction - Multiple Data*
+3. MISD - *Multiple instruction - Single Data*
+4. MIMD - *Multiple instruction - Multiple Data*
 
 ---
 ## Referencias
