@@ -44,11 +44,13 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 - Propõe uma abordagem para esclarecer os tipos de paralelismo suportados no hardware por um sistema de processamento ou disponíveis em uma aplicação.
 - Sua classificação é baseada na visão da máquina ou do aplicativo pelo programador de linguagem de máquina.
 
+## ESQUEMA DE FLYNN
+
 |            | **um**                                             | **vários**                                              |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------- |
 | **um**     | SISD Arquitetura tradicional de von neumann        | MISD Compútadores em pipeline                           |
 | **vários** | SIMD Processadores vetoriais de granularidade fina | MIMD Multicomputadores<br>           Multiprocessadores |
-''
+
 
 
 ---
