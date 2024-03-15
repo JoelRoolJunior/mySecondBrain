@@ -58,3 +58,5 @@ A taxonomia de Flynn é uma categorização de formas de arquiteturas de computa
 	1. 
 - **OUTRAS REFERÊNCIAS**
 	1. 
+---
+## Mapa de estudo

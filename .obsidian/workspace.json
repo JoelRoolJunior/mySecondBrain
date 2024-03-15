@@ -11,14 +11,11 @@
             "id": "64607827c9c34e0d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
-                "viewState": {
-                  "x": -470,
-                  "y": -250,
-                  "zoom": -0.4132419856172299
-                }
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas"
+                "file": "Notas/Sistemas distribuídos e computação paralela.md"
               }
             }
           }
@@ -179,6 +176,9 @@
   },
   "active": "64607827c9c34e0d",
   "lastOpenFiles": [
+    "Templates/study_template.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Sistemas Digitais.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -186,7 +186,6 @@
     "Notas/MATEMÁTICA.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Templates/note_template.md",
-    "Templates/study_template.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Arquivos/Realidade Nebulosa.png",
     "Arquivos/Setor.png",
@@ -196,12 +195,10 @@
     "Arquivos/gráfico de barras.png",
     "Arquivos/boxplot.png",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Métodos de estudo.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Templates/daily_template.md",
     "Diario/2024-03-08.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
