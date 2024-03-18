@@ -29,7 +29,7 @@ Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computador
 Considere a máquina de von Neumann, nela a próxima instrução que será executada é apontada pelo registrador PC (_program counter_), logo a instrução executada é uma única. 
 Se você possuí mais de um registrador PC, caso dos processadores do tipo _multi-core_ onde cada núcleo possuí o seu próprio PC, as instruções executadas são múltiplas e cada uma é apontada por um PC diferente.
 ```
-<!--SR:!2024-03-16,1,230-->
+<!--SR:!2024-03-18,1,210-->
 
 **o que significam esses  "dados únicos/múltiplos"**
 ?
@@ -37,7 +37,7 @@ Análogo, é a quantidade de operandos que são utilizados pela função.
 ```ad-info
 Novamente considerando a máquina de von Neumann, se você quiser multiplicar um vetor inteiro por uma constante você precisa multiplicar elemento a elemento por esta constante. Em uma máquina SIMD essa multiplicação ocorre de maneira simultânea, onde a instrução executada é a mesma em todas as unidades processantes.
 ```
-<!--SR:!2024-03-16,1,230-->
+<!--SR:!2024-03-19,2,230-->
 
 Quais são os elementos do esquema de flynn
 ?

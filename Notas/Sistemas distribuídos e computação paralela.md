@@ -1,6 +1,6 @@
 # Sistemas distribuídos e computação paralela
 created:: 2024-03-06 19:01
-tags:: #CIÊNCIA_DA_COMPUTAÇÃO #flashcards 
+tags:: #CIÊNCIA_DA_COMPUTAÇÃO
 
 ## Fundamentos de Sistemas Distribuídos
 **Propósito**

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7e03e667a13947d0",
+        "id": "49a91006528d310a",
         "type": "tabs",
         "children": [
           {
-            "id": "f76bd901cf5e38e8",
+            "id": "02895171c7cce7b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Sistemas distribuídos e computação paralela.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/Sistemas distribuídos e computação paralela.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,26 +175,30 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "f76bd901cf5e38e8",
+  "active": "02895171c7cce7b1",
   "lastOpenFiles": [
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/aula de sistemas distribuidos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
+    "Notas/Sistemas Digitais.md",
+    "Notas/Programação orientada a objetos em Java.md",
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/Modelagem de sistemas em UML.md",
+    "Notas/Métodos de estudo.md",
+    "Notas/MATEMÁTICA.md",
+    "Notas/Estatística e Probabilidade.md",
+    "Notas/Esquema de flynn.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/aula de sistemas distribuidos.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Templates/study_template.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Notas/Esquema de flynn.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
     "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
-    "Notas/Sistemas Digitais.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
-    "Notas/Estatística e Probabilidade.md",
-    "Notas/MATEMÁTICA.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Arquivos/Realidade Nebulosa.png",
     "Arquivos/Setor.png",
     "Arquivos/Gráfico de Linhas.png",
@@ -210,10 +206,6 @@
     "Arquivos/Histograma.png",
     "Arquivos/gráfico de barras.png",
     "Arquivos/boxplot.png",
-    "Notas/Métodos de estudo.md",
-    "Notas/Modelagem de sistemas em UML.md",
-    "Notas/PRODUTIVIDADE.md",
-    "Notas/Programação orientada a objetos em Java.md",
     "Diario/2024-03-08.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
@@ -225,7 +217,6 @@
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
     "asasasasasasasa.md",
-    "Excalidraw/Drawing 2024-03-09 19.44.09.excalidraw.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
