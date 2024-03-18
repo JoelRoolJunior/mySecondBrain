@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "49a91006528d310a",
+        "id": "ef6c1e316b97aedf",
         "type": "tabs",
         "children": [
           {
-            "id": "02895171c7cce7b1",
+            "id": "a38f7fff9c99c33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,18 +183,21 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "02895171c7cce7b1",
+  "active": "a38f7fff9c99c33b",
   "lastOpenFiles": [
+    "Notas/Modelagem de sistemas em UML.md",
+    "Notas/Esquema de flynn.md",
+    "flashcards/Esquema de flynn.md",
+    "Notas/Estatística e Probabilidade.md",
+    "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
+    "flashcards",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/PRODUTIVIDADE.md",
-    "Notas/Modelagem de sistemas em UML.md",
     "Notas/Métodos de estudo.md",
     "Notas/MATEMÁTICA.md",
-    "Notas/Estatística e Probabilidade.md",
-    "Notas/Esquema de flynn.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
@@ -224,11 +227,9 @@
     "Fundamentos de Sistemas Distribuídos.md",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
-    "asasasasasasasa.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
-    "Untitled",
     "Notas",
     "Projetos",
     "Diario"
