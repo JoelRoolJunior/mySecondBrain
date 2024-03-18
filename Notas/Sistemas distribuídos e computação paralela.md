@@ -63,6 +63,8 @@ Existe um limite teórico para a velocidade de execução de tarefas em paralelo
 A lei de Amdahl afirma que podemos paralelizar e/ou distribuir nossos cálculos tanto quanto quisermos, ganhando em desempenho à medida que adicionamos recursos de computação. No entanto, nosso código não pode ser mais rápido do que a velocidade de suas partes sequenciais combinadas (ou seja, não paralelizáveis) em um único processador.
 ```
  ![[Parte Serial e Parte paralela.png]]
+
+## MEMÓRIA COMPARTILHADA
 ---
 # Referencias
 - **LIVROS**:

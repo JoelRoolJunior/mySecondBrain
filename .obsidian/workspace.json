@@ -11,8 +11,12 @@
             "id": "f76bd901cf5e38e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 200
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -153,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/aula de sistemas distribuidos.md"
+                "file": "Notas/Sistemas distribuídos e computação paralela.md"
               }
             }
           }
@@ -177,10 +183,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a2dc442d87e4072",
+  "active": "f76bd901cf5e38e8",
   "lastOpenFiles": [
-    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/aula de sistemas distribuidos.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Templates/study_template.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -203,7 +210,6 @@
     "Arquivos/Histograma.png",
     "Arquivos/gráfico de barras.png",
     "Arquivos/boxplot.png",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Métodos de estudo.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
