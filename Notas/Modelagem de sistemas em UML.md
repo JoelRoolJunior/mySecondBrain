@@ -114,6 +114,22 @@ A preocupação da atividade de análise é identificar: O QUE o sistema deve fa
 ```ad-note
 As necessidades e os desejos que os usuários têm são, tecnicamente, chamados de **requisitos**.
 ```
+```ad-important
+**Requisitos Funcionais:** Declaram as funcionalidades necessárias ao sistema.
+**Requisitos não Funcionais:** Apresentam algumas características associadas a uma, algumas ou todas as funcionalidades, e dizem respeito a aspectos de qualidade, confiabilidade, desempenho, portabilidade, segurança e usabilidade do sistema.
+```
+
+==Um ponto a ser estudado é o documento de Requisitos==
+
+```ad-tip
+title:Dica
+O **documento de requisitos** seguirá como base da comunicação entre os desenvolvedores e os usuários, devendo ser validado por estes, uma vez que servirá de norte para as atividades subsequentes do desenvolvimento do sistema. É, portanto, fundamental a participação ativa e efetiva dos usuários do sistema na fase de levantamento de requisitos.
+
+No documento de requisitos estará definido, também, o escopo do sistema.
+
+```
+
+
 
 ---
 ## Referencias
