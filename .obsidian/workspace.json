@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a9268190fe7f451c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Partes de um Objeto.png"
-              }
-            }
-          },
-          {
-            "id": "8e2e47184d847dc1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Exemplo de classe em UML.png"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -140,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Partes de um Objeto.png",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Partes de um Objeto.png",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Partes de um Objeto.png"
+                "file": "Notas/Modelagem de sistemas em UML.md"
               }
             }
           }
@@ -204,12 +183,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a9268190fe7f451c",
+  "active": "a38f7fff9c99c33b",
   "lastOpenFiles": [
+    "Arquivos/Exemplo de classe em UML.png",
     "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/Partes de um Objeto.png",
     "Arquivos/Exemplo de objeto em UML.png",
-    "Arquivos/Exemplo de classe em UML.png",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",

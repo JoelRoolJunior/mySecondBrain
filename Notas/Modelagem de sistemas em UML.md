@@ -106,6 +106,11 @@ Um objeto é um elemento específico de uma classe, ou ainda uma instância de u
 ### Operação, mensagem e estado
 ![[Partes de um Objeto.png]]
 
+## ANÁLISE DE SISTEMAS ORIENTADA A OBJETOS
+De forma simples, pode-se dizer que a atividade de análise visa identificar  ***o que***  os usuários e os demais interessados (que juntos formam os _stakeholders_) precisam que o sistema faça.
+
+
+
 ---
 ## Referencias
 - **LIVROS**:
