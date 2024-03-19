@@ -108,8 +108,12 @@ Um objeto é um elemento específico de uma classe, ou ainda uma instância de u
 
 ## ANÁLISE DE SISTEMAS ORIENTADA A OBJETOS
 De forma simples, pode-se dizer que a atividade de análise visa identificar  ***o que***  os usuários e os demais interessados (que juntos formam os _stakeholders_) precisam que o sistema faça.
-
-
+```ad-info
+A preocupação da atividade de análise é identificar: O QUE o sistema deve fazer para atender às necessidades de seus usuários.**
+```
+```ad-note
+As necessidades e os desejos que os usuários têm são, tecnicamente, chamados de **requisitos**.
+```
 
 ---
 ## Referencias
