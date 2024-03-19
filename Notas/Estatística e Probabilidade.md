@@ -99,6 +99,7 @@ São ferramentas fundamentais de visualização.
 Observe que nesse gráfico temos informações como: o primeiro e o terceiro quartis, a **mediana** e a **média**. Os traços abaixo do primeiro quartil e acima do terceiro quartil representam o **menor** e o **maior** valor dentro do intervalo normal de variação dos dados.
 
 ## Medidas de posição ou tendência central
+
 ---
 ## Referencias
 - **LIVROS**:
@@ -107,3 +108,6 @@ Observe que nesse gráfico temos informações como: o primeiro e o terceiro qua
 	1. 
 - **OUTRAS REFERÊNCIAS**
 	1. 
+
+---
+## Mapa de estudo

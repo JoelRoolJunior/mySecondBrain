@@ -11,9 +11,11 @@
             "id": "6573d9a06effbb98",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
+                "file": "Notas/Estatística e Probabilidade.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
+                "file": "Notas/Estatística e Probabilidade.md"
               }
             }
           }
@@ -183,8 +184,23 @@
   },
   "active": "6573d9a06effbb98",
   "lastOpenFiles": [
+    "Templates/study_template.md",
     "Notas/Estatística e Probabilidade.md",
+    "Notas/MATEMÁTICA.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Arquivos/Partes de um Objeto.png",
+    "Arquivos/Parte Serial e Parte paralela.png",
+    "Arquivos/Materias para estudar para op ITA.pdf",
+    "Arquivos/Histograma.png",
+    "Arquivos/Gráfico de Linhas.png",
+    "Arquivos/gráfico de barras.png",
+    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+    "Arquivos/Exemplo de objeto em UML.png",
+    "Arquivos/Exemplo de classe em UML.png",
+    "Arquivos/edital do ITA 2024.pdf",
+    "Arquivos/classificação das Variáveis.png",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+    "Arquivos/boxplot.png",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
@@ -193,36 +209,21 @@
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
-    "Arquivos/Exemplo de classe em UML.png",
-    "Arquivos/Partes de um Objeto.png",
-    "Arquivos/Exemplo de objeto em UML.png",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
     "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
     "flashcards",
     "Notas/Métodos de estudo.md",
-    "Notas/MATEMÁTICA.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/aula de sistemas distribuidos.md",
-    "Arquivos/Parte Serial e Parte paralela.png",
-    "Templates/study_template.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
     "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
-    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Arquivos/Realidade Nebulosa.png",
-    "Arquivos/Setor.png",
-    "Arquivos/Gráfico de Linhas.png",
-    "Arquivos/classificação das Variáveis.png",
-    "Arquivos/Histograma.png",
-    "Arquivos/gráfico de barras.png",
     "Diario/2024-03-08.md",
-    "Arquivos/Materias para estudar para op ITA.pdf",
-    "Arquivos/edital do ITA 2024.pdf",
     "Diario/2024-03-13.md",
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Untitled.md",
