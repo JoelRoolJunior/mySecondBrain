@@ -85,8 +85,13 @@ existem três momentos do entendimento e validação dos modelos junto aos usuá
 - A classe determina o comportamento possível a um objeto
 - Classes são organizadas em hierarquias
 ## CONCEITOS FUNDAMENTAIS DA ORIENTAÇÃO A OBJETOS
-Quanto mais acima,mais
+```ad-important
+Quanto mais acima, mais genérico.
+Quanto mais abaixo, mais específico.
+```
 
+### Objetos e classes
+Um objeto pode referenciar qualquer coisa do mundo real
 
 ---
 ## Referencias
