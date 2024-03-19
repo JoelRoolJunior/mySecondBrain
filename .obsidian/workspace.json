@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ef6c1e316b97aedf",
+        "id": "2be06cd80aa6eccf",
         "type": "tabs",
         "children": [
           {
-            "id": "a38f7fff9c99c33b",
+            "id": "6573d9a06effbb98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
-                "mode": "source",
-                "source": false
+                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
               }
             }
           }
@@ -119,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md"
+                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
               }
             }
           }
@@ -183,24 +181,25 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a38f7fff9c99c33b",
+  "active": "6573d9a06effbb98",
   "lastOpenFiles": [
+    "Notas/Estatística e Probabilidade.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+    "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
+    "Notas/Modelagem de sistemas em UML.md",
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/Programação orientada a objetos em Java.md",
+    "Notas/Sistemas Digitais.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
     "Arquivos/Exemplo de classe em UML.png",
-    "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/Partes de um Objeto.png",
     "Arquivos/Exemplo de objeto em UML.png",
-    "Notas/Programação orientada a objetos em Java.md",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
-    "Notas/Estatística e Probabilidade.md",
     "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
     "flashcards",
-    "Notas/Sistemas distribuídos e computação paralela.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/Sistemas Digitais.md",
-    "Notas/PRODUTIVIDADE.md",
     "Notas/Métodos de estudo.md",
     "Notas/MATEMÁTICA.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -228,11 +227,9 @@
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Untitled.md",
     "Fundamentos de Sistemas Distribuídos.md",
-    "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
-    "Notas",
-    "Projetos"
+    "Notas"
   ]
 }

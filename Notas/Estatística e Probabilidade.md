@@ -102,7 +102,7 @@ Observe que nesse gráfico temos informações como: o primeiro e o terceiro qua
 ---
 ## Referencias
 - **LIVROS**:
-	1. 
+	1. [Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008)](obsidian://open?vault=mySecondBrain&file=Arquivos%2FCarlos%20A.%20B.%20Dantas%20-%20Probabilidade_%20um%20Curso%20Introdut%C3%B3rio-Edusp%20(2008).pdf)
 - **VIDEOS**
 	1. 
 - **OUTRAS REFERÊNCIAS**
