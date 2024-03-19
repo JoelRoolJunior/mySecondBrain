@@ -73,12 +73,19 @@ existem três momentos do entendimento e validação dos modelos junto aos usuá
 **Equipe Validando dados junto aos usuários:** validação com os usuário para garantir que o(s) modelo(s) representam de fato a realidade
 
 ## PARADIGMA ORIENTADO A OBJETOS
-Pilares da Programação Orientada a Objetos:
+**Pilares da Programação Orientada a Objetos:**
 - abstração
 - encapsulamento
 - herança
 - polimorfismo
-
+**Princípios centrais da Orientação a objetos:**
+- Qualquer coisa do mundo real é um objeto
+- Objetos realizam tarefas requisitando serviços a outros objetos
+- Os objetos similares são agrupados em classes e cada objeto pertence a uma classe
+- A classe determina o comportamento possível a um objeto
+- Classes são organizadas em hierarquias
+## CONCEITOS FUNDAMENTAIS DA ORIENTAÇÃO A OBJETOS
+Quanto mais acima,mais
 
 
 ---
