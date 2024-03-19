@@ -104,6 +104,7 @@ Um objeto é um elemento específico de uma classe, ou ainda uma instância de u
 - ![[Exemplo de objeto em UML.png]]
 
 ### Operação, mensagem e estado
+![[Partes de um Objeto.png]]
 
 ---
 ## Referencias

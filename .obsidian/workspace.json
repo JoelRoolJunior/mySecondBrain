@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "a9268190fe7f451c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Partes de um Objeto.png"
+              }
+            }
+          },
+          {
             "id": "8e2e47184d847dc1",
             "type": "leaf",
             "state": {
@@ -30,6 +40,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Arquivos/Partes de um Objeto.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Arquivos/Partes de um Objeto.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md"
+                "file": "Arquivos/Partes de um Objeto.png"
               }
             }
           }
@@ -193,10 +204,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a38f7fff9c99c33b",
+  "active": "a9268190fe7f451c",
   "lastOpenFiles": [
-    "Arquivos/Exemplo de objeto em UML.png",
     "Notas/Modelagem de sistemas em UML.md",
+    "Arquivos/Partes de um Objeto.png",
+    "Arquivos/Exemplo de objeto em UML.png",
     "Arquivos/Exemplo de classe em UML.png",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Esquema de flynn.md",
@@ -228,7 +240,6 @@
     "Arquivos/classificação das Variáveis.png",
     "Arquivos/Histograma.png",
     "Arquivos/gráfico de barras.png",
-    "Arquivos/boxplot.png",
     "Diario/2024-03-08.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
