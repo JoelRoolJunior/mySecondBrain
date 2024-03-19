@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e2e47184d847dc1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Exemplo de classe em UML.png"
+              }
+            }
           }
         ],
         "stacked": true
@@ -70,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -184,7 +195,9 @@
   },
   "active": "a38f7fff9c99c33b",
   "lastOpenFiles": [
+    "Arquivos/Exemplo de objeto em UML.png",
     "Notas/Modelagem de sistemas em UML.md",
+    "Arquivos/Exemplo de classe em UML.png",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
@@ -220,12 +233,10 @@
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Diario/2024-03-13.md",
-    "Arquivos/quadro de horarios.png",
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Untitled.md",
     "Fundamentos de Sistemas Distribuídos.md",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Notas/Drawing 2024-03-09 19.45.16.excalidraw.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",

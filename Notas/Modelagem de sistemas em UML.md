@@ -91,12 +91,19 @@ Quanto mais abaixo, mais específico.
 ```
 ### Objetos e classes
 Um objeto pode referenciar qualquer coisa do mundo real.
-Um objeto é um elemento específico de uma classe, ou ainda uma instância de uma classe
+Um objeto é um elemento específico de uma classe, ou ainda uma instância de uma classe.
 
 ```ad-note
 **Classe**: abstração das características de um grupo de coisas do mundo real.  
 **Objeto**: um elemento específico de uma classe ou uma instância de uma classe.
 ```
+
+**EXEMPLO DE CLASSE**
+- ![[Exemplo de classe em UML.png]]
+**EXEMPLO DE OBJETO**
+- ![[Exemplo de objeto em UML.png]]
+
+### Operação, mensagem e estado
 
 ---
 ## Referencias
