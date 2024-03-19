@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e400d1eddabb3a06",
@@ -186,6 +185,7 @@
   "active": "a38f7fff9c99c33b",
   "lastOpenFiles": [
     "Notas/Modelagem de sistemas em UML.md",
+    "Notas/Programação orientada a objetos em Java.md",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
     "Notas/Estatística e Probabilidade.md",
@@ -194,7 +194,6 @@
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas Digitais.md",
-    "Notas/Programação orientada a objetos em Java.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Métodos de estudo.md",
     "Notas/MATEMÁTICA.md",

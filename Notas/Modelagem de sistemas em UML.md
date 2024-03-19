@@ -89,9 +89,14 @@ existem três momentos do entendimento e validação dos modelos junto aos usuá
 Quanto mais acima, mais genérico.
 Quanto mais abaixo, mais específico.
 ```
-
 ### Objetos e classes
-Um objeto pode referenciar qualquer coisa do mundo real
+Um objeto pode referenciar qualquer coisa do mundo real.
+Um objeto é um elemento específico de uma classe, ou ainda uma instância de uma classe
+
+```ad-note
+**Classe**: abstração das características de um grupo de coisas do mundo real.  
+**Objeto**: um elemento específico de uma classe ou uma instância de uma classe.
+```
 
 ---
 ## Referencias
