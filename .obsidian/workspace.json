@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -195,8 +194,11 @@
   },
   "active": "055581e1dd3a5a32",
   "lastOpenFiles": [
+    "Arquivos/PORTA NOT.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Notas/Sistemas Digitais.md",
+    "Arquivos/Partes de um Objeto.png",
+    "Arquivos/Pasted image 20240321184601.png",
     "Notas/Sistemas.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
@@ -204,7 +206,6 @@
     "Notas/Estatística e Probabilidade.md",
     "Templates/study_template.md",
     "Notas/MATEMÁTICA.md",
-    "Arquivos/Partes de um Objeto.png",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Histograma.png",
@@ -214,7 +215,6 @@
     "Arquivos/Exemplo de classe em UML.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/classificação das Variáveis.png",
-    "Arquivos/boxplot.png",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
@@ -234,7 +234,6 @@
     "Templates/daily_template.md",
     "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
-    "Arquivos/Realidade Nebulosa.png",
     "Diario/2024-03-08.md",
     "Diario/2024-03-13.md",
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",

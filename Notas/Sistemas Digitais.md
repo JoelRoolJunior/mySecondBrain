@@ -9,7 +9,7 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 ```
 
 ## FUNÇÕES LÓGICAS E PORTAS LÓGICAS
-1. O Inversor
+1. O Inversor ^069691
 3. A Porta AND 
 4. A Porta OR 
 5. A Porta NAND 
@@ -19,7 +19,7 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 O trabalho da porta NOT é inverter o sinal de entrada.
 Expressão lógica : A' 
 ```ad-summary
-title:tabela Verdade
+title:tabela Verdade e Representação
 
 | Entrada | Saida |
 | :-----: | :---: |
@@ -30,13 +30,25 @@ title:tabela Verdade
 ### A porta AND
 Uma porta AND produz uma saída de nível ALTO apenas quando todas as entradas forem nível ALTO.
 ```ad-summary
-title:tabela Verdade
+title:tabela Verdade e Representação
 
-| Entrada | Saida |
-| :-----: | :---: |
-|    0    |   1   |
-|    1    |   0   |
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 0     |
+| 0   | 1   | 0     |
+| 1   | 0   | 0     |
+| 1   | 1   | 1     |
+
+[[PORTA NOT.png]]
 ```
+
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 0     |
+| 0   | 1   | 0     |
+| 1   | 0   | 0     |
+| 1   | 1   | 1     |
+
 ### A porta OR
 ### A porta NAND
 ### A porta NOR
