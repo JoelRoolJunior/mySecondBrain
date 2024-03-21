@@ -41,10 +41,10 @@ title:tabela Verdade e Representação
 | 1   | 0   | 0     |
 | 1   | 1   | 1     |
 
-![[Pasted image 20240321191805.png]]
+![[porta AND.png]]
 ```
 ### A porta OR
-
+Uma porta OR produz um nível ALTO na saída quando qualquer das entradas for nível ALTO.
 ```ad-summary
 title:tabela Verdade e Representação
 
@@ -55,9 +55,10 @@ title:tabela Verdade e Representação
 | 1   | 0   | 1     |
 | 1   | 1   | 1     |
 
-![[]]
+![[porta OR.png]]
 ```
 ### A porta NAND
+
 ### A porta NOR
 
 | A   | B   | Saida |
