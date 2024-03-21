@@ -58,7 +58,7 @@ title:tabela Verdade e Representação
 ![[porta OR.png]]
 ```
 ### A porta NAND
-
+![[porta NAND.png]]
 ### A porta NOR
 
 | A   | B   | Saida |
