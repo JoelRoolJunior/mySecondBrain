@@ -15,7 +15,10 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 4. A Porta NAND 
 5. A Porta NOR 
 6. As Portas OR Exclusivo e NOR Exclusivo
-###
+### O inversor (Gate NOT | Porta NOT)
+O trabalho da porta NOT é inverter o sinal de entrada.
+Se for a entrada for 0 a saída vai ser 1.
+Se for a entrada for 0 a saída vai ser 0.
 
 ## Referencias
 - **LIVROS**:
@@ -37,7 +40,8 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 1.   **FUNÇÕES LÓGICAS E PORTAS LÓGICAS **
 	- PORTAS LÓGICAS BÁSICAS AND, OR, NOT, NAND, NOR ­ TABELAS ­VERDADE 
 	- FUNÇÕES XOR E XNOR 
-	- CONVERSÃO ENTRE EXPRESSÕES BOOLEANAS E CIRCUITOS LÓGICOS 1.4 CONVERSÃO ENTRE TABELAS ­VERDADE E CIRCUITOS LÓGICOS
+	- CONVERSÃO ENTRE EXPRESSÕES BOOLEANAS E CIRCUITOS LÓGICOS 
+	- CONVERSÃO ENTRE TABELAS ­VERDADE E CIRCUITOS LÓGICOS
 2.   **ÁLGEBRA BOOLEANA **
 	- TEOREMAS DA ÁLGEBRA BOOLEANA 
 	- MAPAS DE KARNAUGH 
