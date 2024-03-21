@@ -25,6 +25,8 @@ title:tabela Verdade e Representação
 | :-----: | :---: |
 |    0    |   1   |
 |    1    |   0   |
+
+![[porta NOT.png]]
 ```
 
 ### A porta AND
@@ -39,7 +41,7 @@ title:tabela Verdade e Representação
 | 1   | 0   | 0     |
 | 1   | 1   | 1     |
 
-![[porta NOT.png]]
+![[Pasted image 20240321191805.png]]
 ```
 ### A porta OR
 
@@ -53,7 +55,7 @@ title:tabela Verdade e Representação
 | 1   | 0   | 1     |
 | 1   | 1   | 1     |
 
-![[Pasted image 20240321190758.png]]
+![[]]
 ```
 ### A porta NAND
 ### A porta NOR

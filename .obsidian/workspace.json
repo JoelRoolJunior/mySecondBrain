@@ -11,9 +11,11 @@
             "id": "055581e1dd3a5a32",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Arquivos/Pasted image 20240321190758.png"
+                "file": "Notas/Sistemas Digitais.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -21,13 +23,14 @@
             "id": "d22c8d7f14bca52b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
+                "file": "Arquivos/porta AND.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Pasted image 20240321190758.png",
+                "file": "Arquivos/porta AND.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Pasted image 20240321190758.png",
+                "file": "Arquivos/porta AND.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Pasted image 20240321190758.png"
+                "file": "Arquivos/porta AND.png"
               }
             }
           }
@@ -191,12 +194,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "055581e1dd3a5a32",
+  "active": "d22c8d7f14bca52b",
   "lastOpenFiles": [
     "Notas/Sistemas Digitais.md",
-    "Arquivos/Pasted image 20240321190758.png",
+    "Arquivos/porta AND.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta NOT.png",
+    "Arquivos/porta OR.png",
+    "Arquivos/Pasted image 20240321190955.png",
+    "Arquivos/Pasted image 20240321190758.png",
     "Arquivos/Partes de um Objeto.png",
     "Arquivos/Pasted image 20240321184601.png",
     "Notas/Sistemas.md",
@@ -210,9 +216,6 @@
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Histograma.png",
     "Arquivos/Gráfico de Linhas.png",
-    "Arquivos/gráfico de barras.png",
-    "Arquivos/Exemplo de objeto em UML.png",
-    "Arquivos/Exemplo de classe em UML.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Modelagem de sistemas em UML.md",
