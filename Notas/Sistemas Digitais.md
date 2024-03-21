@@ -8,7 +8,9 @@ title: Conceito de uma grandeza analógica e grandeza digital
 Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma grandeza **==digital==** é aquela que apresenta valores discretos. A maioria daquilo que se pode medir quantitativamente na natureza se encontra na forma analógica.
 ```
 
-Oper
+## FUNÇÕES LÓGICAS E PORTAS LÓGICAS
+
+
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
