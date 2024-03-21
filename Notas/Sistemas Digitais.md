@@ -9,7 +9,13 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 ```
 
 ## FUNÇÕES LÓGICAS E PORTAS LÓGICAS
-
+1. O Inversor 
+2. A Porta AND 
+3. A Porta OR 
+4. A Porta NAND 
+5. A Porta NOR 
+6. As Portas OR Exclusivo e NOR Exclusivo
+###
 
 ## Referencias
 - **LIVROS**:
