@@ -82,7 +82,7 @@ title:tabela Verdade e Representação
 | 1   | 0   | 0     |
 | 1   | 1   | 0     |
 
-![[porta NAND.png]]
+![[porta NOR.png]]
 ```
 
 ## Referencias
