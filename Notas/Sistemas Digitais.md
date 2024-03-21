@@ -53,7 +53,7 @@ title:tabela Verdade e Representação
 | 1   | 0   | 1     |
 | 1   | 1   | 1     |
 
-![[porta NOT.png]]
+![[Pasted image 20240321190758.png]]
 ```
 ### A porta NAND
 ### A porta NOR
