@@ -58,15 +58,33 @@ title:tabela Verdade e Representação
 ![[porta OR.png]]
 ```
 ### A porta NAND
-![[porta NAND.png]]
-### A porta NOR
+Uma porta NAND produz uma saída de nível BAIXO apenas quando todas as entradas estive- rem em nível ALTO
+```ad-summary
+title:tabela Verdade e Representação
 
 | A   | B   | Saida |
 | --- | --- | ----- |
-| 0   | 0   | 0     |
+| 0   | 0   | 1     |
 | 0   | 1   | 0     |
 | 1   | 0   | 0     |
-| 1   | 1   | 1     |
+| 1   | 1   | 0     |
+
+![[porta NAND.png]]
+```
+### A porta NOR
+```ad-summary
+title:tabela Verdade e Representação
+
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 1     |
+| 0   | 1   | 0     |
+| 1   | 0   | 0     |
+| 1   | 1   | 0     |
+
+![[porta NAND.png]]
+```
+
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
