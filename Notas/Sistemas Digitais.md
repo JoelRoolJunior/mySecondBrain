@@ -9,24 +9,22 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 ```
 
 ## FUNÇÕES LÓGICAS E PORTAS LÓGICAS
-1. [[O Inversor]]
-2. A Porta AND 
-3. A Porta OR 
-4. A Porta NAND 
-5. A Porta NOR 
-6. As Portas OR Exclusivo e NOR Exclusivo
+1. O Inversor
+3. A Porta AND 
+4. A Porta OR 
+5. A Porta NAND 
+6. A Porta NOR 
+7. As Portas OR Exclusivo e NOR Exclusivo
 ### O inversor (Gate NOT | Porta NOT)
 O trabalho da porta NOT é inverter o sinal de entrada.
-Se for a entrada for 0 a saída vai ser 1.
-Se for a entrada for 1 a saída vai ser 0.
-
-**Tabela da Verdade**
+```ad-summary
+title:tabela Verdade
 
 | Entrada | Saida |
 | :-----: | :---: |
 |    0    |   1   |
 |    1    |   0   |
-
+```
 
 ## Referencias
 - **LIVROS**:
