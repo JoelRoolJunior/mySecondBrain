@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2be06cd80aa6eccf",
+        "id": "f4b987fb3cc3bda5",
         "type": "tabs",
         "children": [
           {
-            "id": "6573d9a06effbb98",
+            "id": "5ff6b6124195c1db",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
+                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
+                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf"
+                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
               }
             }
           }
@@ -180,30 +180,31 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "6573d9a06effbb98",
+  "active": "5ff6b6124195c1db",
   "lastOpenFiles": [
+    "Notas/Sistemas Digitais.md",
+    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Notas/Estatística e Probabilidade.md",
     "Templates/study_template.md",
     "Notas/MATEMÁTICA.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Arquivos/Partes de um Objeto.png",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Histograma.png",
     "Arquivos/Gráfico de Linhas.png",
     "Arquivos/gráfico de barras.png",
-    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/Exemplo de objeto em UML.png",
     "Arquivos/Exemplo de classe em UML.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/classificação das Variáveis.png",
-    "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Arquivos/boxplot.png",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Notas/Sistemas Digitais.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
@@ -212,7 +213,6 @@
     "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
     "flashcards",
     "Notas/Métodos de estudo.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/aula de sistemas distribuidos.md",
     "Templates/note_template.md",
