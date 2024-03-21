@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Sistemas Digitais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Sistemas Digitais.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
+                "file": "Notas/Sistemas Digitais.md"
               }
             }
           }
@@ -194,10 +193,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d22c8d7f14bca52b",
+  "active": "055581e1dd3a5a32",
   "lastOpenFiles": [
-    "Notas/Sistemas Digitais.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+    "Notas/Sistemas Digitais.md",
     "Notas/Sistemas.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁREA DE TRABALHO.canvas",

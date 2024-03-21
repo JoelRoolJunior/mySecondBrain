@@ -17,7 +17,7 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 7. As Portas OR Exclusivo e NOR Exclusivo
 ### O inversor (Gate NOT | Porta NOT)
 O trabalho da porta NOT é inverter o sinal de entrada.
-Expressão lógica : A' ou $$
+Expressão lógica : A' 
 ```ad-summary
 title:tabela Verdade
 
@@ -27,6 +27,19 @@ title:tabela Verdade
 |    1    |   0   |
 ```
 
+### A porta AND
+Uma porta AND produz uma saída de nível ALTO apenas quando todas as entradas forem nível ALTO.
+```ad-summary
+title:tabela Verdade
+
+| Entrada | Saida |
+| :-----: | :---: |
+|    0    |   1   |
+|    1    |   0   |
+```
+### A porta OR
+### A porta NAND
+### A porta NOR
 
 ## Referencias
 - **LIVROS**:
