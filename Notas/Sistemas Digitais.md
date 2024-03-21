@@ -1,8 +1,10 @@
 # Sistemas Digitais
 created:: 2024-03-06 18:59
-tags:: #CIÊNCIA_DA_COMPUTAÇÃO
+tags:: #CIÊNCIA_DA_COMPUTAÇÃO #eletronica 
 people:
 
+## Grandezas Lógicas e Digitais
+Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma grandeza **==digital==** é aquela que apresenta valores discretos. A maioria daquilo que se pode medir quantitativamente na natureza se encontra na forma analógica.[FLOYD, Thomas - Sistemas Digitais, pagina 20](FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf#page=20&selection=48,0,57,40|FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007), page 20)
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
