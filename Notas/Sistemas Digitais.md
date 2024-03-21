@@ -9,7 +9,7 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 ```
 
 ## FUNÇÕES LÓGICAS E PORTAS LÓGICAS
-1. O Inversor ^069691
+1. O Inversor
 3. A Porta AND 
 4. A Porta OR 
 5. A Porta NAND 
@@ -39,8 +39,24 @@ title:tabela Verdade e Representação
 | 1   | 0   | 0     |
 | 1   | 1   | 1     |
 
-[[PORTA NOT.png]]
+![[porta NOT.png]]
 ```
+### A porta OR
+
+```ad-summary
+title:tabela Verdade e Representação
+
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 0     |
+| 0   | 1   | 1     |
+| 1   | 0   | 1     |
+| 1   | 1   | 1     |
+
+![[porta NOT.png]]
+```
+### A porta NAND
+### A porta NOR
 
 | A   | B   | Saida |
 | --- | --- | ----- |
@@ -48,11 +64,6 @@ title:tabela Verdade e Representação
 | 0   | 1   | 0     |
 | 1   | 0   | 0     |
 | 1   | 1   | 1     |
-
-### A porta OR
-### A porta NAND
-### A porta NOR
-
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
