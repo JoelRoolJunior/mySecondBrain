@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "613cefefcc90962a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/porta XNOR.png"
+              }
+            }
+          },
+          {
             "id": "055581e1dd3a5a32",
             "type": "leaf",
             "state": {
@@ -30,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,6 +207,7 @@
   },
   "active": "055581e1dd3a5a32",
   "lastOpenFiles": [
+    "Arquivos/porta XNOR.png",
     "Notas/Sistemas Digitais.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",
@@ -208,7 +219,6 @@
     "Arquivos/Pasted image 20240321190955.png",
     "Arquivos/Pasted image 20240321190758.png",
     "Arquivos/Partes de um Objeto.png",
-    "Arquivos/Pasted image 20240321184601.png",
     "Notas/Sistemas.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁREA DE TRABALHO.canvas",

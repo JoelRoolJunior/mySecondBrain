@@ -19,7 +19,7 @@ Uma grandeza **==analógica==** é aquela que apresenta valores contínuos. Uma 
 O trabalho da porta NOT é inverter o sinal de entrada.
 Expressão lógica : A' 
 ```ad-summary
-title:tabela Verdade e Representação
+title: Porta NOT tabela Verdade e Representação
 
 | Entrada | Saida |
 | :-----: | :---: |
@@ -32,7 +32,7 @@ title:tabela Verdade e Representação
 ### A porta AND
 Uma porta AND produz uma saída de nível ALTO apenas quando todas as entradas forem nível ALTO.
 ```ad-summary
-title:tabela Verdade e Representação
+title:Porta AND tabela Verdade e Representação
 
 | A   | B   | Saida |
 | --- | --- | ----- |
@@ -46,7 +46,7 @@ title:tabela Verdade e Representação
 ### A porta OR
 Uma porta OR produz um nível ALTO na saída quando qualquer das entradas for nível ALTO.
 ```ad-summary
-title:tabela Verdade e Representação
+title:Porta OR tabela Verdade e Representação
 
 | A   | B   | Saida |
 | --- | --- | ----- |
@@ -60,7 +60,7 @@ title:tabela Verdade e Representação
 ### A porta NAND
 Uma porta NAND produz uma saída de nível BAIXO apenas quando todas as entradas estive- rem em nível ALTO
 ```ad-summary
-title:tabela Verdade e Representação
+title:Porta NAND tabela Verdade e Representação
 
 | A   | B   | Saida |
 | --- | --- | ----- |
@@ -72,8 +72,9 @@ title:tabela Verdade e Representação
 ![[porta NAND.png]]
 ```
 ### A porta NOR
+Uma porta NOR produz uma saída de nível BAIXO quando qualquer uma de suas entradas for nível ALTO. 
 ```ad-summary
-title:tabela Verdade e Representação
+title:Porta NOR tabela Verdade e Representação
 
 | A   | B   | Saida |
 | --- | --- | ----- |
@@ -99,6 +100,20 @@ title:tabela Verdade e Representação
 
 ![[porta EX-OR.png]]
 ```
+
+```ad-summary
+title:tabela Verdade e Representação
+
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 1     |
+| 0   | 1   | 0     |
+| 1   | 0   | 0     |
+| 1   | 1   | 1     |
+
+![[porta XNOR.png]]
+```
+
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
