@@ -65,8 +65,8 @@ title:tabela Verdade e Representação
 | A   | B   | Saida |
 | --- | --- | ----- |
 | 0   | 0   | 1     |
-| 0   | 1   | 0     |
-| 1   | 0   | 0     |
+| 0   | 1   | 1     |
+| 1   | 0   | 1     |
 | 1   | 1   | 0     |
 
 ![[porta NAND.png]]
