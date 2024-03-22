@@ -85,6 +85,20 @@ title:tabela Verdade e Representação
 ![[porta NOR.png]]
 ```
 
+### As Portas OR Exclusivo e NOR Exclusivo
+A saída de uma porta OR exclusivo (EX-OR) é nível ALTO apenas quando as duas entradas estão em níveis lógicos opostos.
+```ad-summary
+title:tabela Verdade e Representação
+
+| A   | B   | Saida |
+| --- | --- | ----- |
+| 0   | 0   | 0     |
+| 0   | 1   | 1     |
+| 1   | 0   | 1     |
+| 1   | 1   | 0     |
+
+![[porta EX-OR.png]]
+```
 ## Referencias
 - **LIVROS**:
 	- **Bibliografia básica**
