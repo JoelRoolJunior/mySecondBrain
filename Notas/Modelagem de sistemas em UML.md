@@ -72,6 +72,7 @@ existem três momentos do entendimento e validação dos modelos junto aos usuá
 **Equipe Construindo modelos:** A equipe de desenvolvimento constrói os modelos que julga pertinentes para compreender e destacar aspectos relevantes da realidade
 **Equipe Validando dados junto aos usuários:** validação com os usuário para garantir que o(s) modelo(s) representam de fato a realidade
 
+---
 ## PARADIGMA ORIENTADO A OBJETOS
 **Pilares da Programação Orientada a Objetos:**
 - abstração
