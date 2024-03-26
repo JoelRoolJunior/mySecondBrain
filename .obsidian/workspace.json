@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Sistemas Digitais.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "613cefefcc90962a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/porta XNOR.png"
-              }
-            }
-          },
-          {
-            "id": "055581e1dd3a5a32",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -140,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf"
+                "file": "Notas/Modelagem de sistemas em UML.md"
               }
             }
           }
@@ -205,10 +184,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "055581e1dd3a5a32",
+  "active": "8606c386af57076d",
   "lastOpenFiles": [
-    "Arquivos/porta XNOR.png",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/Sistemas Digitais.md",
+    "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",
     "Arquivos/porta NOR.png",
@@ -240,7 +220,6 @@
     "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
     "flashcards",
     "Notas/Métodos de estudo.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/aula de sistemas distribuidos.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",

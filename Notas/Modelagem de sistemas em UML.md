@@ -119,7 +119,7 @@ As necessidades e os desejos que os usuários têm são, tecnicamente, chamados 
 **Requisitos não Funcionais:** Apresentam algumas características associadas a uma, algumas ou todas as funcionalidades, e dizem respeito a aspectos de qualidade, confiabilidade, desempenho, portabilidade, segurança e usabilidade do sistema.
 ```
 
-==Um ponto a ser estudado é o documento de Requisitos==
+==Um ponto a ser estudado é o **documento de Requisitos==**
 
 ```ad-tip
 title:Dica
