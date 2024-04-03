@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md"
+                "file": "Notas/Estatística e Probabilidade.md"
               }
             }
           }
@@ -186,7 +185,10 @@
   },
   "active": "8606c386af57076d",
   "lastOpenFiles": [
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/Modelagem de sistemas em UML.md",
     "Notas/Sistemas Digitais.md",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
@@ -200,8 +202,6 @@
     "Arquivos/Pasted image 20240321190758.png",
     "Arquivos/Partes de um Objeto.png",
     "Notas/Sistemas.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Notas/Estatística e Probabilidade.md",
     "Templates/study_template.md",
@@ -209,7 +209,6 @@
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
