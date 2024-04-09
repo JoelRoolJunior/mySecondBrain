@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8744aa32fefcc04",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/IncluseMind.md",
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/IncluseMind.md",
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/IncluseMind.md"
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
               }
             }
           }
@@ -183,9 +195,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "994144bd840dcf58",
+  "active": "b8744aa32fefcc04",
   "lastOpenFiles": [
     "Projetos/IncluseMind.md",
+    "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -229,7 +242,6 @@
     "Diario/2024-03-08.md",
     "Diario/2024-03-13.md",
     "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
