@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a13ed1c093530256",
+        "id": "5d2d81d534e23091",
         "type": "tabs",
         "children": [
           {
-            "id": "8606c386af57076d",
+            "id": "994144bd840dcf58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Projetos/IncluseMind.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Projetos/IncluseMind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Projetos/IncluseMind.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md"
+                "file": "Projetos/IncluseMind.md"
               }
             }
           }
@@ -183,8 +183,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8606c386af57076d",
+  "active": "994144bd840dcf58",
   "lastOpenFiles": [
+    "Projetos/IncluseMind.md",
+    "Notas/Estatística e Probabilidade.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
@@ -203,7 +205,6 @@
     "Arquivos/Partes de um Objeto.png",
     "Notas/Sistemas.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
-    "Notas/Estatística e Probabilidade.md",
     "Templates/study_template.md",
     "Notas/MATEMÁTICA.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
