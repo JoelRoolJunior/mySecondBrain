@@ -6,7 +6,9 @@ people::
 ## Descrição do projeto
 > O objetivo do projeto é criar um aplicativo que auxilie pessoas com espectro autista e pessoas com TDAH.
 > O aplicativo deve ser capaz de trazer informações relevantes sobre assuntos relacionados a autismo e TDAH. Como se fosse um centro de informações para quem se interessa pelo assunto.
-> Nosso publico alvo 
+> Nosso publico alvo são pessoas próximas a quem foi diagnosticado com TDAH e Autismo.
+
+
 
 ---
 ## Referencias
