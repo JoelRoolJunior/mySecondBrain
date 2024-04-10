@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b8744aa32fefcc04",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"

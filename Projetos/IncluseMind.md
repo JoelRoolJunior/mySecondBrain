@@ -8,6 +8,10 @@ people::
 > O aplicativo deve ser capaz de trazer informações relevantes sobre assuntos relacionados a autismo e TDAH. Como se fosse um centro de informações para quem se interessa pelo assunto.
 > Nosso publico alvo são pessoas próximas a quem foi diagnosticado com TDAH e Autismo.
 
+Aqui vai um pouco do meu relato:
+não gosto nem um pouco da ideia do meu projeto, afinal foi escolhido por terceiros. Bem, tirando meu desgosto, Estou tentando fazer algo no Android Studio tendo como base o aplicativo "Matraquinha". Vou tentar clonar o aplicativo mesmo, pelo menos desse jeito vou aprender mais sobre o Android Studio.
+
+
 
 
 ---
