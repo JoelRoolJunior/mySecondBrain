@@ -10,6 +10,7 @@ people::
 
 Aqui vai um pouco do meu relato:
 não gosto nem um pouco da ideia do meu projeto, afinal foi escolhido por terceiros. Bem, tirando meu desgosto, Estou tentando fazer algo no Android Studio tendo como base o aplicativo "Matraquinha". Vou tentar clonar o aplicativo mesmo, pelo menos desse jeito vou aprender mais sobre o Android Studio.
+Mais uma adição por ser escolhido por terceiros: Segundo eles, Meu grupo, era mais fácil isso do que 
 
 
 
