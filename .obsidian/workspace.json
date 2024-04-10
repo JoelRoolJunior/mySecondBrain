@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -184,7 +183,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0a2dc442d87e4072",
+  "active": "994144bd840dcf58",
   "lastOpenFiles": [
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
