@@ -23,9 +23,9 @@
             "id": "b8744aa32fefcc04",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.png"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
+                "file": "Projetos/IncluseMind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
+                "file": "Projetos/IncluseMind.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
+                "file": "Projetos/IncluseMind.md"
               }
             }
           }
@@ -195,10 +195,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b8744aa32fefcc04",
+  "active": "0a2dc442d87e4072",
   "lastOpenFiles": [
-    "Projetos/IncluseMind.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
+    "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
+    "Projetos/IncluseMind.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -215,7 +216,6 @@
     "Arquivos/porta NOT.png",
     "Arquivos/Pasted image 20240321190955.png",
     "Arquivos/Pasted image 20240321190758.png",
-    "Arquivos/Partes de um Objeto.png",
     "Notas/Sistemas.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Templates/study_template.md",
@@ -241,7 +241,6 @@
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Diario/2024-03-08.md",
     "Diario/2024-03-13.md",
-    "Notas/Drawing 2024-03-13 13.42.37.excalidraw.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
