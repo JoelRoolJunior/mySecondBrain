@@ -1,7 +1,8 @@
-# study_template
+# Matérias de ciência da computação
 created:: 2024-03-14 16:47
-tags:: #CIÊNCIA_DA_COMPUTAÇÃO 
+tags::
 people::
+
 
 - INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C
 - ARQUITETURA DE COMPUTADORES
@@ -42,6 +43,8 @@ people::
 - ALGORITMOS DE PROCESSAMENTO DE IMAGEM
 - COMPILADORES
 - SEGURANÇA CIBERNÉTICA
+
+---
 ## Referencias
 - **LIVROS**:
 	1. 
