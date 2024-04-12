@@ -1,4 +1,4 @@
-# study_template
+# {{title}}
 created:: 2024-03-14 16:47
 tags::
 people::

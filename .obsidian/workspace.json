@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+                "file": "Notas/Matérias de ciência da computação.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Matérias de ciência da computação.md",
+                "file": "Templates/study_template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,9 +195,17 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "12ea0347eb59023f",
+  "active": "994144bd840dcf58",
   "lastOpenFiles": [
+    "Notas/Sistemas Digitais.md",
+    "Notas/Sistemas.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Templates/study_template.md",
+    "Templates/note_template.md",
+    "Templates/moc_template.md",
+    "Templates/daily_template.md",
     "Notas/Matérias de ciência da computação.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
@@ -207,7 +214,6 @@
     "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Modelagem de sistemas em UML.md",
-    "Notas/Sistemas Digitais.md",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",
@@ -218,17 +224,13 @@
     "Arquivos/porta NOT.png",
     "Arquivos/Pasted image 20240321190955.png",
     "Arquivos/Pasted image 20240321190758.png",
-    "Notas/Sistemas.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
-    "Templates/study_template.md",
     "Notas/MATEMÁTICA.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
     "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
@@ -236,9 +238,6 @@
     "flashcards",
     "Notas/Métodos de estudo.md",
     "Notas/aula de sistemas distribuidos.md",
-    "Templates/note_template.md",
-    "Templates/moc_template.md",
-    "Templates/daily_template.md",
     "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Diario/2024-03-08.md",
