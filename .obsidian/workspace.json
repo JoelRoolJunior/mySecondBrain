@@ -11,14 +11,11 @@
             "id": "994144bd840dcf58",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
-                "viewState": {
-                  "x": -291.0617684478377,
-                  "y": -215.16246819338411,
-                  "zoom": -0.445908174537552
-                }
+                "file": "Notas/PRODUTIVIDADE.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -34,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Templates/study_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "file": "Templates/study_template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas"
+                "file": "Templates/study_template.md"
               }
             }
           }
@@ -198,20 +196,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "994144bd840dcf58",
+  "active": "12ea0347eb59023f",
   "lastOpenFiles": [
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/Esquema de flynn.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Sistemas.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Templates/study_template.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Projetos/IncluseMind.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
@@ -232,10 +232,8 @@
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Notas/PRODUTIVIDADE.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
-    "Notas/Esquema de flynn.md",
     "flashcards/Esquema de flynn.md",
     "flashcards/Drawing 2024-03-17 20.52.27.excalidraw.md",
     "flashcards",
@@ -244,7 +242,6 @@
     "Notas/Drawing 2024-03-15 17.49.50.excalidraw.md",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Diario/2024-03-08.md",
-    "Diario/2024-03-13.md",
     "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas",
