@@ -11,11 +11,14 @@
             "id": "994144bd840dcf58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas/Matérias de ciência da computação.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "viewState": {
+                  "x": -291.0617684478377,
+                  "y": -215.16246819338411,
+                  "zoom": -0.445908174537552
+                }
               }
             }
           },
@@ -130,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Matérias de ciência da computação.md",
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Matérias de ciência da computação.md",
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Matérias de ciência da computação.md"
+                "file": "Notas/ÁREA DE TRABALHO.canvas"
               }
             }
           }
@@ -197,6 +200,7 @@
   },
   "active": "994144bd840dcf58",
   "lastOpenFiles": [
+    "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Sistemas.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
@@ -206,7 +210,6 @@
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
-    "Notas/Matérias de ciência da computação.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Projetos/IncluseMind.md",
