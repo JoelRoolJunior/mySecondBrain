@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5361bf505766101e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Estrutura XML do excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/study_template.md",
+                "file": "Notas/Estrutura XML do excel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/study_template.md",
+                "file": "Notas/Estrutura XML do excel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/study_template.md"
+                "file": "Notas/Estrutura XML do excel.md"
               }
             }
           }
@@ -196,8 +208,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "12ea0347eb59023f",
+  "active": "5361bf505766101e",
   "lastOpenFiles": [
+    "Templates/study_template.md",
+    "Notas/Estrutura XML do excel.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Esquema de flynn.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
@@ -208,7 +222,6 @@
     "Notas/Sistemas.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
-    "Templates/study_template.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
