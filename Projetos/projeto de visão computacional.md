@@ -4,8 +4,10 @@ tags::
 people::
 
 # Visão computacional com um linha de pixel
-## Obejtivo
-pesquisa como a visão computacional pode
+## Objetivo
+pesquisa pequena de como a visão computacional pode ser usada com apenas uma linha de pixel.
+
+tomei como referências 
 
 ---
 ## Referencias
