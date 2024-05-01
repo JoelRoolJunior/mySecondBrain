@@ -6,8 +6,7 @@ people::
 # Visão computacional com um linha de pixel
 ## Objetivo
 pesquisa pequena de como a visão computacional pode ser usada com apenas uma linha de pixel.
-
-tomei como referências um vídeo do canal do youtube universo programado
+tomei como referências um vídeo do canal do youtube "universo programado"
 
 ---
 ## Referencias
