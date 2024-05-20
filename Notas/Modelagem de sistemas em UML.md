@@ -18,9 +18,9 @@ OBJETIVOS
 
 ### O que são modelos e para que eles servem
 - uma simplificação da realidade
-- Modelo: *representação abstrata e simplificada da realidade.*
-- Finalidade principal: *antecipar a existência de uma realidade de forma a avaliar sua estrutura e comportamento.*
-- exemplos: Maquetes, planta baixa de uma casa e etc
+- **Modelo:** *representação abstrata e simplificada da realidade.*
+- **Finalidade principal:** *antecipar a existência de uma realidade de forma a avaliar sua estrutura e comportamento.*
+- **exemplos:** Maquetes, planta baixa de uma casa e etc.
 ### Modelos se aplicam ao contexto de desenvolvimento de sistemas?
 - funciona também como instrumento de gerenciamento de complexidade.
 - ajuda no processo de abstração

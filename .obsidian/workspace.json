@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/projeto de visão computacional.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/projeto de visão computacional.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/projeto de visão computacional.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projetos/projeto de visão computacional.md"
+                "file": "Notas/Modelagem de sistemas em UML.md"
               }
             }
           }
@@ -210,13 +210,13 @@
   },
   "active": "3f1b3deced0aaf56",
   "lastOpenFiles": [
-    "Notas/PRODUTIVIDADE.md",
-    "Notas/Estrutura XML do excel.md",
-    "Projetos/projeto de visão computacional.md",
-    "Templates/study_template.md",
-    "Notas/Esquema de flynn.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Projetos/projeto de visão computacional.md",
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/Estrutura XML do excel.md",
+    "Templates/study_template.md",
+    "Notas/Esquema de flynn.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
