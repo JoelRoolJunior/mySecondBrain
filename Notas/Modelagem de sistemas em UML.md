@@ -112,6 +112,7 @@ De forma simples, pode-se dizer que a atividade de análise visa identificar  *
 ```ad-info
 A preocupação da atividade de análise é identificar: O QUE o sistema deve fazer para atender às necessidades de seus usuários.**
 ```
+##### Levantamento de requisitos
 ```ad-note
 As necessidades e os desejos que os usuários têm são, tecnicamente, chamados de **requisitos**.
 ```
@@ -130,7 +131,11 @@ No documento de requisitos estará definido, também, o escopo do sistema.
 
 ```
 
+O principal ponto da fase de levantamento de requisitos é compreender profundamente no sistema antes de iniciar a sua construção.
 
+### Análise de requisitos
+- um requisito funcional pode demandar mais de uma funcionalidade e uma funcionalidade pode agregar mais de um requisito funcional.
+- 
 
 ---
 ## Referencias
