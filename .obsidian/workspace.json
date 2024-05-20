@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas/Modelagem de sistemas em UML.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
