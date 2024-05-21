@@ -184,17 +184,21 @@ Como exemplo, podemos citar o modelo de camadas mais usado nos últimos anos, o 
 textAling=center
 ===
 ```col-md
-**Apresentação**
+> **Apresentação**
 Compreende as classes do sistema que permitem a interação com o usuário, as chamadas classes de fronteira.
 ```
 ```col-md
-**Negócio**
+>**Negócio**
 Compreende as classes responsáveis pelos serviços e pelas regras do negócio, ou seja, reúne as classes de controle e negócio.
 ```
 ```col-md
-**Dados**
+>**Dados**
+Responsável pelo armazenamento e pela recuperação dos dados persistentes do sistema, ou seja, as classes de persistência de dados.
 ```
 ````
+
+
+
 
 ---
 ## Referencias
