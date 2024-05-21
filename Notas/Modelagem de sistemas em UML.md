@@ -116,10 +116,9 @@ A preocupação da atividade de análise é identificar: O QUE o sistema deve fa
 ```ad-note
 As necessidades e os desejos que os usuários têm são, tecnicamente, chamados de **requisitos**.
 ```
-```ad-important
+
 **Requisitos Funcionais:** Declaram as funcionalidades necessárias ao sistema.
 **Requisitos não Funcionais:** Apresentam algumas características associadas a uma, algumas ou todas as funcionalidades, e dizem respeito a aspectos de qualidade, confiabilidade, desempenho, portabilidade, segurança e usabilidade do sistema.
-```
 
 ==Um ponto a ser estudado é o **documento de Requisitos**==
 
@@ -143,7 +142,13 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 	- diagramas de casos de uso
 	- diagrama de classes. 
 	- Além desses, ajudam também diagramas de interação e de estados, em alguns casos.
-### PROJETO (DESENHO) DE SISTEMAS ORIENTADO A OBJETOS
+
+## PROJETO (DESENHO) DE SISTEMAS ORIENTADO A OBJETOS
+- A atividade de projeto denota uma solução, voltada a atender aos requisitos identificados na fase de análise, considerando os recursos tecnológicos necessários para implementar os objetos do domínio e os objetos da aplicação.
+- ==O objetivo é decidir “**como o sistema funcionará**” para atender aos requisitos.==
+- A fase de projeto pode ser dividida em:
+	- [[PROJETO DA ARQUITETURA]]
+	- [[PROJETO DETALHADO]]
 
 ---
 ## Referencias
