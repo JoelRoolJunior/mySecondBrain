@@ -181,11 +181,15 @@ Projeto pode ser traduzido em “faça certo a coisa”.
 Como exemplo, podemos citar o modelo de camadas mais usado nos últimos anos, o de três camadas, que engloba as camadas de:
 
 ````col
+textAling=center
+===
 ```col-md
 **Apresentação**
+Compreende as classes do sistema que permitem a interação com o usuário, as chamadas classes de fronteira.
 ```
 ```col-md
 **Negócio**
+Compreende as classes responsáveis pelos serviços e pelas regras do negócio, ou seja, reúne as classes de controle e negócio.
 ```
 ```col-md
 **Dados**
