@@ -157,7 +157,28 @@ Projeto pode ser traduzido em “faça certo a coisa”.
 ```
 
 ## DESENVOLVIMENTO DE SISTEMAS EM CAMADAS
+```ad-important
+À medida que os sistemas cresceram e se tornaram complexos, a manutenção ficou mais difícil e a divisão em camadas foi uma das soluções encontradas para o projeto de arquitetura de um software.
+```
 
+**As camadas em geral:** 
+- Possuem alta coesão e baixo acoplamento, ou seja, concentram atividades afins (coesão) e são independentes umas das outras.  
+- Possuem propósito bem definido.  
+- A camada superior tem conhecimento apenas da imediatamente inferior, que fornece os serviços, por uma interface.
+
+#### Vantagens
+- Torna o código mais organizado e legível.  
+- Permite o desenvolvimento, o teste e a manutenção das camadas isoladamente.  
+- Permite melhor reuso do código ou dos objetos.  
+- Pode substituir uma tecnologia que implemente uma camada, de forma simples, sem interferir nas demais. Por exemplo, para trocar o SGBD de SQL Server para PostgreSQL, basta alterar a camada de persistência. As demais permanecem como estavam.  
+- Disciplina as dependências entre as camadas.  
+- Mais adaptável a uma quantidade maior de usuários.
+#### Desvantagens
+- Aumenta o número de classes do sistema.  
+- A adição de camadas torna o sistema mais complexo.  
+- Potencialmente, reduz o desempenho do software.
+
+Como exemplo, podemos citar o modelo de camadas mais usado nos últimos anos, o de três camadas, que engloba as camadas de:
 
 ---
 ## Referencias
