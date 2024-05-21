@@ -180,10 +180,17 @@ Projeto pode ser traduzido em “faça certo a coisa”.
 
 Como exemplo, podemos citar o modelo de camadas mais usado nos últimos anos, o de três camadas, que engloba as camadas de:
 
+````col
+```col-md
+**Apresentação**
 ```
-col-md flexGrow=2 === MD to be rendered
+```col-md
+**Negócio**
 ```
-
+```col-md
+**Dados**
+```
+````
 
 ---
 ## Referencias
