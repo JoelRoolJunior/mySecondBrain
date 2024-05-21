@@ -136,8 +136,14 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 ### Análise de requisitos
 - um requisito funcional pode demandar mais de uma funcionalidade e uma funcionalidade pode agregar mais de um requisito funcional.
 - A análise de requisitos tem, minimamente, duas perspectivas ou visões:
-	- **[[ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO)]]** - Visa a identificar ou modelar os objetos que serão usados na aplicação.
-	- **[[ANÁLISE DA APLICAÇÃO]]** - 
+	- **[[ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO)]]** - Objetos do domínio (relacionado ao problema)
+	- **[[ANÁLISE DA APLICAÇÃO]]** - Objetos da aplicação (relacionado a aspectos computacionais de alto nível)
+
+- Os principais diagramas UML usados nas fases de análise são: 
+	- diagramas de casos de uso
+	- diagrama de classes. 
+	- Além desses, ajudam também diagramas de interação e de estados, em alguns casos.
+### PROJETO (DESENHO) DE SISTEMAS ORIENTADO A OBJETOS
 
 ---
 ## Referencias

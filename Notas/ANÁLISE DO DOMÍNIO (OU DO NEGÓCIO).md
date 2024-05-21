@@ -1,1 +1,2 @@
-Visa a identificar ou modelar os objetos que serão usados na aplicação. Por exemplo, **Pagamento** é um objeto no contexto do sistema financeiro, usado para exemplificar os requisitos funcionais. Logo, **Pagamento** é um objeto do domínio, assim como Recebimento e Fatura.
+Visa a identificar ou modelar os objetos que serão usados na aplicação. Por exemplo, **Pagamento** é um objeto no contexto do sistema financeiro, usado para exemplificar os requisitos funcionais. 
+Logo, **Pagamento** é um objeto do domínio, assim como Recebimento e Fatura.
