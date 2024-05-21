@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a110d665f15f3dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/PROJETO DA ARQUITETURA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -223,9 +211,9 @@
   },
   "active": "3f1b3deced0aaf56",
   "lastOpenFiles": [
-    "Notas/PROJETO DA ARQUITETURA.md",
-    "Notas/Modelagem de sistemas em UML.md",
     "Notas/PROJETO DETALHADO.md",
+    "Notas/Modelagem de sistemas em UML.md",
+    "Notas/PROJETO DA ARQUITETURA.md",
     "Notas/ANÁLISE DA APLICAÇÃO.md",
     "Notas/ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO).md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",

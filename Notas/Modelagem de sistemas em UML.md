@@ -142,6 +142,9 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 	- diagramas de casos de uso
 	- diagrama de classes. 
 	- Além desses, ajudam também diagramas de interação e de estados, em alguns casos.
+```ad-info
+Análise pode ser traduzida em ”faça a coisa certa”.
+```
 
 ## PROJETO (DESENHO) DE SISTEMAS ORIENTADO A OBJETOS
 - A atividade de projeto denota uma solução, voltada a atender aos requisitos identificados na fase de análise, considerando os recursos tecnológicos necessários para implementar os objetos do domínio e os objetos da aplicação.
@@ -149,6 +152,12 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 - A fase de projeto pode ser dividida em:
 	- [[PROJETO DA ARQUITETURA]]
 	- [[PROJETO DETALHADO]]
+```ad-info
+Projeto pode ser traduzido em “faça certo a coisa”.
+```
+
+## DESENVOLVIMENTO DE SISTEMAS EM CAMADAS
+
 
 ---
 ## Referencias
