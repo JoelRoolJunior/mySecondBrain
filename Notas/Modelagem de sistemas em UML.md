@@ -135,7 +135,9 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 
 ### Análise de requisitos
 - um requisito funcional pode demandar mais de uma funcionalidade e uma funcionalidade pode agregar mais de um requisito funcional.
-- 
+- A análise de requisitos tem, minimamente, duas perspectivas ou visões:
+	- **[[ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO)]]** - Visa a identificar ou modelar os objetos que serão usados na aplicação.
+	- **[[ANÁLISE DA APLICAÇÃO]]** - 
 
 ---
 ## Referencias
