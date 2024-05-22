@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d57fc1b0c3f31e6b",
+        "id": "7cc6003f8a55ed95",
         "type": "tabs",
         "children": [
           {
-            "id": "c3dc13cac0ffb8da",
+            "id": "8798071b397367b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,22 +184,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c3dc13cac0ffb8da",
+  "active": "8798071b397367b0",
   "lastOpenFiles": [
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/HOME.md",
+    "Notas/análise da aplicação.md",
+    "Notas/DASHBOARD.md",
     "Banners/banner_mesa_de_trabalho.jpg",
     "Banners",
-    "Notas/PRODUTIVIDADE.md",
     "Templates/study_template.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Arquivos/boxplot.png",
-    "Notas/HOME.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/projeto da arquitetura.md",
     "Notas/projeto detalhado.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Análise do domínio (ou do negócio).md",
-    "Notas/análise da aplicação.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "snippets",
     "Nova pasta",
@@ -226,7 +227,6 @@
     "Arquivos/porta OR.png",
     "Arquivos/porta AND.png",
     "Arquivos/porta NOT.png",
-    "Arquivos/Pasted image 20240321190955.png",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
