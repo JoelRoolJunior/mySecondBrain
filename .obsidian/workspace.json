@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/DASHBOARD.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -155,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/DASHBOARD.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/DASHBOARD.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/DASHBOARD.md"
+                "file": "Notas/Modelagem de sistemas em UML.md"
               }
             }
           }
@@ -222,17 +223,18 @@
   },
   "active": "748240a1c6b4beae",
   "lastOpenFiles": [
+    "Notas/PRODUTIVIDADE.md",
+    "Notas/projeto da arquitetura.md",
+    "Notas/projeto detalhado.md",
+    "Notas/Programação orientada a objetos em Java.md",
+    "Notas/Análise do domínio (ou do negócio).md",
+    "Notas/análise da aplicação.md",
+    "Notas/DASHBOARD.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/DASHBOARD.md",
-    "Notas/Análise do domínio (ou do negócio).md",
-    "Notas/projeto da arquitetura.md",
-    "Notas/projeto detalhado.md",
     "snippets",
     "Nova pasta",
-    "Notas/PRODUTIVIDADE.md",
-    "Notas/análise da aplicação.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",

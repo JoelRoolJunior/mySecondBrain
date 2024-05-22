@@ -3,5 +3,7 @@
   "newFileFolderPath": "Notas",
   "attachmentFolderPath": "Arquivos",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true
 }
