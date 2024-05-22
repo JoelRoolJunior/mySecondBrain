@@ -1,7 +1,10 @@
 {
-  "accentColor": "#ffdc5c",
+  "accentColor": "",
   "cssTheme": "Prism",
   "theme": "moonstone",
   "baseFontSizeAction": true,
-  "showViewHeader": true
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "dashboard"
+  ]
 }

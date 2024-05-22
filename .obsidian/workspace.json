@@ -35,12 +35,28 @@
             "id": "3f1b3deced0aaf56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "748240a1c6b4beae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/DASHBOARD.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/DASHBOARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/DASHBOARD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/DASHBOARD.md"
+              }
             }
           }
         ],
@@ -200,18 +220,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3f1b3deced0aaf56",
+  "active": "748240a1c6b4beae",
   "lastOpenFiles": [
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/DASHBOARD.md",
+    "Notas/Análise do domínio (ou do negócio).md",
+    "Notas/projeto da arquitetura.md",
+    "Notas/projeto detalhado.md",
     "snippets",
     "Nova pasta",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
-    "Notas/projeto detalhado.md",
-    "Notas/projeto da arquitetura.md",
     "Notas/PRODUTIVIDADE.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/análise da aplicação.md",
-    "Notas/Análise do domínio (ou do negócio).md",
     "Notas/Modelagem de sistemas em UML.md",
     "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",
@@ -244,11 +265,9 @@
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
-    "Notas/Programação orientada a objetos em Java.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
     "flashcards",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
-    "Excalidraw",
     "Zettels/Untitled.canvas",
     "Untitled.canvas"
   ]
