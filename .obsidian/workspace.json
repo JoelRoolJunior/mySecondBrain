@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
-                "mode": "source",
+                "file": "Notas/DASHBOARD.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/DASHBOARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/DASHBOARD.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md"
+                "file": "Notas/DASHBOARD.md"
               }
             }
           }
@@ -223,6 +222,7 @@
   },
   "active": "748240a1c6b4beae",
   "lastOpenFiles": [
+    "Notas/Modelagem de sistemas em UML.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/projeto da arquitetura.md",
     "Notas/projeto detalhado.md",
@@ -235,7 +235,6 @@
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "snippets",
     "Nova pasta",
-    "Notas/Modelagem de sistemas em UML.md",
     "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",
     "Templates/study_template.md",
