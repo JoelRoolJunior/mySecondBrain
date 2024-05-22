@@ -35,15 +35,8 @@
             "id": "3f1b3deced0aaf56",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
-                "viewState": {
-                  "x": -428.5899582620999,
-                  "y": -314.2945450515035,
-                  "zoom": -0.445908174537552
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -93,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas/ÁREA DE TRABALHO.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -214,11 +202,11 @@
   },
   "active": "3f1b3deced0aaf56",
   "lastOpenFiles": [
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/projeto detalhado.md",
     "Notas/projeto da arquitetura.md",
     "Notas/PRODUTIVIDADE.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/análise da aplicação.md",
     "Notas/Análise do domínio (ou do negócio).md",
