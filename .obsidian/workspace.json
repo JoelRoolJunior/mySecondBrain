@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2d81d534e23091",
+        "id": "d57fc1b0c3f31e6b",
         "type": "tabs",
         "children": [
           {
-            "id": "994144bd840dcf58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/PRODUTIVIDADE.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12ea0347eb59023f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/study_template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f1b3deced0aaf56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "748240a1c6b4beae",
+            "id": "c3dc13cac0ffb8da",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,27 +180,31 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "748240a1c6b4beae",
+  "active": "c3dc13cac0ffb8da",
   "lastOpenFiles": [
-    "Notas/Modelagem de sistemas em UML.md",
+    "Banners/banner_mesa_de_trabalho.jpg",
+    "Banners",
     "Notas/PRODUTIVIDADE.md",
+    "Templates/study_template.md",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Arquivos/boxplot.png",
+    "Notas/DASHBOARD.md",
+    "Notas/Modelagem de sistemas em UML.md",
     "Notas/projeto da arquitetura.md",
     "Notas/projeto detalhado.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Notas/Análise do domínio (ou do negócio).md",
     "Notas/análise da aplicação.md",
-    "Notas/DASHBOARD.md",
     "Notas/ÁREA DE TRABALHO.canvas",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "snippets",
     "Nova pasta",
     "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",
-    "Templates/study_template.md",
     "Notas/Esquema de flynn.md",
     "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
@@ -260,15 +227,12 @@
     "Arquivos/porta AND.png",
     "Arquivos/porta NOT.png",
     "Arquivos/Pasted image 20240321190955.png",
-    "Arquivos/Pasted image 20240321190758.png",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
-    "Notas/MATEMÁTICA.md",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
     "flashcards",
-    "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Zettels/Untitled.canvas",
     "Untitled.canvas"
   ]

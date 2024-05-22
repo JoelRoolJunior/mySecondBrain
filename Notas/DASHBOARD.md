@@ -2,6 +2,7 @@
 cssclasses:
   - dashboard
   - dashboard-ReadLineLength
+banner: "[[banner_mesa_de_trabalho.jpg]]"
 ---
 # Ciência da Computação
 - tópico 1
