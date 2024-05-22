@@ -2,8 +2,12 @@
 cssclasses:
   - dashboard
   - dashboard-ReadLineLength
-banner: "[[banner_mesa_de_trabalho.jpg]]"
+banner: "![[banner_mesa_de_trabalho.jpg]]"
+banner_x: "0.5"
+banner_y: 0.812
 ---
+<div class="title" style="color:white; text-decoration: underline ">HOME</div>
+
 # Ciência da Computação
 - tópico 1
 	- subtópico
