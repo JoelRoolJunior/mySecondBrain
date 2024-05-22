@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -78,7 +79,7 @@
       {
         "id": "b0e4487645f99f1d",
         "type": "tabs",
-        "dimension": 34.83796296296296,
+        "dimension": 34.64658169177289,
         "children": [
           {
             "id": "e12554e16a897815",
@@ -110,7 +111,7 @@
       {
         "id": "e400d1eddabb3a06",
         "type": "tabs",
-        "dimension": 65.16203703703704,
+        "dimension": 23.174971031286212,
         "children": [
           {
             "id": "4c82bae5e84b42fa",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +136,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -158,17 +159,57 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Sistemas distribuídos e computação paralela.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "33e421f3802736fd",
+        "type": "tabs",
+        "dimension": 42.17844727694091,
+        "children": [
+          {
+            "id": "c242c00dd59d88ec",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notas/Sistemas distribuídos e computação paralela.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946918,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,12 +220,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "8798071b397367b0",
   "lastOpenFiles": [
+    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
+    "Notas/Sistemas distribuídos e computação paralela.md",
+    "Notas/Esquema de flynn.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/PRODUTIVIDADE.md",
+    "Notas/Métodos de estudo.md",
+    "Notas/Matérias de ciência da computação.md",
+    "Notas/MATEMÁTICA.md",
     "Notas/HOME.md",
     "Notas/análise da aplicação.md",
     "Notas/DASHBOARD.md",
@@ -192,7 +242,6 @@
     "Banners",
     "Templates/study_template.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Arquivos/boxplot.png",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/projeto da arquitetura.md",
@@ -204,19 +253,13 @@
     "Nova pasta",
     "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",
-    "Notas/Esquema de flynn.md",
-    "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Sistemas.md",
-    "Notas/Sistemas distribuídos e computação paralela.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Templates/note_template.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
     "Projetos/IncluseMind.md",
-    "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
-    "Notas/Estatística e Probabilidade.md",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",

@@ -6,5 +6,5 @@
   "showInlineTitle": false,
   "defaultViewMode": "preview",
   "readableLineLength": true,
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "visible"
 }
