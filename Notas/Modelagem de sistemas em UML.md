@@ -135,8 +135,8 @@ O principal ponto da fase de levantamento de requisitos é compreender profundam
 ### Análise de requisitos
 - um requisito funcional pode demandar mais de uma funcionalidade e uma funcionalidade pode agregar mais de um requisito funcional.
 - A análise de requisitos tem, minimamente, duas perspectivas ou visões:
-	- **[[ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO)]]** - Objetos do domínio (relacionado ao problema)
-	- **[[ANÁLISE DA APLICAÇÃO]]** - Objetos da aplicação (relacionado a aspectos computacionais de alto nível)
+	- **[[Análise do domínio (ou do negócio)]]** - Objetos do domínio (relacionado ao problema)
+	- **[[análise da aplicação]]** - Objetos da aplicação (relacionado a aspectos computacionais de alto nível)
 
 - Os principais diagramas UML usados nas fases de análise são: 
 	- diagramas de casos de uso
@@ -150,8 +150,8 @@ Análise pode ser traduzida em ”faça a coisa certa”.
 - A atividade de projeto denota uma solução, voltada a atender aos requisitos identificados na fase de análise, considerando os recursos tecnológicos necessários para implementar os objetos do domínio e os objetos da aplicação.
 - ==O objetivo é decidir “**como o sistema funcionará**” para atender aos requisitos.==
 - A fase de projeto pode ser dividida em:
-	- [[PROJETO DA ARQUITETURA]]
-	- [[PROJETO DETALHADO]]
+	- [[projeto da arquitetura]]
+	- [[projeto detalhado]]
 ```ad-info
 Projeto pode ser traduzido em “faça certo a coisa”.
 ```

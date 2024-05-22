@@ -35,11 +35,14 @@
             "id": "3f1b3deced0aaf56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
-                "mode": "source",
-                "source": false
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
+                "viewState": {
+                  "x": -428.5899582620999,
+                  "y": -314.2945450515035,
+                  "zoom": -0.445908174537552
+                }
               }
             }
           }
@@ -90,12 +93,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -144,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md",
+                "file": "Notas/ÁREA DE TRABALHO.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Modelagem de sistemas em UML.md"
+                "file": "Notas/ÁREA DE TRABALHO.canvas"
               }
             }
           }
@@ -211,19 +214,19 @@
   },
   "active": "3f1b3deced0aaf56",
   "lastOpenFiles": [
-    "Notas/PROJETO DETALHADO.md",
-    "Notas/Modelagem de sistemas em UML.md",
-    "Notas/PROJETO DA ARQUITETURA.md",
-    "Notas/ANÁLISE DA APLICAÇÃO.md",
-    "Notas/ANÁLISE DO DOMÍNIO (OU DO NEGÓCIO).md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
-    "Projetos/projeto de visão computacional.md",
+    "Notas/projeto detalhado.md",
+    "Notas/projeto da arquitetura.md",
     "Notas/PRODUTIVIDADE.md",
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/análise da aplicação.md",
+    "Notas/Análise do domínio (ou do negócio).md",
+    "Notas/Modelagem de sistemas em UML.md",
+    "Projetos/projeto de visão computacional.md",
     "Notas/Estrutura XML do excel.md",
     "Templates/study_template.md",
     "Notas/Esquema de flynn.md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Matérias de ciência da computação.md",
     "Notas/Sistemas Digitais.md",
     "Notas/Sistemas.md",
@@ -253,7 +256,6 @@
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Notas/Programação orientada a objetos em Java.md",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
-    "flashcards/Esquema de flynn.md",
     "flashcards",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf.opdownload",
     "Excalidraw",
