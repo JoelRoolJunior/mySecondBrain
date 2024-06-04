@@ -22,7 +22,7 @@ Essa tabela é conhecida como esquema de Flynn e tenta categorizar os computador
 	- São as máquinas que possuem CPUs independentes, onde cada unidade processante atua com instruções diferentes em dados diferentes.
 	- Os processadores com mais de um núcleo caem nesse modelo.
 
-**o que significam essas "instruções únicas/múltiplas"**
+**o que significam essas "instruções únicas/múltiplas"?*
 ?
 *É o número de instruções diferentes que são executadas ao mesmo tempo.*
 ```ad-info
