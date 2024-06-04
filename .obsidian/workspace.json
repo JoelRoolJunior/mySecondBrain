@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Estatística e Probabilidade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Estatística e Probabilidade.md"
               }
             }
           }
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,6 +184,14 @@
   },
   "active": "12502230e3c4309a",
   "lastOpenFiles": [
+    "Notas/ÁREA DE TRABALHO.canvas",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Notas/ÁRVORE DE CONHECIMENTO.md",
+    "Notas/análise da aplicação.md",
+    "Notas/Análise do domínio (ou do negócio).md",
+    "Diario/2024-03-13.md",
+    "Diario/2024-03-08.md",
+    "Notas/HOME.md",
     "Arquivos/Exemplo de classe em UML.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/classificação das Variáveis.png",
@@ -193,40 +201,31 @@
     "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
     "Projetos/IncluseMind.md",
     "Projetos/projeto de visão computacional.md",
-    "Notas/HOME.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/Esquema de flynn.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Métodos de estudo.md",
     "Notas/Matérias de ciência da computação.md",
     "Notas/MATEMÁTICA.md",
-    "Notas/análise da aplicação.md",
     "Notas/DASHBOARD.md",
     "Banners/banner_mesa_de_trabalho.jpg",
     "Banners",
     "Templates/study_template.md",
-    "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/projeto da arquitetura.md",
     "Notas/projeto detalhado.md",
     "Notas/Programação orientada a objetos em Java.md",
-    "Notas/Análise do domínio (ou do negócio).md",
-    "Notas/ÁREA DE TRABALHO.canvas",
     "snippets",
     "Nova pasta",
     "Notas/Estrutura XML do excel.md",
     "Notas/Sistemas Digitais.md",
-    "Notas/Sistemas.md",
-    "Templates/note_template.md",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",
     "Arquivos/porta NOR.png",
     "Arquivos/porta NAND.png",
     "Arquivos/porta OR.png",
-    "Arquivos/porta AND.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
