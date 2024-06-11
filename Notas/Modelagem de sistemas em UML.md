@@ -79,6 +79,7 @@ existem três momentos do entendimento e validação dos modelos junto aos usuá
 - encapsulamento
 - herança
 - polimorfismo
+
 **Princípios centrais da Orientação a objetos:**
 - Qualquer coisa do mundo real é um objeto
 - Objetos realizam tarefas requisitando serviços a outros objetos

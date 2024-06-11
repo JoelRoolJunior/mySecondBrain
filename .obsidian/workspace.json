@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8adcb0da46a733ac",
+        "id": "b567fc29a49c075c",
         "type": "tabs",
         "children": [
           {
-            "id": "16155fecef3a5c64",
+            "id": "e940e6f29a58b7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f956c7f295f14fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Modelagem de sistemas em UML.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Modelagem de sistemas em UML.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Modelagem de sistemas em UML.md"
               }
             }
           }
@@ -166,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +196,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "16155fecef3a5c64",
+  "active": "5f956c7f295f14fa",
   "lastOpenFiles": [
+    "Notas/HOME.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
@@ -191,7 +206,6 @@
     "Notas/Análise do domínio (ou do negócio).md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
-    "Notas/HOME.md",
     "Arquivos/Exemplo de classe em UML.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/classificação das Variáveis.png",
