@@ -201,6 +201,8 @@ Responsável pelo armazenamento e pela recuperação dos dados persistentes do s
 ---
 # O QUE É UML, AFINAL?
 
+No final dos anos 1990, não havia consenso no mercado sobre os modelos a serem usados para modelagem de sistemas desenvolvidos sob a tecnologia de orientação a objetos.
+
 
 ---
 ## Referencias
