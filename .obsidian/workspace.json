@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc139224d009ce66",
+        "id": "8adcb0da46a733ac",
         "type": "tabs",
         "children": [
           {
-            "id": "12502230e3c4309a",
+            "id": "16155fecef3a5c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Notas/HOME.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Estatística e Probabilidade.md"
+                "file": "Notas/HOME.md"
               }
             }
           }
@@ -182,7 +182,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "12502230e3c4309a",
+  "active": "16155fecef3a5c64",
   "lastOpenFiles": [
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
