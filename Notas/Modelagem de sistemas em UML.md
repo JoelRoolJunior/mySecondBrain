@@ -227,9 +227,27 @@ Os diagramas UML podem ser integrados às principais e mais populares linguagens
 
 ### VISÕES DA UML
 ```ad-note
-title:VISÃO DE CASOS DE USO
+title:**VISÃO DE CASOS DE USO**
 a visão de caso de uso permite olhar o sistema sob o ponto de vista externo, do usuário, descrevendo seu comportamento por conjunto de interações usuário-sistema.
 ```
+```ad-note
+title:**VISÃO DE PROJETO (OU LÓGICA)**
+Permite visualizar o sistema sob o ponto de vista de sua estrutura interna e seu comportamento, em resposta às funcionalidades externamente percebidas por seus usuários.
+```
+```ad-note
+title:**VISÃO DE IMPLEMENTAÇÃO (OU DE DESENVOLVIMENTO)**
+Compreende o gerenciamento das versões do sistema, ou seja, de suas implementações utilizáveis por seus usuários.
+```
+```ad-note
+title:**VISÃO DE IMPLANTAÇÃO (OU FÍSICA)**
+Enfatiza a distribuição física do sistema em suas partes (subsistemas e componentes) e as respectivas conexões entre elas. Enfatiza também a organização física dos computadores e as conexões entre eles (a rede de computadores).
+```
+```ad-note
+title:**VISÃO DE PROCESSO**
+Enfatiza aspectos físicos mais peculiares como concorrência, sincronismo entre sistemas e desempenho (performance, confiabilidade, tolerância a falhas e outros aspectos) do sistema, considerando os processos e os processadores.
+```
+### UML E INTEGRAÇÃO COM PROCESSOS DE DESENVOLVIMENTO
+A UML é independente de metodologia e processo de desenvolvimento. Isso é positivo para os fabricantes de software que implementam UML, pois não limita seu mercado.
 
 ---
 ## Referencias
