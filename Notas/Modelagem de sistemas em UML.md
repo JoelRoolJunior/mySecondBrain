@@ -248,6 +248,14 @@ Enfatiza aspectos físicos mais peculiares como concorrência, sincronismo entre
 ```
 ### UML E INTEGRAÇÃO COM PROCESSOS DE DESENVOLVIMENTO
 A UML é independente de metodologia e processo de desenvolvimento. Isso é positivo para os fabricantes de software que implementam UML, pois não limita seu mercado.
+- [[Em Cascata]]
+- [[Iterativo]]
+- [[Ágil]]
+- [[Rup]]
+
+
+
+
 
 ---
 ## Referencias
