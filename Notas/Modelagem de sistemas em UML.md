@@ -204,9 +204,26 @@ Responsável pelo armazenamento e pela recuperação dos dados persistentes do s
 No final dos anos 1990, não havia consenso no mercado sobre os modelos a serem usados para modelagem de sistemas desenvolvidos sob a tecnologia de orientação a objetos.
 
 ```ad-important
-title-
+title:A UML é uma linguagem de modelagem
 A UML é uma linguagem de modelagem, **não é um método de desenvolvimento nem tampouco uma metodologia ou um processo de desenvolvimento de sistemas**,
 ```
+
+````col
+textAling=center
+===
+```col-md
+> **Visualização**
+A modelagem gráfica facilita a compreensão do sistema e das decisões tomadas em análise e projeto, além de melhorar a comunicação entre a equipe, permitindo sua interpretação sem ambiguidades.
+```
+```col-md
+>**Especificação**
+Permite a construção de modelos precisos, não ambíguos e completos sob diferentes visões e atendendo às necessidades de modelagem das diferentes fases do processo de desenvolvimento de software, independentemente do processo ou modelo usado.
+```
+```col-md
+>**Construção**
+Os diagramas UML podem ser integrados às principais e mais populares linguagens de programação do mercado, tais como Java e C++. Mas, para isso, terá que buscar uma solução integrada de **ferramenta CASE (_Computer-Aided Software Engineering_)** que gere código fonte (para linguagens específicas) a partir de alguns diagramas UML.
+```
+````
 
 
 ---
