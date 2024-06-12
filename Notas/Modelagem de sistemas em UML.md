@@ -257,8 +257,13 @@ A UML é independente de metodologia e processo de desenvolvimento. Isso é posi
 ![[Tipos de Diagramas UML.png|1000]]
 
 
+[[Tipos de Diagrama UML]]
 
-
+### DIAGRAMAS UML E SUA UTILIZAÇÃO NAS FASES
+```ad-important
+title:**Nota**
+o diagrama conceitual de classes evidencia as classes (com principais atributos e inicialmente sem métodos) e os principais relacionamentos (em geral apenas associações, que são os relacionamentos de classes mais elementares).
+```
 ---
 ## Referencias
 - **LIVROS**:
