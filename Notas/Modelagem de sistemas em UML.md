@@ -260,10 +260,21 @@ A UML é independente de metodologia e processo de desenvolvimento. Isso é posi
 [[Tipos de Diagrama UML]]
 
 ### DIAGRAMAS UML E SUA UTILIZAÇÃO NAS FASES
+
+| Levantamento de requisitos                                                                                      | Análise de requisitos                                                                                                                    |
+| :-------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- |
+| Esboço inicial do **diagrama de pacotes**, para grandes sistemas, evidenciando a necessidade de particionamento | Detalhamento e aprofundamento do **diagrama de pacotes**                                                                                 |
+| Esboço inicial do **diagrama de casos de uso**                                                                  | Detalhamento e aprofundamento do **diagrama de casos de uso**                                                                            |
+| Esboço inicial do **diagrama conceitual de classes**, em alto nível (sem detalhes)                              | Detalhamento e aprofundamento do **diagrama conceitual de classes**                                                                      |
+|                                                                                                                 | **Diagrama de estados**, para os objetos mais complexos durante seu ciclo de vida                                                        |
+|                                                                                                                 | **Diagrama de atividades**, para elucidar um processo ou fluxo de trabalho relevante ou ainda para elucidar um caso de uso mais complexo |
+
 ```ad-important
 title:**Nota**
-o diagrama conceitual de classes evidencia as classes (com principais atributos e inicialmente sem métodos) e os principais relacionamentos (em geral apenas associações, que são os relacionamentos de classes mais elementares).
+o **diagrama conceitual de classes** evidencia as classes (com principais atributos e inicialmente sem métodos) e os principais relacionamentos (em geral apenas associações, que são os relacionamentos de classes mais elementares).
 ```
+
+
 ---
 ## Referencias
 - **LIVROS**:
