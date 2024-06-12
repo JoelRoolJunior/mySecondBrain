@@ -199,7 +199,7 @@ Responsável pelo armazenamento e pela recuperação dos dados persistentes do s
 ````
 
 ---
-# O QUE É UML, AFINAL?
+## O QUE É UML, AFINAL?
 
 No final dos anos 1990, não havia consenso no mercado sobre os modelos a serem usados para modelagem de sistemas desenvolvidos sob a tecnologia de orientação a objetos.
 
@@ -224,6 +224,8 @@ Permite a construção de modelos precisos, não ambíguos e completos sob difer
 Os diagramas UML podem ser integrados às principais e mais populares linguagens de programação do mercado, tais como Java e C++. Mas, para isso, terá que buscar uma solução integrada de **ferramenta CASE (_Computer-Aided Software Engineering_)** que gere código fonte (para linguagens específicas) a partir de alguns diagramas UML.
 ```
 ````
+
+### VISÕES DA UML
 
 
 ---
