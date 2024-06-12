@@ -226,7 +226,10 @@ Os diagramas UML podem ser integrados às principais e mais populares linguagens
 ````
 
 ### VISÕES DA UML
-
+```ad-note
+title:**VISÃO DE CASOS DE USO**
+a visão de caso de uso permite olhar o sistema sob o ponto de vista externo, do usuário, descrevendo seu comportamento por conjunto de interações usuário-sistema.
+```
 
 ---
 ## Referencias
