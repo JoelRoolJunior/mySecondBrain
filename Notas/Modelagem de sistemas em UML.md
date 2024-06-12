@@ -203,6 +203,11 @@ Responsável pelo armazenamento e pela recuperação dos dados persistentes do s
 
 No final dos anos 1990, não havia consenso no mercado sobre os modelos a serem usados para modelagem de sistemas desenvolvidos sob a tecnologia de orientação a objetos.
 
+```ad-important
+title-
+A UML é uma linguagem de modelagem, **não é um método de desenvolvimento nem tampouco uma metodologia ou um processo de desenvolvimento de sistemas**,
+```
+
 
 ---
 ## Referencias
