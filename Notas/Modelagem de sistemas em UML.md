@@ -253,6 +253,8 @@ A UML é independente de metodologia e processo de desenvolvimento. Isso é posi
 - [[Ágil]]
 - [[Rup]]
 
+### VISÃO GERAL DOS DIAGRAMAS UML
+![[Tipos de Diagramas UML.png|1000]]
 
 
 

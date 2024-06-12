@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8952cb2d3ff3da9c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Tipos de Diagramas UML.png"
+              }
+            }
           }
         ]
       }
@@ -69,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -185,8 +196,9 @@
   },
   "active": "892da88e2a1aacad",
   "lastOpenFiles": [
-    "Notas/HOME.md",
+    "Arquivos/Tipos de Diagramas UML.png",
     "Notas/Modelagem de sistemas em UML.md",
+    "Notas/HOME.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
@@ -226,7 +238,6 @@
     "Arquivos/porta EX-OR.png",
     "Arquivos/porta NOR.png",
     "Arquivos/porta NAND.png",
-    "Arquivos/porta OR.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
