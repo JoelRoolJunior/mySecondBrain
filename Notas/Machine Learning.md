@@ -6,6 +6,7 @@ people::
 ## Áreas de atuação e carreiras em ML
 - Engenharia de Dados
 - Cientista de Dados
+## Tipos de dados
 
 ---
 ## Referencias
