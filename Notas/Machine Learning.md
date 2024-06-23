@@ -28,7 +28,14 @@ Características:
 - Formatos: (cvs, txt, xlsx)
 - SQL
 ### Tabela de frequência
+![[Tabela de frequência TIC em Trilhas.png|800]]
+**Frequência Absoluta**: 
+**Frequência relativa**: 
+**Frequência absoluta acumulada**: 
+**Frequência relativa acumulada**: 
 
+## Operações comuns
+Aula sobre criar e preparar dataframes
 
 ---
 ## Referencias

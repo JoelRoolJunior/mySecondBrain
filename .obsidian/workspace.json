@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f86b151469fe9cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/Tabela de frequência TIC em Trilhas.png"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -201,6 +211,7 @@
   "active": "919e82a6c993b5ae",
   "lastOpenFiles": [
     "Notas/HOME.md",
+    "Arquivos/Tabela de frequência TIC em Trilhas.png",
     "Notas/Machine Learning.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/Tipos de Diagramas UML.png",
@@ -237,12 +248,10 @@
     "snippets",
     "Nova pasta",
     "Notas/Estrutura XML do excel.md",
-    "Notas/Sistemas Digitais.md",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
     "Arquivos/porta EX-OR.png",
     "Arquivos/porta NOR.png",
-    "Arquivos/porta NAND.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
