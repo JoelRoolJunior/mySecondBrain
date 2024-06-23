@@ -16,7 +16,7 @@ Amostra  de dados é um subgrupo de um conjunto de dados maior
 - Dados ordinais: Possuem um ordem / hierarquia natural
 	- educacional, posição em uma corrida, entre outros.
 ## Dados tabulares
-
+São Informações guardadas em tabelas com colunas e linhas, 
 
 ---
 ## Referencias
