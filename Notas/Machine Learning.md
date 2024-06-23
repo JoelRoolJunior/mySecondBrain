@@ -4,7 +4,7 @@ tags::
 people::
 
 ## Áreas de atuação e carreiras em ML
-- Estatística
+- Engenharia de Dados
 
 ---
 ## Referencias
