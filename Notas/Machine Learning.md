@@ -3,6 +3,9 @@ created:: 2024-03-14 16:47
 tags::
 people::
 
+## Áreas de atuação e carreiras em ML
+- Estatística
+
 ---
 ## Referencias
 - **LIVROS**:

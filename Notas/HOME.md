@@ -11,6 +11,7 @@ banner_y: 0.812
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
 - [[Machine Learning]]
+	- Áreas de atuação e carreiras em ML
 # Vault Info  
 - 🗄️ Recent file updates  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  

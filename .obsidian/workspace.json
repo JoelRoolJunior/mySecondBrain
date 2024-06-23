@@ -4,9 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91d95917fe201439",
+        "id": "b2fc6ed05fcc1bd1",
         "type": "tabs",
         "children": [
+          {
+            "id": "3a4856b0c418e2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/HOME.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "919e82a6c993b5ae",
             "type": "leaf",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
