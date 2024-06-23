@@ -7,6 +7,7 @@ people::
 - Engenharia de Dados
 - Cientista de Dados
 ## Tipos de dados
+Amostra  de dados é 
 
 ---
 ## Referencias
