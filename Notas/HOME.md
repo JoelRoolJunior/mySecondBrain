@@ -10,9 +10,7 @@ banner_y: 0.812
 
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
-	- subtópico
-- topico 2
-	- subtópicossds
+- [[Machine Learning]]
 # Vault Info  
 - 🗄️ Recent file updates  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
