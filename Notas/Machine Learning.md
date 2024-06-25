@@ -36,6 +36,16 @@ Características:
 
 ## Operações comuns
 Aula sobre criar e preparar dataframes
+## Pipeline
+- O ***Pipeline*** de dados é composto por etapas que vão desde a coleta até a análise de dados.
+- definição do problema e do objetivo
+- garantir que os dados são:
+	- confiáveis
+	- completos
+	- diversificados
+- **objetivo final**:extrair informações a partir dos dados
+## Coleta de Dados
+
 
 ---
 ## Referencias
