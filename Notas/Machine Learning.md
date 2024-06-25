@@ -45,6 +45,17 @@ Aula sobre criar e preparar dataframes
 	- diversificados
 - **objetivo final**:extrair informações a partir dos dados
 ## Coleta de Dados
+A coleta de dados é uma etapa crucial para ML, pois é a partir dos dados que os algoritmos são treinados para fazer previsões e tomar decisões. Esses dados podem ser obtidos de diversas fontes, como: 
+
+- Bancos de dados internos da empresa;
+- Dados públicos disponíveis na internet;
+- Sensores ou dispositivos IoT (Internet of Things).
+
+É importante que os dados coletados sejam relevantes para o problema em questão e que sejam de qualidade, ou seja, que não contenham erros ou informações duplicadas.
+
+## Informação dos Dados
+É Através de insights que encontramos tendências, padrões, e correlações
+
 
 
 ---
