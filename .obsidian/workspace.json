@@ -4,40 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b2fc6ed05fcc1bd1",
+        "id": "0232937a7d0abaef",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4856b0c418e2b8",
+            "id": "e792df0eed3a77ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notas/HOME.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "919e82a6c993b5ae",
+            "id": "6b4199f066364727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notas/Machine Learning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7f86b151469fe9cf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Tabela de frequência TIC em Trilhas.png"
               }
             }
           }
@@ -208,11 +198,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "919e82a6c993b5ae",
+  "active": "6b4199f066364727",
   "lastOpenFiles": [
     "Notas/HOME.md",
-    "Arquivos/Tabela de frequência TIC em Trilhas.png",
     "Notas/Machine Learning.md",
+    "Arquivos/Tabela de frequência TIC em Trilhas.png",
     "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/Tipos de Diagramas UML.png",
     "Notas/ÁREA DE TRABALHO.canvas",
