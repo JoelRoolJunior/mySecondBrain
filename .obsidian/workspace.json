@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0232937a7d0abaef",
+        "id": "350265180b50b37b",
         "type": "tabs",
         "children": [
           {
-            "id": "e792df0eed3a77ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b4199f066364727",
+            "id": "78af11a6d41d9378",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +185,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b4199f066364727",
+  "active": "78af11a6d41d9378",
   "lastOpenFiles": [
     "Notas/HOME.md",
     "Notas/Machine Learning.md",

@@ -56,6 +56,14 @@ A coleta de dados é uma etapa crucial para ML, pois é a partir dos dados que o
 ## Informação dos Dados
 É Através de insights que encontramos tendências, padrões, e correlações
 
+## Ética de Dados
+A ética de dados envolve o tratamento justo e transparente das informações, incluindo a **coleta**, **armazenamento**, **processamento**, **análise** e **compartilhamento de dados**.
+
+## Sensibilidade de dados
+- Consideração de implicações Sociais
+- Aborda o uso adequado dos dados
+- 
+
 
 
 ---
