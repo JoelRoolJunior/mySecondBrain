@@ -11,10 +11,7 @@ banner_y: 0.812
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
 - [[Machine Learning]]
-	- [[Machine Learning#Aula 1 - Introdução ao aprendizado de máquina]]
-	- [[Machine Learning#Aula 2 - Introdução a dados]]
-	- [[Machine Learning#Aula 3 - Ética e sensibilidade dos dados]]
-	- [[Machine Learning#Aula 4 - Visualização de dados]]
+	- [[]]
 # Vault Info  
 - 🗄️ Recent file updates  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
