@@ -4,6 +4,7 @@ tags::
 people::
 
 ## Manipulação e visualização de dados
+
 ### Aula 1 - Introdução ao aprendizado de máquina
 #### Áreas de atuação e carreiras em ML
 - Engenharia de Dados

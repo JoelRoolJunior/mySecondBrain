@@ -11,12 +11,12 @@ banner_y: 0.812
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
 - [[Machine Learning]]
-	- [[]]
+	- [[Machine Learning#Manipulação e visualização de dados]]
 # Vault Info  
-- 🗄️ Recent file updates  
+- 🗄️ **Recent file updates**  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
-- 🔖 Tagged:  favorite   
+- 🔖 **Tagged:  favorite**   
  `$=dv.list(dv.pages('#favorite').sort(f=>f.file.name,"desc").limit(4).file.link)`  
-- 〽️ Stats  
+- 〽️ **Stats**  
 	-  File Count: `$=dv.pages().length`  
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`
