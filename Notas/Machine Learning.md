@@ -75,7 +75,9 @@ A ética de dados envolve o tratamento justo e transparente das informações, 
 
 ### Aula 1 - Aplicações do aprendizado de máquina
 #### Exemplos de utilização
-
+- os computadores podem aprender com os dados
+- Machine Learning (Aprendizado de Máquina) é uma área da inteligência artificial
+- 
 
 
 ---
