@@ -77,7 +77,15 @@ A ética de dados envolve o tratamento justo e transparente das informações, 
 #### Exemplos de utilização
 - os computadores podem aprender com os dados
 - Machine Learning (Aprendizado de Máquina) é uma área da inteligência artificial
-- 
+- empresas que utilizam:
+	- **Google Fotos:** reconhecer rostos, objetos e lugares nas fotos e organizar as imagens por categorias;
+	- **Netflix:** recomendar filmes e séries aos usuários com base em seus gostos e preferências;
+	- **Spotify:** criar playlists personalizadas para os usuários com base em suas músicas favoritas;
+	- **OpenAI:** responder perguntas em linguagem natural e auxiliar na tomada de decisões através do ChatGPT;
+	- **DeepMind:** jogar o jogo de tabuleiro Go, atingindo resultados melhores que jogadores profissionais usando a inteligência artificial AlphaGo.
+### Aula 2 - Modelos
+#### Introdução a modelos
+
 
 
 ---
