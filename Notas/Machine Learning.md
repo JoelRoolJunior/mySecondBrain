@@ -70,6 +70,11 @@ A ética de dados envolve o tratamento justo e transparente das informações, 
 
 ### Aula 4 - Visualização de dados
 
+## Métodos de Aprendizado de Máquina e suas aplicações
+
+
+### Aula 1 - Aplicações do aprendizado de máquina
+#### Exemplos de utilização
 
 
 
