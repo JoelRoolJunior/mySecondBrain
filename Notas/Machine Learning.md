@@ -134,7 +134,15 @@ E o que acontece quando o modelo se ajusta demais aos dados?
 ![[Overfitting e underfitting em Machine Learning.png]]
 
 ### Treinando Modelos
-é o processo de o ***Modelo*** aprender a partir de dados 
+é o processo de o ***Modelo*** aprender a partir de dados.
+O objetivo é que o algoritmo consiga ***generalizar*** o que aprendeu para novos dados que não foram usados no treino, chamados de ***dados de teste.***
+
+Predição
+se meu modelo estiver errando, eu posso querer ajustar ele. Mas como? 
+Função de Custo
+compara o resultado do modelo com o esperado
+Resultado esperado:20 ------------ 10 =>***MODELO***->15
+
 
 ---
 ## Referencias
