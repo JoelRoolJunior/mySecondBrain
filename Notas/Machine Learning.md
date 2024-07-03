@@ -139,9 +139,20 @@ O objetivo é que o algoritmo consiga ***generalizar*** o que aprendeu para novo
 
 Predição
 se meu modelo estiver errando, eu posso querer ajustar ele. Mas como? 
-Função de Custo
-compara o resultado do modelo com o esperado
-Resultado esperado:20 ------------ 10 =>***MODELO***->15
+	Função de Custo
+	compara o resultado do modelo com o esperado
+	Resultado esperado é **20** ------------  10 => | **MODELO** | => 15
+	Tipos:
+		Erro Absoluto : 20-15=5
+		Erro quadrado: (20-15)² = 25
+		Binario: certo ou errado | 1 ou 0
+	Gradiente Descendente
+	ajusta o modelo para ter o menor custo possivel
+	Qual o melhor jeito de ajustar o modelo?
+		Qual o parâmetro minimiza o custo?
+		O que pode ser esse parametro?
+			pode ser o grau de inclinação de uma reta até que ela se encaixe melhor ao conjunto de dados. 
+		
 
 
 ---
