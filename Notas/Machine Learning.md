@@ -95,27 +95,33 @@ F(x) = 2x+2
 left=-1; right=5;
 top=12; bottom=-1;
 ---
-y=2x+2
+y=2x+2|x>0
 ```
 
 E se a pergunta for o contrário? Tenho um **conjunto de pontos**, qual a **formula que representa eles**.
+```desmos-graph
+left=-1; right=5;
+top=12; bottom=-1;
+---
+y=2x+2|x>0|dotted
+```
 
 ##### Tipos de Aprendizado
 ###### Por Reforço
-	Positivo
-		segue caminhos que "dão certo"
-	Negativo
-		Evita caminhos que "dão errado"
-Supervisionado
-	o modelo vai ser treinado com dados já tabulados e categorizados
-Não supervisionado
-	Procura padrões dentro dos dados.
+- **Positivo**
+	- segue caminhos que "dão certo"
+- **Negativo**
+	- Evita caminhos que "dão errado"
+###### Supervisionado
+o modelo vai ser treinado com dados já tabulados e categorizados
+###### Não supervisionado
+Procura padrões dentro dos dados.
 
 ##### Divisão de Dados
-Treino
-	O modelo tenta se aproximar dos dados de treino.
-Teste
-	Verificar se o modelo funciona para novas informações.
+- **Treino**
+	- O modelo tenta se aproximar dos dados de treino.
+- **Teste**
+	- Verificar se o modelo funciona para novas informações.
 
 O que acontece quando tem poucos dados de treino?
 **Underfitting**
@@ -124,6 +130,8 @@ O que acontece quando tem poucos dados de treino?
 E o que acontece quando o modelo se ajusta demais aos dados?
 **Overfitting**
 - Uma linha mais genérica representa melhor os dados.
+
+![[Overfitting e underfitting em Machine Learning.png]]
 
 ---
 ## Referencias
