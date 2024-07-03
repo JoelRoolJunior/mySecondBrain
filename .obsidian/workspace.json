@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Machine Learning.md",
-                "mode": "source",
+                "file": "Notas/HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Machine Learning.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Machine Learning.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Machine Learning.md"
+                "file": "Notas/HOME.md"
               }
             }
           }
@@ -186,9 +186,9 @@
   },
   "active": "2d012d89cae1baa1",
   "lastOpenFiles": [
+    "Notas/Machine Learning.md",
     "Arquivos/Pasted image 20240702225729.png",
     "Arquivos/Overfitting e underfitting em Machine Learning.png",
-    "Notas/Machine Learning.md",
     "Notas/HOME.md",
     "Notas/Machine.md",
     "Arquivos/Tabela de frequência TIC em Trilhas.png",
@@ -228,7 +228,6 @@
     "Nova pasta",
     "Arquivos/porta XNOR.png",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
-    "Arquivos/porta EX-OR.png",
     "Arquivos/Materias para estudar para op ITA.pdf",
     "Arquivos/Tabela2_Análise_de_dados_quantitativos.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf.opdownload",
