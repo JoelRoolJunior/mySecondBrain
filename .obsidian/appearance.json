@@ -6,5 +6,6 @@
   "showViewHeader": true,
   "enabledCssSnippets": [
     "dashboard"
-  ]
+  ],
+  "baseFontSize": 15
 }

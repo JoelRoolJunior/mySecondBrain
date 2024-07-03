@@ -90,8 +90,12 @@ Um dos conceitos fundamentais do Aprendizado de Máquina é o de modelo.
 - pode ser usado para fazer previsões.
 
 primeiro temos que lembra um pouco de ***Funções***. Sempre temos formulas para chegar na resposta certa.
-
-
+```desmos-graph
+left=-1; right=5;
+top=12; bottom=-1;
+---
+y=x+2
+```
 
 
 ---
