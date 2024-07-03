@@ -12,6 +12,7 @@ banner_y: 0.812
 - [[Modelagem de sistemas em UML]]
 - [[Machine Learning]]
 	- [[Machine Learning#Manipulação e visualização de dados]]
+	- [[Machine Learning#Métodos de Aprendizado de Máquina e suas aplicações]]
 # Vault Info  
 - 🗄️ **Recent file updates**  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  

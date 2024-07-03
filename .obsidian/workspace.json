@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Machine Learning.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Machine Learning.md"
               }
             }
           }
@@ -187,8 +187,8 @@
   },
   "active": "2d012d89cae1baa1",
   "lastOpenFiles": [
-    "Notas/Machine Learning.md",
     "Notas/HOME.md",
+    "Notas/Machine Learning.md",
     "Notas/Machine.md",
     "Arquivos/Tabela de frequência TIC em Trilhas.png",
     "Notas/Modelagem de sistemas em UML.md",
