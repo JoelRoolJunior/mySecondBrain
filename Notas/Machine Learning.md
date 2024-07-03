@@ -100,16 +100,30 @@ y=2x+2
 
 E se a pergunta for o contrário? Tenho um **conjunto de pontos**, qual a **formula que representa eles**.
 
-Tipos de Aprendizado
-	Por Reforço
-		Positivo
-			segue caminhos que "dão certo"
-		Negativo
-			Evita caminhos que "dão errado"
-	Supervisionado
-		o modelo vai ser treinado com dados já tabulados e categorizados
-	Não supervisionado
-		Procura padrões dentro dos dados
+##### Tipos de Aprendizado
+###### Por Reforço
+	Positivo
+		segue caminhos que "dão certo"
+	Negativo
+		Evita caminhos que "dão errado"
+Supervisionado
+	o modelo vai ser treinado com dados já tabulados e categorizados
+Não supervisionado
+	Procura padrões dentro dos dados.
+
+##### Divisão de Dados
+Treino
+	O modelo tenta se aproximar dos dados de treino.
+Teste
+	Verificar se o modelo funciona para novas informações.
+
+O que acontece quando tem poucos dados de treino?
+**Underfitting**
+- O modelo não se ajusta aos dados de treino
+
+E o que acontece quando o modelo se ajusta demais aos dados?
+**Overfitting**
+- Uma linha mais genérica representa melhor os dados.
 
 ---
 ## Referencias
