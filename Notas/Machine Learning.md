@@ -85,7 +85,11 @@ A ética de dados envolve o tratamento justo e transparente das informações, 
 	- **DeepMind:** jogar o jogo de tabuleiro Go, atingindo resultados melhores que jogadores profissionais usando a inteligência artificial AlphaGo.
 ### Aula 2 - Modelos
 #### Introdução a modelos
+Um dos conceitos fundamentais do Aprendizado de Máquina é o de modelo.
+- modelo é uma representação matemática de um fenômeno ou processo real.
+- pode ser usado para fazer previsões.
 
+tudo começa com a definição de funções ***Funções***
 
 
 
