@@ -137,22 +137,25 @@ E o que acontece quando o modelo se ajusta demais aos dados?
 é o processo de o ***Modelo*** aprender a partir de dados.
 O objetivo é que o algoritmo consiga ***generalizar*** o que aprendeu para novos dados que não foram usados no treino, chamados de ***dados de teste.***
 
-Predição
+#### Predição
 se meu modelo estiver errando, eu posso querer ajustar ele. Mas como? 
-	Função de Custo
+	##### Função de Custo
 	compara o resultado do modelo com o esperado
 	Resultado esperado é **20** ------------  10 => | **MODELO** | => 15
 	Tipos:
 		Erro Absoluto : 20-15=5
 		Erro quadrado: (20-15)² = 25
-		Binario: certo ou errado | 1 ou 0
+		Binário: certo ou errado | 1 ou 0
 	Gradiente Descendente
-	ajusta o modelo para ter o menor custo possivel
+	ajusta o modelo para ter o menor custo possível
 	Qual o melhor jeito de ajustar o modelo?
 		Qual o parâmetro minimiza o custo?
-		O que pode ser esse parametro?
+		O que pode ser esse parâmetro?
 			pode ser o grau de inclinação de uma reta até que ela se encaixe melhor ao conjunto de dados. 
-		
+	Mínimos Locais
+		![[Pasted image 20240702225729.png]]
+		como achar os mínimos locais?
+			definir pontos iniciais
 
 
 ---
