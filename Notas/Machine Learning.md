@@ -133,6 +133,9 @@ E o que acontece quando o modelo se ajusta demais aos dados?
 
 ![[Overfitting e underfitting em Machine Learning.png]]
 
+### Treinando Modelos
+é o processo de o ***Modelo*** aprender a partir de dados 
+
 ---
 ## Referencias
 - **LIVROS**:
