@@ -153,11 +153,12 @@ Resultado esperado é **20** ------------  10 => | **MODELO** | => 15
 	- O que pode ser esse parâmetro?
 		- pode ser o grau de inclinação de uma reta até que ela se encaixe melhor ao conjunto de dados. 
 ##### Mínimos Locais
-	![[Pasted image 20240702225729.png]]
-	como achar os mínimos locais?
-		definir pontos iniciais
+![[Pasted image 20240702225729.png|500]]
+como achar os mínimos locais?
+	definir pontos iniciais
 
 ### Aula 3 - Problemas de Aprendizado de Máquina
+
 
 
 ---
