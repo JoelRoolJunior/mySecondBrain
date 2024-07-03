@@ -90,13 +90,26 @@ Um dos conceitos fundamentais do Aprendizado de Máquina é o de modelo.
 - pode ser usado para fazer previsões.
 
 primeiro temos que lembra um pouco de ***Funções***. Sempre temos formulas para chegar na resposta certa.
+F(x) = 2x+2
 ```desmos-graph
 left=-1; right=5;
 top=12; bottom=-1;
 ---
-y=x+2
+y=2x+2
 ```
 
+E se a pergunta for o contrário? Tenho um **conjunto de pontos**, qual a **formula que representa eles**.
+
+Tipos de Aprendizado
+	Por Reforço
+		Positivo
+			segue caminhos que "dão certo"
+		Negativo
+			Evita caminhos que "dão errado"
+	Supervisionado
+		o modelo vai ser treinado com dados já tabulados e categorizados
+	Não supervisionado
+		Procura padrões dentro dos dados
 
 ---
 ## Referencias
