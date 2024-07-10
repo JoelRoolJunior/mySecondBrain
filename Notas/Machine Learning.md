@@ -165,7 +165,7 @@ A classificação consiste em prever a qual de duas ou mais classes (categorias)
 - classificação de doenças a partir de informações como peso, altura, idade, etc.
 
 #### Regressão Linear
-
+Regressão linear é um método estatístico
 
 
 ---
