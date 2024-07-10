@@ -159,7 +159,8 @@ como achar os mínimos locais?
 	definir pontos iniciais
 
 ### Aula 3 - Problemas de Aprendizado de Máquina
-## Classificação
+#### Classificação
+A classificação consiste 
 
 
 
