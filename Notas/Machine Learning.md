@@ -89,7 +89,8 @@ Um dos conceitos fundamentais do Aprendizado de Máquina é o de modelo.
 - modelo é uma representação matemática de um fenômeno ou processo real.
 - pode ser usado para fazer previsões.
 
-primeiro temos que lembra um pouco de ***Funções***. Sempre temos formulas para chegar na resposta certa.
+primeiro temos que lembra um pouco de ***Funções***. 
+Sempre temos formulas para chegar na resposta certa.
 F(x) = 2x+2
 ```desmos-graph
 left=-1; right=5;
@@ -105,7 +106,7 @@ top=12; bottom=-1;
 ---
 y=2x+2|x>0|dotted
 ```
-
+O treinamento é isso, tentar achar a formula que representa aproximadamente nosso conjunto de dados
 ##### Tipos de Aprendizado
 ###### Por Reforço
 - **Positivo**

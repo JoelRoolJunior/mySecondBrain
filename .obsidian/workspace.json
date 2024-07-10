@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a770f9a8b352720",
+        "id": "b407b26c0a130041",
         "type": "tabs",
         "children": [
           {
-            "id": "2d012d89cae1baa1",
+            "id": "8f621b7acc56e98b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,7 +184,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d012d89cae1baa1",
+  "active": "8f621b7acc56e98b",
   "lastOpenFiles": [
     "Notas/HOME.md",
     "Notas/Machine Learning.md",
