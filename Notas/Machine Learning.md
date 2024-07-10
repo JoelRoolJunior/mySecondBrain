@@ -160,8 +160,11 @@ como achar os mínimos locais?
 
 ### Aula 3 - Problemas de Aprendizado de Máquina
 #### Classificação
-A classificação consiste 
+A classificação consiste em prever a qual de duas ou mais classes (categorias) uma instância  de dados pertence.
+*exemplo*:
+- classificação de doenças a partir de informações como peso, altura, idade, etc.
 
+#### Regressão Linear
 
 
 
