@@ -163,6 +163,7 @@ como achar os mínimos locais?
 
 
 
+
 ---
 ## Referencias
 - **LIVROS**:
