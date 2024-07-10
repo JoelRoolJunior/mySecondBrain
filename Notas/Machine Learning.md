@@ -170,6 +170,8 @@ O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)*
 ![[Exemplo de regressão linear.png]]
 
 
+
+
 ---
 ## Referencias
 - **LIVROS**:

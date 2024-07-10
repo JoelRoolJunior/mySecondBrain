@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "54d8d40504ca8ccf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Exemplo de regressão linear.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Exemplo de regressão linear.png",
+                "file": "Notas/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Exemplo de regressão linear.png",
+                "file": "Notas/Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Exemplo de regressão linear.png"
+                "file": "Notas/Machine Learning.md"
               }
             }
           }
@@ -195,10 +184,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "54d8d40504ca8ccf",
+  "active": "8f621b7acc56e98b",
   "lastOpenFiles": [
-    "Notas/Machine Learning.md",
     "Arquivos/Exemplo de regressão linear.png",
+    "Notas/Machine Learning.md",
     "Arquivos/Minimo_local_e_global.png",
     "Notas/HOME.md",
     "Arquivos/Overfitting e underfitting em Machine Learning.png",
