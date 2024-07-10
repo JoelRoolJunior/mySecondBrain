@@ -165,7 +165,9 @@ A classificação consiste em prever a qual de duas ou mais classes (categorias)
 - classificação de doenças a partir de informações como peso, altura, idade, etc.
 
 #### Regressão Linear
-Regressão linear é um método estatístico
+A regressão linear é um método estatístico usado para modelar a relação entre uma variável dependente (Y) e uma ou mais variáveis independentes (X). 
+O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)** ou um **hiperplano (no caso da regressão linear múltipla)** que melhor ajuste os dados.
+![[Exemplo de regressão linear.png]]
 
 
 ---
