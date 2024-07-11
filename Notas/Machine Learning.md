@@ -176,7 +176,9 @@ Encontra um ***hiperplano*** que separa as classes alvo:
 - suport vectors
 ![[support-vector machine.png|500]]
 **E para divisões não lineares??**
-
+![[divisão não linear.png|500]]
+se usa o:
+- Kernel trick
 
 
 

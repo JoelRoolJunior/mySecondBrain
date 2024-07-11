@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "daf1a0f5bf4e6406",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/support-vector machine.png"
-              }
-            }
           }
         ]
       }
@@ -198,6 +188,7 @@
   "lastOpenFiles": [
     "Arquivos/support-vector machine.png",
     "Notas/Machine Learning.md",
+    "Arquivos/divisão não linear.png",
     "Notas/Rup.md",
     "Notas/HOME.md",
     "Arquivos/Exemplo de regressão linear.png",
@@ -220,7 +211,6 @@
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Arquivos/boxplot.png",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
-    "Projetos/Diagrama de Caso de Uso do Matraquinha.png",
     "Projetos/IncluseMind.md",
     "Projetos/projeto de visão computacional.md",
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
