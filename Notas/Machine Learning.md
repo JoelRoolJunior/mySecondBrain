@@ -170,7 +170,13 @@ O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)*
 ![[Exemplo de regressão linear.png]]
 #### Máquina de vetores de suporte (support-vector machine)
 o SVM (support-vector machine) é aplicado em tarefas de classificação e regressão.
-encontra um ***hiperplano*** que separa as classes alvo
+Encontra um ***hiperplano*** que separa as classes alvo:
+- Dividir os dados com base nas suas características
+- maximizar as margens
+- suport vectors
+![[support-vector machine.png|500]]
+**E para divisões não lineares??**
+
 
 
 

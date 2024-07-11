@@ -11,8 +11,22 @@
             "id": "994ee5afdbc1631d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daf1a0f5bf4e6406",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/support-vector machine.png"
+              }
             }
           }
         ]
@@ -114,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/Machine Learning.md"
+              }
             }
           }
         ],
@@ -178,8 +196,9 @@
   },
   "active": "994ee5afdbc1631d",
   "lastOpenFiles": [
-    "Notas/Rup.md",
+    "Arquivos/support-vector machine.png",
     "Notas/Machine Learning.md",
+    "Notas/Rup.md",
     "Notas/HOME.md",
     "Arquivos/Exemplo de regressão linear.png",
     "Arquivos/Minimo_local_e_global.png",
@@ -212,12 +231,10 @@
     "Notas/Matérias de ciência da computação.md",
     "Notas/MATEMÁTICA.md",
     "Notas/DASHBOARD.md",
-    "Banners/banner_mesa_de_trabalho.jpg",
     "Banners",
     "Templates/study_template.md",
     "Notas/projeto da arquitetura.md",
     "Notas/projeto detalhado.md",
-    "Notas/Programação orientada a objetos em Java.md",
     "snippets",
     "Nova pasta",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",

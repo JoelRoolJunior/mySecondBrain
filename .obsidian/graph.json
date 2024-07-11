@@ -11,7 +11,7 @@
       "query": "file:HOME",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 14949119
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 13.5910224438903,
   "linkStrength": 1,
   "linkDistance": 279,
-  "scale": 0.6346285676930626,
+  "scale": 0.9681619554185542,
   "close": false
 }
