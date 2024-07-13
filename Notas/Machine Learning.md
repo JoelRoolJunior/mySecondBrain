@@ -225,7 +225,7 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 ![[Arvore de decisão.png]]
 
 #### Random Forest
-
+Random Forest é um método de aprendizado de máquina que combina várias árvores de decisão para fazer previsões ou classificações. Para isso, cada árvore de decisão é treinada com um subconjunto aleatório dos dados e das variáveis, o que aumenta a diversidade e reduz o risco de overfitting. A previsão ou classificação final é feita pela média ou pela votação das previsões ou classificações de todas as árvores.
 
 ---
 ## Referencias
