@@ -169,6 +169,7 @@ A regressão linear é um método estatístico usado para modelar a relação en
 O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)** ou um **hiperplano (no caso da regressão linear múltipla)** que melhor ajuste os dados.
 ![[Exemplo de regressão linear.png]]
 #### Máquina de vetores de suporte (support-vector machine)
+
 - **tipo:**
 	- *Supervisionado*
 	- *Classificação*
@@ -185,6 +186,7 @@ se usa o:
 - Kernel trick
 
 #### K-nearest neighbors
+
 KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 - **tipo:** 
 	- *Supervisionado*
@@ -200,6 +202,7 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 	- Não Funciona muito bem com dados com muitas dimensões
 ![[KNN exemplo.png]]
 #### Árvore de decisão
+
 - **tipo:** 
 	- *Supervisionado*
 	- *Classificação*
@@ -232,7 +235,6 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - _Classificação_
     - _Regressão_
 - **Teoria:**
-    
     - **Simplificado:**
         - Combina várias árvores de decisão para fazer previsões ou classificações.
         - Como a divisão é feita? --> _Cada árvore de decisão é treinada com um subconjunto aleatório dos dados e das variáveis_.
@@ -242,7 +244,6 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
         - A combinação dessas árvores reduz o risco de overfitting, pois cada árvore tem alta variabilidade individual, mas sua combinação resulta em um modelo mais estável e preciso.
         - A previsão ou classificação final é determinada pela média (para regressão) ou pela votação da maioria (para classificação) das previsões ou classificações de todas as árvores.
 - **Características:**
-    
     - Estrutura composta por múltiplas árvores de decisão.
     - Utiliza amostragem bootstrap para gerar diferentes subconjuntos de dados.
     - Seleciona aleatoriamente um subconjunto de características em cada divisão de nó.
@@ -255,11 +256,9 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 ### Naive Bayes
 
 - **Tipo:**
-    
     - _Supervisionado_
     - _Classificação_
 - **Teoria:**
-    
     - **Simplificado:**
         - Utiliza o teorema de Bayes para estimar a probabilidade de uma classe para uma dada observação.
         - Como as características são tratadas? --> _Supõe-se que as características de uma observação são independentes entre si_.
@@ -269,7 +268,6 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
         - Esta suposição simplifica significativamente os cálculos das probabilidades, tornando o modelo computacionalmente eficiente, mesmo em datasets de alta dimensionalidade.
         - Existem diferentes variações do Naive Bayes, como Gaussian Naive Bayes (para dados contínuos), Multinomial Naive Bayes (para dados discretos), e Bernoulli Naive Bayes (para dados binários).
 - **Características:**
-    
     - Baseado no teorema de Bayes.
     - Supõe independência condicional entre as características.
     - Computacionalmente eficiente e rápido.
