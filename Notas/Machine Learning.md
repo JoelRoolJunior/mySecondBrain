@@ -193,13 +193,19 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 **teoria**:
 - Se baseia baseia na ideia de que objetos similares estão próximos um dos outros.
 - usa localização espacial para criar a categoria.
-**caracteristicas**:
+**características**:
 - treino rápido
 - pode demorar na predição
 	- KD tree - otimização
 - Não Funciona muito bem com dados com muitas dimensões
 ![[KNN exemplo.png]]
-
+#### Árvore de decisão
+**tipo:** 
+- *Supervisionado*
+- *Classificação*
+- *Regressão*
+**teoria**:
+**características**:
 
 
 ---
