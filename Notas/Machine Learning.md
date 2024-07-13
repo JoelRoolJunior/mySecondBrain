@@ -278,7 +278,31 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - Útil em aplicações como filtragem de spam, classificação de textos e análise de sentimentos.
 
 ![[Naive Bayes Classifier.png]]
+### Agrupamento (Clustering)
 
+- **Tipo:**
+    - _Não supervisionado_
+    - _Agrupamento_
+- **Teoria:**
+    - **Simplificado:**
+        - Encontra grupos de objetos similares em um conjunto de dados.
+        - Qual é o objetivo? --> _As instâncias dentro de um mesmo grupo devem ser mais parecidas entre si do que com os objetos de outros grupos_.
+    - **Completo:**
+        - Agrupamento (ou clustering) é uma técnica de Aprendizado de Máquina que visa identificar e formar grupos de dados ou instâncias similares dentro de um conjunto de dados.
+        - O objetivo é que as instâncias dentro de um mesmo grupo (cluster) tenham maior semelhança entre si, enquanto sejam diferentes das instâncias em outros grupos.
+        - Existem diversos algoritmos de agrupamento, como K-means, DBSCAN, e Agglomerative Clustering, cada um com suas particularidades e áreas de aplicação.
+        - O K-means, por exemplo, particiona o espaço de dados em K clusters, onde cada instância pertence ao cluster com o centróide mais próximo.
+        - DBSCAN (Density-Based Spatial Clustering of Applications with Noise) identifica clusters com base na densidade de pontos, podendo encontrar clusters de formas arbitrárias e identificar pontos de ruído.
+        - Agrupamento hierárquico constrói uma hierarquia de clusters, podendo ser aglomerativo (bottom-up) ou divisivo (top-down).
+- **Características:**
+    - Técnica não supervisionada.
+    - Encontra e forma grupos (clusters) de dados similares.
+    - Algoritmos comuns incluem K-means, DBSCAN, Agglomerative Clustering.
+    - Útil para segmentação de mercado, análise de comportamentos, identificação de padrões.
+    - Pode lidar com dados de diferentes formatos e tamanhos.
+    - Sensível à escala dos dados, podendo necessitar de normalização.
+    - A eficácia pode ser influenciada pelo método de inicialização e pelos parâmetros escolhidos.
+    - Resultados podem variar com diferentes algoritmos e critérios de similaridade.
 
 
 ---
