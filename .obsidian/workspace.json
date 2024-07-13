@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "011f660f9453de81",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Arvore de decisão.png"
-              }
-            }
-          },
-          {
-            "id": "d75a6c9573f363d3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/Arvore de decisão.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos/Arvore de decisão.png",
+                "file": "Notas/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos/Arvore de decisão.png",
+                "file": "Notas/Machine Learning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos/Arvore de decisão.png"
+                "file": "Notas/Machine Learning.md"
               }
             }
           }
@@ -206,10 +185,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "011f660f9453de81",
+  "active": "85a583d13a43675c",
   "lastOpenFiles": [
-    "Notas/Machine Learning.md",
     "Arquivos/Arvore de decisão.png",
+    "Notas/Machine Learning.md",
     "Notas/HOME.md",
     "Notas/Rup.md",
     "Arquivos/KNN exemplo.png",
