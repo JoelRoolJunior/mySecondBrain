@@ -205,7 +205,9 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 - *Classificação*
 - *Regressão*
 **teoria**:
+- Uma Árvore de Decisão é composta por nós que representam perguntas ou condições sobre os dados, e ramos que representam as possíveis respostas ou resultados.
 **características**:
+- 
 
 
 ---
