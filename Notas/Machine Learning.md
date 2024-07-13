@@ -225,7 +225,32 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 ![[Arvore de decisão.png]]
 
 #### Random Forest
-Random Forest é um método de aprendizado de máquina que combina várias árvores de decisão para fazer previsões ou classificações. Para isso, cada árvore de decisão é treinada com um subconjunto aleatório dos dados e das variáveis, o que aumenta a diversidade e reduz o risco de overfitting. A previsão ou classificação final é feita pela média ou pela votação das previsões ou classificações de todas as árvores.
+
+- **Tipo:**
+    
+    - _Supervisionado_
+    - _Classificação_
+    - _Regressão_
+- **Teoria:**
+    
+    - **Simplificado:**
+        - Combina várias árvores de decisão para fazer previsões ou classificações.
+        - Como a divisão é feita? --> _Cada árvore de decisão é treinada com um subconjunto aleatório dos dados e das variáveis_.
+    - **Completo:**
+        - Random Forest é um método de aprendizado de máquina que utiliza múltiplas árvores de decisão para melhorar a precisão e a robustez das previsões.
+        - Cada árvore de decisão é treinada com um subconjunto aleatório dos dados (amostragem com reposição, conhecida como bootstrap) e um subconjunto aleatório das variáveis.
+        - A combinação dessas árvores reduz o risco de overfitting, pois cada árvore tem alta variabilidade individual, mas sua combinação resulta em um modelo mais estável e preciso.
+        - A previsão ou classificação final é determinada pela média (para regressão) ou pela votação da maioria (para classificação) das previsões ou classificações de todas as árvores.
+- **Características:**
+    
+    - Estrutura composta por múltiplas árvores de decisão.
+    - Utiliza amostragem bootstrap para gerar diferentes subconjuntos de dados.
+    - Seleciona aleatoriamente um subconjunto de características em cada divisão de nó.
+    - Reduz o overfitting em comparação com uma única árvore de decisão.
+    - Geralmente mais preciso e robusto que árvores de decisão individuais.
+    - Pode lidar bem com dados de alta dimensionalidade.
+    - É eficiente em dados grandes e complexos.
+    - Interpretabilidade mais difícil do que árvores de decisão individuais, mas fornece medidas de importância das variáveis.
 
 ---
 ## Referencias
