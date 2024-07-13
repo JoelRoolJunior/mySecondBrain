@@ -280,6 +280,7 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 ![[Naive Bayes Classifier.png]]
 
 
+
 ---
 ## Referencias
 - **LIVROS**:
