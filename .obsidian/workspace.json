@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e199ea7a3653005a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/KNN exemplo.png"
+              }
+            }
           }
         ]
       }
@@ -187,6 +197,8 @@
   },
   "active": "29cebc851f7b2d78",
   "lastOpenFiles": [
+    "Arquivos/KNN exemplo.png",
+    "Notas/Machine Learning.md",
     "Notas/HOME.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Esquema de flynn.md",
@@ -195,7 +207,6 @@
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Análise do domínio (ou do negócio).md",
     "Notas/análise da aplicação.md",
-    "Notas/Machine Learning.md",
     "Arquivos/support-vector machine.png",
     "Arquivos/divisão não linear.png",
     "Notas/Rup.md",
@@ -212,7 +223,6 @@
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/classificação das Variáveis.png",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
-    "Arquivos/boxplot.png",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Projetos/IncluseMind.md",
     "Projetos/projeto de visão computacional.md",
@@ -226,7 +236,6 @@
     "Banners",
     "Templates/study_template.md",
     "Notas/projeto da arquitetura.md",
-    "Notas/projeto detalhado.md",
     "snippets",
     "Nova pasta",
     "Arquivos/FLOYD, Thomas - Sistemas Digitais_ Fundamentos e Aplicações-Bookman (2007).pdf",
