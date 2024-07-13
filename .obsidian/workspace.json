@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas/Machine Learning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -197,8 +197,9 @@
   },
   "active": "29cebc851f7b2d78",
   "lastOpenFiles": [
-    "Arquivos/KNN exemplo.png",
+    "Notas/Rup.md",
     "Notas/Machine Learning.md",
+    "Arquivos/KNN exemplo.png",
     "Notas/HOME.md",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Esquema de flynn.md",
@@ -209,7 +210,6 @@
     "Notas/análise da aplicação.md",
     "Arquivos/support-vector machine.png",
     "Arquivos/divisão não linear.png",
-    "Notas/Rup.md",
     "Arquivos/Exemplo de regressão linear.png",
     "Arquivos/Minimo_local_e_global.png",
     "Arquivos/Overfitting e underfitting em Machine Learning.png",
