@@ -169,15 +169,15 @@ A regressão linear é um método estatístico usado para modelar a relação en
 O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)** ou um **hiperplano (no caso da regressão linear múltipla)** que melhor ajuste os dados.
 ![[Exemplo de regressão linear.png]]
 #### Máquina de vetores de suporte (support-vector machine)
-**tipo:**
-- *Supervisionado*
-- *Classificação*
-- *Regressão*
-**teoria**:
-- a SVM analisa os dados e encontra um **hiperplano** que separa as **classes-alvo** com a maior margem possível.
-- Dividir os dados com base nas suas características
-- maximizar as margens
-- suport vectors
+- **tipo:**
+	- *Supervisionado*
+	- *Classificação*
+	- *Regressão*
+- **teoria**:
+	- a SVM analisa os dados e encontra um **hiperplano** que separa as **classes-alvo** com a maior margem possível.
+	- Dividir os dados com base nas suas características
+	- maximizar as margens
+	- suport vectors
 ![[support-vector machine.png|500]]
 **E para divisões não lineares??**
 ![[divisão não linear.png|500]]
@@ -186,18 +186,18 @@ se usa o:
 
 #### K-nearest neighbors
 KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
-**tipo:** 
-- *Supervisionado*
-- *Classificação*
-- *Regressão*
-**teoria**:
-- Se baseia baseia na ideia de que objetos similares estão próximos um dos outros.
-- usa localização espacial para criar a categoria.
-**características**:
-- treino rápido
-- pode demorar na predição
-	- KD tree - otimização
-- Não Funciona muito bem com dados com muitas dimensões
+- **tipo:** 
+	- *Supervisionado*
+	- *Classificação*
+	- *Regressão*
+- **teoria**:
+	- Se baseia baseia na ideia de que objetos similares estão próximos um dos outros.
+	- usa localização espacial para criar a categoria.
+- **características**:
+	- treino rápido
+	- pode demorar na predição
+		- KD tree - otimização
+	- Não Funciona muito bem com dados com muitas dimensões
 ![[KNN exemplo.png]]
 #### Árvore de decisão
 **tipo:** 

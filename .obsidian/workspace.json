@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e55b25e1534243",
+        "id": "5ed68b38d3ed2c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "29cebc851f7b2d78",
+            "id": "85a583d13a43675c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Notas/Machine Learning.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "e199ea7a3653005a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Arquivos/KNN exemplo.png"
               }
             }
           }
@@ -195,12 +185,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "29cebc851f7b2d78",
+  "active": "85a583d13a43675c",
   "lastOpenFiles": [
-    "Notas/Rup.md",
-    "Notas/Machine Learning.md",
-    "Arquivos/KNN exemplo.png",
     "Notas/HOME.md",
+    "Notas/Machine Learning.md",
+    "Notas/Rup.md",
+    "Arquivos/KNN exemplo.png",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Esquema de flynn.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
