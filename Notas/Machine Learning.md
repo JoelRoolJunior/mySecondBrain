@@ -218,6 +218,11 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 - Rápidas
 - Se encaixam muito bem em dados desbalanceados
 - Podem ter dificuldade para generalizar em alguns casos.
+##### Florestas Aleatórias
+- conjunto de arvores de decisão
+- cada uma delas vota em uma resposta.
+- A resposta mais votada se torna o resultado do modelo.
+![[Arvore de decisão.png]]
 
 
 ---
