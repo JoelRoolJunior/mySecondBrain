@@ -180,7 +180,12 @@ Encontra um ***hiperplano*** que separa as classes alvo:
 se usa o:
 - Kernel trick
 
-
+#### K-nearest neighbors
+KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
+**tipo:** 
+- *Supervisionado*
+- *classificação*
+- *regressão*
 
 
 ---
