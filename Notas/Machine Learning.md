@@ -277,6 +277,9 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - Pode ser menos preciso se a suposição de independência for fortemente violada nos dados.
     - Útil em aplicações como filtragem de spam, classificação de textos e análise de sentimentos.
 
+![[Naive Bayes Classifier.png]]
+
+
 ---
 ## Referencias
 - **LIVROS**:
