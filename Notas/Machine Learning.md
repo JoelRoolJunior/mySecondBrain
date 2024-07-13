@@ -252,6 +252,7 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - É eficiente em dados grandes e complexos.
     - Interpretabilidade mais difícil do que árvores de decisão individuais, mas fornece medidas de importância das variáveis.
 
+
 ---
 ## Referencias
 - **LIVROS**:
