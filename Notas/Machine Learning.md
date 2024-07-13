@@ -169,8 +169,12 @@ A regressão linear é um método estatístico usado para modelar a relação en
 O objetivo é encontrar uma **linha reta (no caso da regressão linear simples)** ou um **hiperplano (no caso da regressão linear múltipla)** que melhor ajuste os dados.
 ![[Exemplo de regressão linear.png]]
 #### Máquina de vetores de suporte (support-vector machine)
-o SVM (support-vector machine) é aplicado em tarefas de classificação e regressão.
-Encontra um ***hiperplano*** que separa as classes alvo:
+**tipo:**
+- *Supervisionado*
+- *Classificação*
+- *Regressão*
+**teoria**:
+- a SVM analisa os dados e encontra um **hiperplano** que separa as **classes-alvo** com a maior margem possível.
 - Dividir os dados com base nas suas características
 - maximizar as margens
 - suport vectors
@@ -184,8 +188,10 @@ se usa o:
 KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 **tipo:** 
 - *Supervisionado*
-- *classificação*
-- *regressão*
+- *Classificação*
+- *Regressão*
+**teoria**:
+- Se baseia baseia na ideia de que objetos similares estão próximos um dos outros
 
 
 ---
