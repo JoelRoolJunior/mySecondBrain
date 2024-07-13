@@ -224,6 +224,7 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 - A resposta mais votada se torna o resultado do modelo.
 ![[Arvore de decisão.png]]
 
+#### Random Forest
 
 ---
 ## Referencias
