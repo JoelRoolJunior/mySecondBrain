@@ -252,6 +252,32 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - É eficiente em dados grandes e complexos.
     - Interpretabilidade mais difícil do que árvores de decisão individuais, mas fornece medidas de importância das variáveis.
 
+### Naive Bayes
+
+- **Tipo:**
+    
+    - _Supervisionado_
+    - _Classificação_
+- **Teoria:**
+    
+    - **Simplificado:**
+        - Utiliza o teorema de Bayes para estimar a probabilidade de uma classe para uma dada observação.
+        - Como as características são tratadas? --> _Supõe-se que as características de uma observação são independentes entre si_.
+    - **Completo:**
+        - O Naive Bayes é um algoritmo de classificação baseado no teorema de Bayes, que calcula a probabilidade posterior de uma classe com base nas probabilidades anteriores e na probabilidade condicional das características dadas as classes.
+        - A "ingenuidade" do modelo vem da suposição de independência condicional entre as características, ou seja, a presença ou ausência de uma característica é considerada independente da presença ou ausência de qualquer outra característica.
+        - Esta suposição simplifica significativamente os cálculos das probabilidades, tornando o modelo computacionalmente eficiente, mesmo em datasets de alta dimensionalidade.
+        - Existem diferentes variações do Naive Bayes, como Gaussian Naive Bayes (para dados contínuos), Multinomial Naive Bayes (para dados discretos), e Bernoulli Naive Bayes (para dados binários).
+- **Características:**
+    
+    - Baseado no teorema de Bayes.
+    - Supõe independência condicional entre as características.
+    - Computacionalmente eficiente e rápido.
+    - Funciona bem com datasets pequenos e grandes.
+    - Pode lidar com dados de alta dimensionalidade.
+    - Simples de implementar e interpretar.
+    - Pode ser menos preciso se a suposição de independência for fortemente violada nos dados.
+    - Útil em aplicações como filtragem de spam, classificação de textos e análise de sentimentos.
 
 ---
 ## Referencias
