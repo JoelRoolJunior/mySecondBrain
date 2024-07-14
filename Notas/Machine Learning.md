@@ -303,14 +303,15 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - Sensível à escala dos dados, podendo necessitar de normalização.
     - A eficácia pode ser influenciada pelo método de inicialização e pelos parâmetros escolhidos.
     - Resultados podem variar com diferentes algoritmos e critérios de similaridade.
-
+![[modelo Kmeans.png]]
 
 ---
 ## Referencias
 - **LIVROS**:
 	1. 
 - **VIDEOS**
-	1. 
+	- **Youtube**
+		1. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---
