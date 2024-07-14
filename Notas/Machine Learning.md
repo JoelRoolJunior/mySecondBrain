@@ -304,6 +304,8 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - A eficácia pode ser influenciada pelo método de inicialização e pelos parâmetros escolhidos.
     - Resultados podem variar com diferentes algoritmos e critérios de similaridade.
 ![[modelo Kmeans.png]]
+## Métricas e Análises
+
 
 ---
 ## Referencias
@@ -311,8 +313,12 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 	1. 
 - **VIDEOS**
 	- **Youtube**
-		1. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
-		2. [UniversoProgramado](https://www.youtube.com/@UniversoProgramado)
+		1. [A saga dos computadores](https://www.youtube.com/playlist?list=PLYjrJH3e_wDOA5mxhiMxE6yslcIzU5NkX)
+		2. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+		3. [UniversoProgramado](https://www.youtube.com/@UniversoProgramado)
+	- **Filmes**
+		1. Jogo da imitação:
+		2. Estrelas além do tempo
 - **OUTRAS REFERÊNCIAS**
 	1.[Medium - Where good ideas find you.](https://medium.com)
 ---

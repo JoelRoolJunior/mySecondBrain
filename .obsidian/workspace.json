@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed68b38d3ed2c7d",
+        "id": "3b49983fcb84f344",
         "type": "tabs",
         "children": [
           {
-            "id": "85a583d13a43675c",
+            "id": "92d12812599527a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,14 +185,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "85a583d13a43675c",
+  "active": "92d12812599527a4",
   "lastOpenFiles": [
+    "Notas/HOME.md",
     "Notas/Machine Learning.md",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
     "Arquivos/Pasted image 20240713175024.png",
     "Arquivos/Arvore de decisão.png",
-    "Notas/HOME.md",
     "Notas/Rup.md",
     "Arquivos/KNN exemplo.png",
     "Notas/Estatística e Probabilidade.md",
