@@ -313,6 +313,6 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 	- **Youtube**
 		1. [StatQuest with Josh Starmer](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 - **OUTRAS REFERÊNCIAS**
-	1.
+	1.[Where good ideas find you.]()
 ---
 ## Mapa de estudo 
