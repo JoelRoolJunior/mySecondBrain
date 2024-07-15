@@ -13,6 +13,7 @@ banner_y: 0.812
 - [[Machine Learning]]
 	- [[Machine Learning#Manipulação e visualização de dados]]
 	- [[Machine Learning#Métodos de Aprendizado de Máquina e suas aplicações]]
+	- [[Machine Learning#Métricas e Análises]]
 # Vault Info  
 - 🗄️ **Recent file updates**  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
