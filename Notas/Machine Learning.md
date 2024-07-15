@@ -306,7 +306,9 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
 ![[modelo Kmeans.png]]
 ## Métricas e Análises
 ### Aula 1 - Matriz de confusão
-Uma matriz de confusão é uma 
+Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um modelo de classificação.
+- **Objetivo**
+	- mostrar o número de acertos e erros do modelo
 
 
 ---
