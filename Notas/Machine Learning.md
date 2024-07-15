@@ -305,6 +305,8 @@ KNN (K-Nearest Neighbors, ou K vizinhos mais próximos).
     - Resultados podem variar com diferentes algoritmos e critérios de similaridade.
 ![[modelo Kmeans.png]]
 ## Métricas e Análises
+### Aula 1 - Matriz de confusão
+Uma matriz de confusão é uma 
 
 
 ---
