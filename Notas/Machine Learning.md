@@ -313,9 +313,11 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 #### Métricas de classificação
 ##### Precisão
 - TP/(TP+FP)
-	- 
-	- Mede quantas das amostras positivas de fato foram categorizadas como positivas
+- $$\frac{TruePositives}{TruePositives + FalsePositives}$$
 
+	- Mede quantas das amostras positivas de fato foram categorizadas como positivas
+#### Acurácia
+- (TP + TN)/(TP+TN+FP+FN)
 
 ---
 ## Referencias
