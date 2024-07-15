@@ -328,7 +328,21 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 - prioridade para a classificação
 - quando queremos ter certeza que estamos pegando todos os verdadeiros
 #### Especificidade
-- TN/
+- TN/(TN+FP)
+- $$\frac{TrueNegatives}{TrueNegatives + FalsePositives}$$
+- Prioridade nos casos negativos
+#### F beta Score
+- $$(1+\beta^2)*\left( \frac{presicion*recall}{\beta^2*presicion+recall} \right)$$
+- Leva em conta a precisão:
+	- Acerta o máximo possivel de positivas
+- E o recall:
+	- Ter certeza que os positivos estão sendo classificados certos
+#### F1-Score
+- $$(1+1^2)*\left( \frac{presicion*recall}{1^2*presicion+recall} \right)$$
+- $$(2)*\left( \frac{presicion*recall}{presicion+recall} \right)$$
+- Harmonia entre precisão e recall
+
+#### Form
 
 ---
 ## Referencias
