@@ -342,7 +342,18 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 - $$(2)*\left( \frac{presicion*recall}{presicion+recall} \right)$$
 - Harmonia entre precisão e recall
 
-#### Form
+#### Formulas
+
+|      Métrica       |                                               Fórmula                                               |
+| :----------------: | :-------------------------------------------------------------------------------------------------: |
+|      Precisão      |                      $$\frac{TruePositives}{TruePositives + FalsePositives}$$                       |
+|      Acurácia      | $$\frac{TruePositives+TrueNegatives}{TruePositives+TrueNegatives + FalsePositives+FalseNegatives}$$ |
+| Recall/Sensitivity |                       $$\frac{TruePositives}{TruePositives+FalseNegatives}$$                        |
+|   Especificidade   |                      $$\frac{TrueNegatives}{TrueNegatives + FalsePositives}$$                       |
+|    F beta Score    |          $$(1+\beta^2)*\left( \frac{presicion*recall}{\beta^2*presicion+recall} \right)$$           |
+|      F1-Score      |                  $$(2)*\left( \frac{presicion*recall}{presicion+recall} \right)$$                   |
+
+
 
 ---
 ## Referencias
