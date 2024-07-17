@@ -356,10 +356,18 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 #### Métricas numéricas
 como podemos comparar e avaliar os regressores
 ##### *MAE - Mean Absolute Erro* (Erro Médio Absoluto)
-- $$\frac{\left( \sum\limits_{}^{}|y_{Predict}-y_{true}| \right)}{N}$$
 - media dos erros
 - Quando temos dados ruidosos
-MSE
+$$
+\frac{\left( \sum\limits_{}^{}|y_{Predict}-y_{true}| \right)}{N}
+$$
+##### MSE - *Mean Squared Error* (Erro Quadrático Médio)
+- Media dos erros Quadráticos
+- Não podemos  ter dados muito divergentes
+$$
+\frac{\left( \sum\limits_{}^{}(y_{Predict}-y_{true})^2 \right)}{N}
+$$
+
 
 ---
 ## Referencias
