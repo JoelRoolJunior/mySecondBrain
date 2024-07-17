@@ -381,7 +381,8 @@ $$
 
 ### Aula 3 - Métodos de aprimoramento 
 #### ROC e AUC
-
+Os métodos de aprimoramento ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve) são ferramentas importantes na avaliação de modelos de classificação, especialmente em problemas de classificação binária.
+![[Pasted image 20240716215649.png]]
 
 ---
 ## Referencias
