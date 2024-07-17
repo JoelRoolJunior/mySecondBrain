@@ -355,6 +355,9 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 
 #### Métricas numéricas
 como podemos comparar e avaliar os regressores
+##### MAE - 
+- media dos erros
+- Quando temos dados ruidosos
 
 ---
 ## Referencias
