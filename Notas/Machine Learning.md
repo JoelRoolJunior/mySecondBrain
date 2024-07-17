@@ -353,7 +353,8 @@ Uma matriz de confusão é uma ferramenta que permite avaliar o desempenho de um
 |    F beta Score    |          $$(1+\beta^2)*\left( \frac{presicion*recall}{\beta^2*presicion+recall} \right)$$           |
 |      F1-Score      |                  $$(2)*\left( \frac{presicion*recall}{presicion+recall} \right)$$                   |
 
-
+#### Métricas numéricas
+como podemos comparar e avaliar os regressores
 
 ---
 ## Referencias
