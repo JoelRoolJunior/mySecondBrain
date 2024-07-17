@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "015fc82a5192612b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Arquivos/ROC e AUC.png"
+              }
+            }
           }
         ]
       }
@@ -187,9 +197,9 @@
   },
   "active": "3cfdf132cb39a35b",
   "lastOpenFiles": [
-    "Arquivos/Pasted image 20240716215649.png",
-    "Notas/HOME.md",
+    "Arquivos/ROC e AUC.png",
     "Notas/Machine Learning.md",
+    "Notas/HOME.md",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
     "Arquivos/Pasted image 20240713175024.png",
@@ -207,7 +217,6 @@
     "Arquivos/divisão não linear.png",
     "Arquivos/Exemplo de regressão linear.png",
     "Arquivos/Minimo_local_e_global.png",
-    "Arquivos/Overfitting e underfitting em Machine Learning.png",
     "Notas/Machine.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Diario/2024-03-13.md",

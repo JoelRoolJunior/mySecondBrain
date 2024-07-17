@@ -382,7 +382,14 @@ $$
 ### Aula 3 - Métodos de aprimoramento 
 #### ROC e AUC
 Os métodos de aprimoramento ROC (Receiver Operating Characteristic) e AUC (Area Under the Curve) são ferramentas importantes na avaliação de modelos de classificação, especialmente em problemas de classificação binária.
-![[Pasted image 20240716215649.png]]
+![[ROC e AUC.png]]
+A AUC é a área sob a curva ROC. Ela fornece uma medida agregada do desempenho do modelo em todos os limiares possíveis. A AUC varia entre 0 e 1:
+
+- **AUC = 1**: Modelo perfeito.
+- **AUC = 0.5**: Modelo aleatório (sem poder discriminativo entre classes).
+- **AUC < 0.5**: Modelo pior que aleatório.
+#### Validação Cruzada
+
 
 ---
 ## Referencias
