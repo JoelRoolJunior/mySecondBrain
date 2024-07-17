@@ -379,7 +379,8 @@ $$
 \text{MSLE}(y, \hat{y}) = \frac{1}{N} \sum_{i=0}^{N - 1} (\log_e (1 + y_i) - \log_e (1 + \hat{y}_i) )^2
 $$
 
-### Aula 3 - Métodos de aprimoramento
+### Aula 3 - Métodos de aprimoramento 
+#### ROC e AUC
 
 
 ---
