@@ -365,9 +365,14 @@ $$
 - Media dos erros Quadráticos
 - Não podemos  ter dados muito divergentes
 $$
-\frac{\left( \sum\limits_{}^{}(y_{Predict}-y_{true})^2 \right)}{N}
+\text{MSE}(y, \hat{y}) = \frac{\sum_{i=0}^{N - 1} (y_i - \hat{y}_i)^2}{N}
 $$
-
+##### MSE - 
+- Raiz media dos erros quadráticos
+- Não podemos ter dados muito divergentes
+$$
+\sqrt{\frac{\sum_{i=0}^{N - 1} (y_i - \hat{y}_i)^2}{N}}
+$$
 
 ---
 ## Referencias
