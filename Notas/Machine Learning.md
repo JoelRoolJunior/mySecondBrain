@@ -389,6 +389,7 @@ A AUC é a área sob a curva ROC. Ela fornece uma medida agregada do desempenho 
 - **AUC = 0.5**: Modelo aleatório (sem poder discriminativo entre classes).
 - **AUC < 0.5**: Modelo pior que aleatório.
 #### Validação Cruzada
+#### Tunagem de hyperparâmetros
 
 
 ---
