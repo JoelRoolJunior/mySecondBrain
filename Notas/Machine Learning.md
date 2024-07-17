@@ -394,8 +394,11 @@ A AUC é a área sob a curva ROC. Ela fornece uma medida agregada do desempenho 
 
 ---
 ## Referencias
-- **LIVROS**:
-	1. 
+- **LEITURA**:
+	- **Livros**
+	- **Artigos**
+		1. [Medium - Where good ideas find you.](https://medium.com)
+		2. [**Dashboard Design Patterns**](https://dashboarddesignpatterns.github.io): Demonstra boas práticas na hora de apresentar dados.
 - **VIDEOS**
 	- **Youtube**
 		1. [A saga dos computadores](https://www.youtube.com/playlist?list=PLYjrJH3e_wDOA5mxhiMxE6yslcIzU5NkX)
@@ -405,6 +408,7 @@ A AUC é a área sob a curva ROC. Ela fornece uma medida agregada do desempenho 
 		1. Jogo da imitação:
 		2. Estrelas além do tempo
 - **OUTRAS REFERÊNCIAS**
-	1.[Medium - Where good ideas find you.](https://medium.com)
+	1. **[Business Intelligence and Analytics Software](https://www.tableau.com):** Essa ferramenta facilita a criação de dashboards.
+	2. A biblioteca [Manim Community](https://www.manim.community) é uma biblioteca python para criação de vídeos animados.
 ---
 ## Mapa de estudo 
