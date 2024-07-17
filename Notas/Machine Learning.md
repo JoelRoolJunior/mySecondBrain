@@ -359,7 +359,7 @@ como podemos comparar e avaliar os regressores
 - media dos erros
 - Quando temos dados ruidosos
 $$
-\frac{\left( \sum\limits_{}^{}|y_{Predict}-y_{true}| \right)}{N}
+\text{MAE}(y, \hat{y}) = \frac{\sum_{i=0}^{N - 1} |y_i - \hat{y}_i|}{N}
 $$
 ##### MSE - *Mean Squared Error* (Erro Quadrático Médio)
 - Media dos erros Quadráticos
@@ -367,12 +367,20 @@ $$
 $$
 \text{MSE}(y, \hat{y}) = \frac{\sum_{i=0}^{N - 1} (y_i - \hat{y}_i)^2}{N}
 $$
-##### MSE - 
+##### RMSE  
 - Raiz media dos erros quadráticos
 - Não podemos ter dados muito divergentes
 $$
 \sqrt{\frac{\sum_{i=0}^{N - 1} (y_i - \hat{y}_i)^2}{N}}
 $$
+##### RMSLE
+- Raiz media de log dos erros quadráticos
+$$
+\text{MSLE}(y, \hat{y}) = \frac{1}{N} \sum_{i=0}^{N - 1} (\log_e (1 + y_i) - \log_e (1 + \hat{y}_i) )^2
+$$
+
+### Aula 3 - Métodos de aprimoramento
+
 
 ---
 ## Referencias
