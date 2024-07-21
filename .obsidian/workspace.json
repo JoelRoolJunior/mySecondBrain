@@ -4,32 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "26c078ecc194f710",
+        "id": "7b8797f63e03334f",
         "type": "tabs",
         "children": [
           {
-            "id": "3cfdf132cb39a35b",
+            "id": "42c70e0e2f62a2b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Machine Learning.md",
+                "file": "Notas/HOME.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "015fc82a5192612b",
+            "id": "dc7af40bb21f58c6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Arquivos/ROC e AUC.png"
+                "file": "Notas/Data Science.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Machine Learning.md",
+                "file": "Notas/Data Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Machine Learning.md",
+                "file": "Notas/Data Science.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Machine Learning.md"
+                "file": "Notas/Data Science.md"
               }
             }
           }
@@ -195,11 +198,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3cfdf132cb39a35b",
+  "active": "dc7af40bb21f58c6",
   "lastOpenFiles": [
-    "Arquivos/ROC e AUC.png",
-    "Notas/Machine Learning.md",
     "Notas/HOME.md",
+    "Notas/Data Science.md",
+    "Notas/Machine Learning.md",
+    "Arquivos/ROC e AUC.png",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
     "Arquivos/Pasted image 20240713175024.png",
