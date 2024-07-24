@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Machine Learning - TIC em Trilhas.md"
               }
             }
           }
@@ -207,10 +208,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7cd91c14f026b8d6",
+  "active": "1d06aafecf388b29",
   "lastOpenFiles": [
-    "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/HOME.md",
+    "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/Data Science.md",
