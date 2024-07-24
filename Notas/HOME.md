@@ -10,11 +10,10 @@ banner_y: 0.812
 
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
-- [[Machine Learning]]
-	- [[Machine Learning#Manipulação e visualização de dados]]
-	- [[Machine Learning#Métodos de Aprendizado de Máquina e suas aplicações]]
-	- [[Machine Learning#Métricas e Análises]]
-- [[Data Science]]
+- **Machine Learning**
+	- [[Machine Learning - TIC em Trilhas]]
+- **Data Science**
+	- 
 # Vault Info  
 - 🗄️ **Recent file updates**  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
