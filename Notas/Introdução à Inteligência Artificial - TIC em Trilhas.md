@@ -13,11 +13,21 @@ created:: 2024-03-14 16:47
 title:O que é inteligencia?
 A definição de inteligência mais aceita pela comunidade científica é uma combinação de habilidades cognitivas e capacidades mentais que permitem aos indivíduos aprender, resolver problemas, adaptar-se a novas situações e pensar de maneira abstrata.
 ```
-## IA no cotidiano
+### IA no cotidiano
 Nós já interagimos com IAs há muito tempo.
 ```ad-example
-- Sistemas de recomendação em plataformas
+- Sistemas de recomendação em plataformas como **streaming** e **redes sociais**
+- aprovação de crédito de bancos.
+- IAs generativas como ChatGPT e etc...
 ```
+
+### IA e o mercado de trabalho
+**Profissões**
+- Analista de Dados
+- Cientista de Dados
+- Engenheiro de Dados
+
+
 
 
 ---
