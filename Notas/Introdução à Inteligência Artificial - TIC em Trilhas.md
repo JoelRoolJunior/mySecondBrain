@@ -27,7 +27,13 @@ Nós já interagimos com IAs há muito tempo.
 - Cientista de Dados
 - Engenheiro de Dados
 
+### Tendências da IA
+podcast do curso falando sobre o cenário atual da Inteligência Artificial
 
+### Sociedade Data-Driven
+```ad-question
+title:De que forma os dados e sua utilizaafetam 
+```
 
 
 ---
