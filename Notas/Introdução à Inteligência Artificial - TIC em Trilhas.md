@@ -7,12 +7,17 @@ created:: 2024-03-14 16:47
 
 ## Módulo 1 - O que é inteligência artificial (IA)
 ### A Historia da IA
-- Desde os Anos 50.
+- O estudo das IAs existe desde os Anos 50.
+- Em vários momentos da Historia houve uma pausa nesses estudos por falta de inventimento. faltou din din:💸💸💸💸💸🤑🤑🤑💸💸💸💸💸
 ```ad-cite
 title:O que é inteligencia?
 A definição de inteligência mais aceita pela comunidade científica é uma combinação de habilidades cognitivas e capacidades mentais que permitem aos indivíduos aprender, resolver problemas, adaptar-se a novas situações e pensar de maneira abstrata.
 ```
-
+## IA no cotidiano
+Nós já interagimos com IAs há muito tempo.
+```ad-example
+- Sistemas de recomendação em plataformas
+```
 
 
 ---
