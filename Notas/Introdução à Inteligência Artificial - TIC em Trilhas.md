@@ -46,9 +46,15 @@ title:De que forma os dados e sua utilização afetam o mundo?
 title:Introdução da aula
 Apesar de os algoritmos serem benéficos para a sociedade ao reduzir despesas, perigos e fornecer soluções para problemas complexos, é importante lembrar que, se executados sem supervisão adequada, podem resultar em consequências prejudiciais e inesperadas.
 ```
-
-
-
+```ad-attention
+title:Os algoritmos são confiaveis?
+è importante resaltar que nossos algoritmos sempre vem com um grau de responsabilidade, sendo baixo ou alto, devemos nos atentar que se eles falharem prejudicaram seus usuários.
+```
+### Revolução da Big Data
+```ad-quote
+title:Introdução da aula
+Um dos pilares da evolução na Inteligência Artificial foram os sistemas de Big Data, capazes de integrar, gerenciar e analisar os grandes volumes de dados gerados diariamente.
+```
 
 ---
 ## Referencias
