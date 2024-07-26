@@ -31,9 +31,23 @@ Nós já interagimos com IAs há muito tempo.
 podcast do curso falando sobre o cenário atual da Inteligência Artificial
 
 ### Sociedade Data-Driven
-```ad-question
-title:De que forma os dados e sua utilizaafetam 
+```ad-quote
+title:Introdução da aula
+A análise e interpretação de dados se tornou algo fundamental no mundo moderno, e hoje os dados são considerados um bem valioso, utilizados para orientar decisões e políticas. Nesse vídeo iremos discutir a forma como os dados e sua utilização vêm impactando a economia e a sociedade.
 ```
+```ad-question
+title:De que forma os dados e sua utilização afetam o mundo? 
+```
+- quem é o chefe de quem trabalha para a Uber?
+- Nossas decisões, são realmente nossas decisões?
+	- podemos entrar em bolhas na internet, nos privando de outras visões.
+### Perigo das falhas nos algoritmos
+```ad-quote
+title:Introdução da aula
+Apesar de os algoritmos serem benéficos para a sociedade ao reduzir despesas, perigos e fornecer soluções para problemas complexos, é importante lembrar que, se executados sem supervisão adequada, podem resultar em consequências prejudiciais e inesperadas.
+```
+
+
 
 
 ---
