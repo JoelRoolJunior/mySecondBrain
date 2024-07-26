@@ -13,7 +13,8 @@ banner_y: 0.812
 - **Machine Learning**
 	- [[Machine Learning - TIC em Trilhas]]
 - **Data Science**
-	- 
+- **Inteligencia Artificial**
+	- [[Introdução à Inteligência Artificial - TIC em Trilhas]]
 # Vault Info  
 - 🗄️ **Recent file updates**  
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"").limit(4).file.link)`  
