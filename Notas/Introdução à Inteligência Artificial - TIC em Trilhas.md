@@ -57,6 +57,14 @@ title:Os algoritmos são confiaveis?
 title:Introdução da aula
 Um dos pilares da evolução na Inteligência Artificial foram os sistemas de Big Data, capazes de integrar, gerenciar e analisar os grandes volumes de dados gerados diariamente.
 ```
+Com milhares de pessoas conectadas precisamos ter um cuidado a mais com os dados que são transferidos. 
+```ad-info
+title:Os 4 V's
+- Volume
+- velocidade
+- Veracidade
+- Variedade
+```
 
 
 
