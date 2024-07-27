@@ -1,6 +1,8 @@
 ---
 tags:
   - Inteligência_Artificial
+  - big_data
+  - machine_learning
 ---
 # Introdução à Inteligência Artificial - TIC em Trilhas
 created:: 2024-03-14 16:47
@@ -55,6 +57,8 @@ title:Os algoritmos são confiaveis?
 title:Introdução da aula
 Um dos pilares da evolução na Inteligência Artificial foram os sistemas de Big Data, capazes de integrar, gerenciar e analisar os grandes volumes de dados gerados diariamente.
 ```
+
+
 
 ---
 ## Referencias
