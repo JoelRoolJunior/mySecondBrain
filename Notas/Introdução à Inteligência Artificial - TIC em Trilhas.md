@@ -72,6 +72,17 @@ A partir desses dados podemos customizar diversas coisas aos usuários,  tanto d
 title:Introdução da aula
 A coleta e análise de dados em um contexto de Big Data são tarefas fundamentais que envolvem uma variedade de técnicas e ferramentas avançadas. A coleta de dados envolve a aquisição de grandes quantidades de dados de diversas fontes, e a análise de dados ajuda a entender tendências, padrões e informações importantes.
 ```
+**Como coletar esses dados?**
+- IOT : internet das coisas
+- Redes Sociais
+- Datasets públicos
+- Web Scraping
+### Computação em nuvem
+```ad-quote
+title:Introdução da aula
+Assim como o Big Data foi importante para a Inteligência Artificial, ele só pode existir devido à Computação em Nuvem. A Computação em Nuvem é capaz de fornecer recursos para permitir a execução das ferramentas de armazenamento e processamento de dados.
+```
+A nuvem é simplesmente um computador que não temos acesso físico
 
 ---
 ## Referencias
