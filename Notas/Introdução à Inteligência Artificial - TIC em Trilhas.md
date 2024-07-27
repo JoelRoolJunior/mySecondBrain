@@ -65,8 +65,13 @@ title:Os 4 V's
 - Veracidade
 - Variedade
 ```
+A partir desses dados podemos customizar diversas coisas aos usuários,  tanto de aplicativos ou supermercados.
 
-
+### Coleta e análise de dados
+```ad-quote
+title:Introdução da aula
+A coleta e análise de dados em um contexto de Big Data são tarefas fundamentais que envolvem uma variedade de técnicas e ferramentas avançadas. A coleta de dados envolve a aquisição de grandes quantidades de dados de diversas fontes, e a análise de dados ajuda a entender tendências, padrões e informações importantes.
+```
 
 ---
 ## Referencias
