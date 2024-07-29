@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bdef222c811e3f7e",
+        "id": "4b1f237718be54bf",
         "type": "tabs",
         "children": [
           {
-            "id": "52be6b35dce9054f",
+            "id": "9daa791bae83c657",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/HOME.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -115,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/HOME.md"
+              }
             }
           }
         ],
@@ -177,7 +185,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52be6b35dce9054f",
+  "active": "9daa791bae83c657",
   "lastOpenFiles": [
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/HOME.md",

@@ -82,7 +82,8 @@ A coleta e análise de dados em um contexto de Big Data são tarefas fundamentai
 title:Introdução da aula
 Assim como o Big Data foi importante para a Inteligência Artificial, ele só pode existir devido à Computação em Nuvem. A Computação em Nuvem é capaz de fornecer recursos para permitir a execução das ferramentas de armazenamento e processamento de dados.
 ```
-A nuvem é simplesmenteO Grande PROBLEMA da INTELIGÊNCIA ARTIFICIAL(https://www.youtube.com/watch?v=_xog6mO_vOA) um computador que não temos acesso físico
+A nuvem é simplesmente um computador que não temos acesso físico
+## Módulo 2 - Ética e Dilemas
 
 ---
 ## Referencias
