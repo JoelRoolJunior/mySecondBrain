@@ -96,6 +96,11 @@ title: Lidando com Dados Desbalanceados
 - Reestruturação dos Dados
 	- Undersampling
 	- Oversampling
+- Escolher um algoritmo mais resiliente
+	- Gradient Boosting (Recomendação)
+- Coletar mais dados
+- Usar modelos Penalizados (diferentes funções de custo)
+	- Atribuir pesos diferentes as classes
 ```
 
 ### Viés em IA
@@ -110,8 +115,8 @@ title: Lidando com Dados Desbalanceados
 
 ---
 ## Referencias
-- **LIVROS**:
-	1. 
+- **LEITURAS**:
+	1. [turing-talks](https://medium.com/turing-talks/tagged/grupo-turing)
 - **VIDEOS**
 	1. [O Grande PROBLEMA da INTELIGÊNCIA ARTIFICIAL](https://www.youtube.com/watch?v=_xog6mO_vOA)
 	2. [ANALISTA DE DADOS X CIENTISTA DE DADOS X ENGENHEIRO DE DADOS](https://www.youtube.com/watch?v=k-Vo6pU5fgI)
