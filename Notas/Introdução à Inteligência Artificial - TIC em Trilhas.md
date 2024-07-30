@@ -84,6 +84,17 @@ Assim como o Big Data foi importante para a Inteligência Artificial, ele só po
 ```
 A nuvem é simplesmente um computador que não temos acesso físico
 ## Módulo 2 - Ética e Dilemas
+### Desbalanceamento de dados
+```ad-
+```
+### Viés em IA
+### Proteção de dados (LGPD)
+### O que é Consciência?
+### Teste de Turing
+### IA e consciência
+### Confiança e culpabilidade
+### Tecnologia e desemprego - com Josiany Ketzer
+### Direitos autorais – com Aline Schurmam
 
 
 ---
