@@ -93,20 +93,21 @@ Ou seja, temos muitos mais casos de uma classe do que outra.
 Isso se Torna um problema na hora de **fazer nosso modelo**, o modelo será vítima do **[Paradoxo da Acurácia](https://medium.com/turing-talks/paradoxo-da-acurácia-56baa75334f2#:~:text=Definição,realizar%20predições%20de%20fato%20significativas.)**👻👻
 ```ad-important
 title: Lidando com Dados Desbalanceados
-- Reestruturação dos Dados
+- **Reestruturação dos Dados**
 	- Undersampling
 	- Oversampling
-- Escolher um algoritmo mais resiliente
+- **Escolher um algoritmo mais resiliente**
 	- Gradient Boosting (Recomendação)
-- Coletar mais dados
+- **Coletar mais dados**
 	- métodos mais eficaz
 	- utilizar essa técnica apenas em situações que os dados a serem adicionados são          similares o suficiente com a sua base inicial.
-- Usar modelos Penalizados (diferentes funções de custo)
+- **Usar modelos Penalizados (diferentes funções de custo)**
 	- Atribuir pesos diferentes as classes
-- Utilizar outras métricas para o Treino
+- **Utilizar outras métricas para o Treino**
 	- ~~parâmetros de acurácia~~
-- Utilizar as métricas corretas de avaliação
+- **Utilizar as métricas corretas de avaliação**
 ```
+
 
 ### Viés em IA
 ### Proteção de dados (LGPD)
