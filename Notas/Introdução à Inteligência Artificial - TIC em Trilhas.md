@@ -86,9 +86,11 @@ A nuvem é simplesmente um computador que não temos acesso físico
 ## Módulo 2 - Ética e Dilemas
 ### Desbalanceamento de dados
 ```ad-info
-![[Pasted image 20240729232506.png]]
+![[Dados Desbalanceados.png|400]]
+Em datasets há casos de desbalancementos de desses dados.
+Ou seja, temos muitos mais casos de uma classe do que outra.
 ```
-![[dados]]
+Isso se Torna um problema na hora de **fazer nosso modelo**, *o modelo será vítima do **Paradoxo da Acurácia***
 ### Viés em IA
 ### Proteção de dados (LGPD)
 ### O que é Consciência?
