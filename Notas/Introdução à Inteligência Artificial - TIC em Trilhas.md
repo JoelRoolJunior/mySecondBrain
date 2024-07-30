@@ -91,6 +91,10 @@ Em datasets há casos de desbalancementos de desses dados.
 Ou seja, temos muitos mais casos de uma classe do que outra.
 ```
 Isso se Torna um problema na hora de **fazer nosso modelo**, o modelo será vítima do **[Paradoxo da Acurácia](https://medium.com/turing-talks/paradoxo-da-acurácia-56baa75334f2#:~:text=Definição,realizar%20predições%20de%20fato%20significativas.)**👻👻
+```ad-important
+title: Lidando com Dados Desbalanceados
+
+```
 
 ### Viés em IA
 ### Proteção de dados (LGPD)
