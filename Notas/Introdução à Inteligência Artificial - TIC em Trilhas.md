@@ -99,8 +99,13 @@ title: Lidando com Dados Desbalanceados
 - Escolher um algoritmo mais resiliente
 	- Gradient Boosting (Recomendação)
 - Coletar mais dados
+	- métodos mais eficaz
+	- utilizar essa técnica apenas em situações que os dados a serem adicionados são          similares o suficiente com a sua base inicial.
 - Usar modelos Penalizados (diferentes funções de custo)
 	- Atribuir pesos diferentes as classes
+- Utilizar outras métricas para o Treino
+	- ~~parâmetros de acurácia~~
+- Utilizar as métricas corretas de avaliação
 ```
 
 ### Viés em IA
