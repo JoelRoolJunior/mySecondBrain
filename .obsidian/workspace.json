@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1f237718be54bf",
+        "id": "eb1083cfac97dbb0",
         "type": "tabs",
         "children": [
           {
-            "id": "9daa791bae83c657",
+            "id": "8b6bf16c810a7ec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,9 +185,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9daa791bae83c657",
+  "active": "8b6bf16c810a7ec1",
   "lastOpenFiles": [
     "Notas/HOME.md",
+    "Arquivos/Dados Desbalanceados.png",
+    "Arquivos/Pasted image 20240713175024.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Tipos de Diagrama UML.md",
@@ -195,7 +198,6 @@
     "Arquivos/ROC e AUC.png",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
-    "Arquivos/Pasted image 20240713175024.png",
     "Arquivos/Arvore de decisão.png",
     "Notas/Rup.md",
     "Arquivos/KNN exemplo.png",
@@ -209,7 +211,6 @@
     "Arquivos/support-vector machine.png",
     "Arquivos/divisão não linear.png",
     "Arquivos/Exemplo de regressão linear.png",
-    "Arquivos/Minimo_local_e_global.png",
     "Notas/Machine.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
@@ -224,7 +225,6 @@
     "Notas/Métodos de estudo.md",
     "Notas/Matérias de ciência da computação.md",
     "Notas/MATEMÁTICA.md",
-    "Notas/DASHBOARD.md",
     "Banners",
     "snippets",
     "Nova pasta",
