@@ -107,8 +107,6 @@ title: Lidando com Dados Desbalanceados
 	- ~~parâmetros de acurácia~~
 - **Utilizar as métricas corretas de avaliação**
 ```
-
-
 ### Viés em IA
 ```ad-info
 O viés pode ser identificado quando algum preconceito ou análise tendenciosa influencia alguma decisão.
@@ -132,6 +130,14 @@ title:Maneiras de combater o viés
 	- What-if Tool
 ```
 ### Proteção de dados (LGPD)
+LGPD - Lei Geral de Proteção de Dados Pessoais
+```ad-info
+title:trê conceitos importantes
+- Privacidade
+- Segurança
+- Disponibilidade
+```
+==O Brasil vem aprimorando as leis de proteção dos dados.==
 
 ### O que é Consciência?
 ### Teste de Turing
