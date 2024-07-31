@@ -113,6 +113,19 @@ title: Lidando com Dados Desbalanceados
 ```ad-info
 O viés pode ser identificado quando algum preconceito ou análise tendenciosa influencia alguma decisão.
 ```
+tipos de viés
+- mais de 180 tipos de vieses
+- viés de relatório
+- viés de seleção
+- viés discriminatório
+- viés histórico
+- viés de experimento
+Maneiras de combater o viés
+- avaliar o contexto
+- Analisar os dados
+- Avaliando as soluções geradas
+Ferramentas 
+
 ### Proteção de dados (LGPD)
 ### O que é Consciência?
 ### Teste de Turing
