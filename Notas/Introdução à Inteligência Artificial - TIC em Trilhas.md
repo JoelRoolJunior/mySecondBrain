@@ -90,7 +90,7 @@ A nuvem é simplesmente um computador que não temos acesso físico
 Em datasets há casos de desbalancementos de desses dados.
 Ou seja, temos muitos mais casos de uma classe do que outra.
 ```
-Isso se Torna um problema na hora de **fazer nosso modelo**, o modelo será vítima do **[Paradoxo da Acurácia](https://medium.com/turing-talks/paradoxo-da-acurácia-56baa75334f2#:~:text=Definição,realizar%20predições%20de%20fato%20significativas.)**👻👻
+Isso se Torna um problema na hora de **fazer nosso modelo**, o modelo será vítima do [Paradoxo da Acurácia](https://medium.com/turing-talks/paradoxo-da-acurácia-56baa75334f2#:~:text=Definição,realizar%20predições%20de%20fato%20significativas.)👻👻
 ```ad-important
 title: Lidando com Dados Desbalanceados
 - **Reestruturação dos Dados**
@@ -110,6 +110,9 @@ title: Lidando com Dados Desbalanceados
 
 
 ### Viés em IA
+```ad-info
+O viés pode ser identificado quando algum preconceito ou análise tendenciosa influencia alguma decisão.
+```
 ### Proteção de dados (LGPD)
 ### O que é Consciência?
 ### Teste de Turing
