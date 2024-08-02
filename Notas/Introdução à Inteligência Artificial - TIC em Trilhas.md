@@ -152,7 +152,25 @@ Em resumo esse mede o quanto uma máquina consegue simular um comportamento huma
 
 ### IA e consciência
 [[Introdução à Inteligência Artificial - TIC em Trilhas#O que é Consciência?]]
+O que dá significado ao que os modelos de linguagem natural como ChatGPT e entre outros.
 ### Confiança e culpabilidade
+```ad-question
+title:O que é ética
+
+```
+
+***pilares da ética dentro da IA***
+- justiça
+- explicabilidade
+- Robustes
+- Transparencia
+- Privacidade dos Dados
+
+Responsabilidade compartilhada
+- Quem é responsabilizado pelos modelos de IA?
+	- Desenvolvedores
+	- Empresários
+	- ...
 ### Tecnologia e desemprego - com Josiany Ketzer
 ### Direitos autorais – com Aline Schurmam
 
