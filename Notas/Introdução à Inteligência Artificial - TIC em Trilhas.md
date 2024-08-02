@@ -140,6 +140,7 @@ title:trê conceitos importantes
 ==O Brasil vem aprimorando as leis de proteção dos dados.==
 
 ### O que é Consciência?
+
 ### Teste de Turing
 ### IA e consciência
 ### Confiança e culpabilidade
