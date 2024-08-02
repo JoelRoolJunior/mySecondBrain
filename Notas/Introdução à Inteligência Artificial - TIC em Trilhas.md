@@ -159,19 +159,21 @@ title:O que é ética
 
 ```
 
-***pilares da ética dentro da IA***
+**pilares da ética dentro da IA**
 - justiça
 - explicabilidade
 - Robustes
 - Transparencia
 - Privacidade dos Dados
 
-Responsabilidade compartilhada
+**Responsabilidade compartilhada**
 - Quem é responsabilizado pelos modelos de IA?
 	- Desenvolvedores
 	- Empresários
 	- ...
 ### Tecnologia e desemprego - com Josiany Ketzer
+```ad-
+```
 ### Direitos autorais – com Aline Schurmam
 
 
