@@ -196,8 +196,10 @@ title:Podcast
 	4. [PARADOXO DE BRAESS: Construir Estradas PIORA o Trânsito?](https://www.youtube.com/watch?v=a0PM0D4Z9wA)
 	5. "O Dilema das Redes Sociais"
 	6. Estes vídeos explicam um pouco mais sobre como funcionas as regulamentações da LGPD e GDPR.
-		- [O que é LGPD?](https://www.youtube.com/watch?v=6zcbVahlqSg)
+		- [O que é LGPD? - Lei Geral de Proteção de Dados](https://www.youtube.com/watch?v=6zcbVahlqSg)
 		- [O QUE É GDPR](https://www.youtube.com/watch?v=RiT3X2q8eFo)
+	7. [Ted Talk Consciência Humana](https://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness?subtitle=en&lng=pt-br&geo=pt-br)
+	8. [INTELIGÊNCIA ARTIFICIAL E DIREITOS AUTORAIS](https://www.youtube.com/watch?v=CVcHGnvKduU)
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---
