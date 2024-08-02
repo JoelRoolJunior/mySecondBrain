@@ -163,7 +163,7 @@ title:O que é ética
 - justiça
 - explicabilidade
 - Robustes
-- Transparencia
+- Transparência
 - Privacidade dos Dados
 
 **Responsabilidade compartilhada**
@@ -172,7 +172,10 @@ title:O que é ética
 	- Empresários
 	- ...
 ### Tecnologia e desemprego - com Josiany Ketzer
-```ad-
+```ad-info
+title:Podcast
+**Pontos em destaque:**
+- 
 ```
 ### Direitos autorais – com Aline Schurmam
 

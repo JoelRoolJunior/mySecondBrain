@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Templates/study_template.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
+                "file": "Templates/study_template.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Templates/study_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Templates/study_template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,8 +192,8 @@
   },
   "active": "cce1ea93b06e78b0",
   "lastOpenFiles": [
-    "Notas/HOME.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Notas/HOME.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
