@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/moc_template.md",
-                "mode": "preview",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -78,7 +79,7 @@
       {
         "id": "e400d1eddabb3a06",
         "type": "tabs",
-        "dimension": 34.143763213530654,
+        "dimension": 37.56613756613756,
         "children": [
           {
             "id": "f3fbcde603720b81",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/moc_template.md"
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
               }
             }
           },
@@ -118,12 +119,27 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "c01314046f2c0733",
+        "type": "tabs",
+        "dimension": 31.53439153439154,
+        "children": [
+          {
+            "id": "e12554e16a897815",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       },
       {
         "id": "05a66dd0e1ed89e1",
         "type": "tabs",
-        "dimension": 34.143763213530654,
+        "dimension": 30.8994708994709,
         "children": [
           {
             "id": "4c82bae5e84b42fa",
@@ -131,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/moc_template.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,33 +164,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/moc_template.md",
-                "linksCollapsed": false,
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b935de509ed36ebe",
-        "type": "tabs",
-        "dimension": 31.712473572938688,
-        "children": [
-          {
-            "id": "e12554e16a897815",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +193,15 @@
   },
   "active": "1a827d86fbc69b9d",
   "lastOpenFiles": [
+    "Notas/HOME.md",
+    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
+    "Templates/moc_template.md",
     "Templates/daily_template.md",
     "Diario/2024-07-31.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
-    "Notas/HOME.md",
-    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
     "Notas/Machine Learning - TIC em Trilhas.md",
@@ -213,7 +216,6 @@
     "Arquivos/KNN exemplo.png",
     "Notas/Estatística e Probabilidade.md",
     "Notas/Esquema de flynn.md",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Notas/Análise do domínio (ou do negócio).md",
@@ -230,7 +232,6 @@
     "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Notas/PRODUTIVIDADE.md",
     "Notas/Métodos de estudo.md",
-    "Notas/Matérias de ciência da computação.md",
     "Banners",
     "snippets",
     "Nova pasta",
