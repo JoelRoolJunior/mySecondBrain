@@ -143,8 +143,12 @@ title:trê conceitos importantes
 ```ad-missing
 title:Discutir sobre conciência de IA's é **paia**
 ```
-
+```ad-info
+title:Simular inteligencia humana é **extremamente dificil**
+```
 ### Teste de Turing
+Em resumo esse mede o quanto uma máquina consegue simular um comportamento humano.
+- O teste consistia em colocar um humano para conversar com um máquina e um humano ao mesmo tempo. No final  
 ### IA e consciência
 ### Confiança e culpabilidade
 ### Tecnologia e desemprego - com Josiany Ketzer
