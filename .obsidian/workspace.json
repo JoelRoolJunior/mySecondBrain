@@ -11,8 +11,12 @@
             "id": "1a827d86fbc69b9d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/moc_template.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/moc_template.md"
+              }
             }
           },
           {
@@ -125,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/moc_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/moc_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,12 +192,12 @@
   },
   "active": "1a827d86fbc69b9d",
   "lastOpenFiles": [
+    "Templates/daily_template.md",
+    "Diario/2024-07-31.md",
+    "Diario/2024-03-13.md",
+    "Diario/2024-03-08.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Notas/HOME.md",
-    "Diario/2024-03-08.md",
-    "Diario/2024-03-13.md",
-    "Diario/2024-07-31.md",
-    "Templates/daily_template.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
