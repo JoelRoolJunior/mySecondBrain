@@ -184,12 +184,20 @@ title:Podcast
 ## Referencias
 - **LEITURAS**:
 	1. [turing-talks](https://medium.com/turing-talks/tagged/grupo-turing)
+	2. ferramentas usadas para avaliar o viés e imparcialidade de modelos
+		- [Fairness Indicators](https://www.tensorflow.org/responsible_ai/fairness_indicators/guide?hl=pt-br)
+		- [AI Fairness 360](https://ai-fairness-360.org)
+		- [Fairlearn](https://fairlearn.org)
+		- [What-if Tool](https://pair-code.github.io/what-if-tool/)
 - **VIDEOS**
 	1. [O Grande PROBLEMA da INTELIGÊNCIA ARTIFICIAL](https://www.youtube.com/watch?v=_xog6mO_vOA)
 	2. [ANALISTA DE DADOS X CIENTISTA DE DADOS X ENGENHEIRO DE DADOS](https://www.youtube.com/watch?v=k-Vo6pU5fgI)
 	3. [Cloud Computing (Computação em Nuvem) // Dicionário do Programador](https://www.youtube.com/watch?v=97l0Ahu2efE)
 	4. [PARADOXO DE BRAESS: Construir Estradas PIORA o Trânsito?](https://www.youtube.com/watch?v=a0PM0D4Z9wA)
 	5. "O Dilema das Redes Sociais"
+	6. Estes vídeos explicam um pouco mais sobre como funcionas as regulamentações da LGPD e GDPR.
+		- [O que é LGPD?](https://www.youtube.com/watch?v=6zcbVahlqSg)
+		- [O QUE É GDPR](https://www.youtube.com/watch?v=RiT3X2q8eFo)
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---

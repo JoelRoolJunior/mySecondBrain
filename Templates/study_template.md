@@ -5,7 +5,7 @@ people::
 
 ---
 ## Referencias
-- **LEITURA**:
+- **LEITURA **:
 	1. 
 - **VIDEOS**
 	1. 
