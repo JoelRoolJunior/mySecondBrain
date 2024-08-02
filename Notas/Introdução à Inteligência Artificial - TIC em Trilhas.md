@@ -148,8 +148,10 @@ title:Simular inteligencia humana é **extremamente dificil**
 ```
 ### Teste de Turing
 Em resumo esse mede o quanto uma máquina consegue simular um comportamento humano.
-- O teste consistia em colocar um humano para conversar com um máquina e um humano ao mesmo tempo. No final  
+- O teste consistia em colocar um humano para conversar com um máquina e um humano ao mesmo tempo. No final do teste o humana precisava responder qual era a máquina.
+
 ### IA e consciência
+[[Introdução à Inteligência Artificial - TIC em Trilhas#O que é Consciência?]]
 ### Confiança e culpabilidade
 ### Tecnologia e desemprego - com Josiany Ketzer
 ### Direitos autorais – com Aline Schurmam
