@@ -140,6 +140,9 @@ title:trê conceitos importantes
 ==O Brasil vem aprimorando as leis de proteção dos dados.==
 
 ### O que é Consciência?
+```ad-missing
+title:Discutir sobre conciência de IA's é **paia**
+```
 
 ### Teste de Turing
 ### IA e consciência
