@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8d3f7c1ac25d1f03",
+        "id": "0d5c505e31bd2e90",
         "type": "tabs",
         "children": [
           {
-            "id": "d7244f13679f8047",
+            "id": "6205741c110102d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/HOME.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -93,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
+                "file": "Notas/HOME.md"
               }
             }
           },
@@ -150,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 262.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,10 +199,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ab94dc696fcf3aa2",
+  "active": "6205741c110102d2",
   "lastOpenFiles": [
-    "Templates/study_template.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Templates/study_template.md",
     "Notas/HOME.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Templates/moc_template.md",
