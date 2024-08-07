@@ -13,6 +13,7 @@ banner_y: 0.812
 - **Machine Learning**
 	- [[Machine Learning - TIC em Trilhas]]
 - **Data Science**
+	- [[Data Science do Zero]]
 - **Inteligencia Artificial**
 	- [[Introdução à Inteligência Artificial - TIC em Trilhas]]
 # Vault Info  

@@ -214,6 +214,10 @@ IA Clássica
 - Algoritmos genéticos
 	- computação evolutiva
 	- técnica de otimização usando conceitos de seleção natural.
+	- aplicações
+		- planejamento de rotas
+		- robótica
+		- indústria automobilística
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
 Aprendizado por Reforço

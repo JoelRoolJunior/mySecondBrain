@@ -4,29 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1919075fff5fb011",
+        "id": "5035db6e104d4735",
         "type": "tabs",
         "children": [
           {
             "id": "07fa46317aca031b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diario/2024-08-06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "a9a8c04b82b88cf2",
+            "id": "cb158c1c479c6b9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
-                "mode": "source",
+                "file": "Notas/HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CIÊNCIA_DA_COMPUTAÇÃO",
+                "query": "data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -110,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
+                "file": "Notas/HOME.md"
               }
             }
           },
@@ -167,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -211,10 +207,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a9a8c04b82b88cf2",
+  "active": "cb158c1c479c6b9e",
   "lastOpenFiles": [
     "Notas/HOME.md",
+    "Notas/Data Science do Zero.md",
     "Diario/2024-08-06.md",
+    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Templates/daily_template.md",
     "Diario/2024-07-31.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
@@ -222,7 +220,6 @@
     "Templates/note_template.md",
     "Templates/study_template.md",
     "Arquivos/Parte Serial e Parte paralela.png",
-    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
@@ -231,7 +228,6 @@
     "Arquivos/Pasted image 20240713175024.png",
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Modelagem de sistemas em UML.md",
-    "Notas/Data Science.md",
     "Arquivos/ROC e AUC.png",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
