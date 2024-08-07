@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b88f406c614c431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md"
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
               }
             }
           },
@@ -175,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,10 +206,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b88f406c614c431",
+  "active": "cb158c1c479c6b9e",
   "lastOpenFiles": [
-    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
+    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/HOME.md",
     "Notas/Data Science do Zero.md",
     "Diario/2024-08-06.md",

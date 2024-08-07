@@ -222,8 +222,10 @@ IA Clássica
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
 	- modelos de machine Learning capazes de aprender o gosto do usuário
+
 Aprendizado por Reforço
 - Fundamentos do aprendizado por reforço
+	- o aprendizado por reforço pode env
 - Aprendizado por reforço na prática
 
 ---
