@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9a8c04b82b88cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diario/2024-08-06.md"
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
               }
             }
           },
@@ -154,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diario/2024-08-06.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diario/2024-08-06.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,13 +211,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "07fa46317aca031b",
+  "active": "a9a8c04b82b88cf2",
   "lastOpenFiles": [
-    "Templates/daily_template.md",
+    "Notas/HOME.md",
     "Diario/2024-08-06.md",
+    "Templates/daily_template.md",
     "Diario/2024-07-31.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
-    "Notas/HOME.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
     "Templates/study_template.md",

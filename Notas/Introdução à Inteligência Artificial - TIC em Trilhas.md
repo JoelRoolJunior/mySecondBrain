@@ -189,6 +189,8 @@ IA Clássica
 - Lógica e raciocínio
 	- primeira forma de imitar um comportamento humano foi a mais de 200 anos
 	- lógica aristotélica
+		- só lembrar de portas lógicas **and**, **or** e **not**
+		- exemplo : Todos os homens são mortais, platão é um homem
 - Planejamento e rotas
 - Algoritmos genéticos
 Algoritmos de Recomendação
