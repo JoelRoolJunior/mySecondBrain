@@ -1,7 +1,9 @@
+---
+tags:
+  - machine_learning
+---
 # Machine Learning - TIC em Trilhas
 created:: 2024-03-14 16:47
-tags::
-people::
 
 ## Manipulação e visualização de dados
 
