@@ -187,6 +187,8 @@ title:Podcast
 ## Módulo 3 - Métodos de IA
 IA Clássica
 - Lógica e raciocínio
+	- primeira forma de imitar um comportamento humano foi a mais de 200 anos
+	- lógica aristotélica
 - Planejamento e rotas
 - Algoritmos genéticos
 Algoritmos de Recomendação
