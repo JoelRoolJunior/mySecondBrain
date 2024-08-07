@@ -191,6 +191,7 @@ IA Clássica
 	- lógica aristotélica
 		- só lembrar de portas lógicas **and**, **or** e **not**
 		- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é **mortal**
+
 - Planejamento e rotas
 	- relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 	- algoritmos de busca informadas
@@ -199,15 +200,20 @@ IA Clássica
 				- garantia de encontrar o menor caminho para todos os pontos do grafo
 				- lento
 				- exaustivo
-				- consumo de 
+				- consumo de alto de memoria
 		- busca informada - é dado dicas para melhorar a execução da busca
 			- algoritmo guloso
 				- simples
 				- rápido
 				- nem sempre nos leva a melhor solução
 			- algoritmo A-estrela
-				- 
+				- garantia de achar o menor caminho calculando  o menor número de passos possíveis
+				- não adequado a problemas complexos
+				- complexidade exponencial
+
 - Algoritmos genéticos
+	- computação evolutiva
+	- técnica de otimização usando conceitos de seleção natural.
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
 Aprendizado por Reforço
