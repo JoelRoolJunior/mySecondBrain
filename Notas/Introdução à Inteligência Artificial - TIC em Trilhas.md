@@ -184,7 +184,10 @@ title:Podcast
 - 
 ```
 
-
+## Módulo 3 - Métodos de IA
+Lógica e raciocínio
+Planejamento e rotas
+Algoritmos genéticos
 
 ---
 ## Referencias
