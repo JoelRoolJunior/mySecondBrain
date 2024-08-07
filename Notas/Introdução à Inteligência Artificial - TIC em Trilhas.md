@@ -190,12 +190,14 @@ IA Clássica
 	- primeira forma de imitar um comportamento humano foi a mais de 200 anos
 	- lógica aristotélica
 		- só lembrar de portas lógicas **and**, **or** e **not**
-		- exemplo : Todos os homens são **mortais**, platão é um **homem**, logo platão é **mortal**
+		- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é **mortal**
 - Planejamento e rotas
 	- relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 	- algoritmos de busca informadas
-		- busca não informada - 
-		- busca informada - 
+		- busca não informada - apenas definição do problema sem a necessidade de dados específicos
+			- algoritmo guloso
+			- algoritmo de Dijkstra
+		- busca informada - é dado dicas para melhorar a execução da busca
 - Algoritmos genéticos
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
