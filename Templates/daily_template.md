@@ -1,7 +1,6 @@
 ---
 tags:
   - daily
+created: "{{date}} {{time}}"
 ---
-# {{date:YYYY-MM-DD} 
-created:: {{date}} {{time}}
-- 
+# {{date}}

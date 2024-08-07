@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1785cea504c9bfc6",
+        "id": "1919075fff5fb011",
         "type": "tabs",
         "children": [
           {
-            "id": "89e59dcdb1315030",
+            "id": "07fa46317aca031b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/daily_template.md",
+                "file": "Diario/2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/daily_template.md"
+                "file": "Diario/2024-08-06.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/daily_template.md",
+                "file": "Diario/2024-08-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/daily_template.md",
+                "file": "Diario/2024-08-06.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,18 +198,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "89e59dcdb1315030",
+  "active": "07fa46317aca031b",
   "lastOpenFiles": [
+    "Templates/daily_template.md",
+    "Diario/2024-08-06.md",
+    "Diario/2024-07-31.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/HOME.md",
-    "Templates/daily_template.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
     "Templates/study_template.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Diario/2024-07-31.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
@@ -238,7 +239,6 @@
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
     "Projetos/IncluseMind.md",
     "Projetos/projeto de visão computacional.md",
-    "Notas/Sistemas Distribuídos - Introdução aos Sistemas Distribuídos.md",
     "Banners",
     "snippets",
     "Nova pasta",
