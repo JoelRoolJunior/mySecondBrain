@@ -185,9 +185,15 @@ title:Podcast
 ```
 
 ## Módulo 3 - Métodos de IA
-Lógica e raciocínio
-Planejamento e rotas
-Algoritmos genéticos
+IA Clássica
+- Lógica e raciocínio
+- Planejamento e rotas
+- Algoritmos genéticos
+Algoritmos de Recomendação
+- Sistemas de recomendações personalizadas
+Aprendizado por Reforço
+- Fundamentos do aprendizado por reforço
+- Aprendizado por reforço na prática
 
 ---
 ## Referencias
