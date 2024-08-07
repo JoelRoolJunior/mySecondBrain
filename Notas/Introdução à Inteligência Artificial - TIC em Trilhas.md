@@ -195,9 +195,18 @@ IA Clássica
 	- relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 	- algoritmos de busca informadas
 		- busca não informada - apenas definição do problema sem a necessidade de dados específicos
-			- algoritmo guloso
 			- algoritmo de Dijkstra
+				- garantia de encontrar o menor caminho para todos os pontos do grafo
+				- lento
+				- exaustivo
+				- consumo de 
 		- busca informada - é dado dicas para melhorar a execução da busca
+			- algoritmo guloso
+				- simples
+				- rápido
+				- nem sempre nos leva a melhor solução
+			- algoritmo A-estrela
+				- 
 - Algoritmos genéticos
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
