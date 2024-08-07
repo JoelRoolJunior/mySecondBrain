@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b88f406c614c431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Machine Learning - TIC em Trilhas.md"
               }
             }
           },
@@ -163,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Machine Learning - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,15 +218,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb158c1c479c6b9e",
+  "active": "6b88f406c614c431",
   "lastOpenFiles": [
+    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/HOME.md",
     "Notas/Data Science do Zero.md",
     "Diario/2024-08-06.md",
-    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Templates/daily_template.md",
     "Diario/2024-07-31.md",
-    "Notas/Machine Learning - TIC em Trilhas.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
     "Templates/study_template.md",

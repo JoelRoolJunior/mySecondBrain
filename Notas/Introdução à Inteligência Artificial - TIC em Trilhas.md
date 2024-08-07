@@ -218,8 +218,10 @@ IA Clássica
 		- planejamento de rotas
 		- robótica
 		- indústria automobilística
+
 Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
+	- modelos de machine Learning capazes de aprender o gosto do usuário
 Aprendizado por Reforço
 - Fundamentos do aprendizado por reforço
 - Aprendizado por reforço na prática
