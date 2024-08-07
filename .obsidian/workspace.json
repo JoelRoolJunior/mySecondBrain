@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2a48b34bedf7f407",
+        "id": "bcb0b959115eaec3",
         "type": "tabs",
         "children": [
           {
-            "id": "089ab99939676bbb",
+            "id": "d8c739c54234fea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
               }
             }
           },
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +199,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "089ab99939676bbb",
+  "active": "d8c739c54234fea7",
   "lastOpenFiles": [
+    "Notas/HOME.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Templates/study_template.md",
-    "Notas/HOME.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Templates/moc_template.md",
     "Templates/daily_template.md",
