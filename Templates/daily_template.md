@@ -1,4 +1,7 @@
-# {{date:YYYY-MM-DD}}
-tags:: #daily 
+---
+tags:
+  - daily
+---
+# {{date:YYYY-MM-DD} 
 created:: {{date}} {{time}}
 - 

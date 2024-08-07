@@ -7,5 +7,5 @@
   "defaultViewMode": "preview",
   "readableLineLength": true,
   "propertiesInDocument": "visible",
-  "livePreview": false
+  "livePreview": true
 }

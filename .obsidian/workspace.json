@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
+                "file": "Templates/daily_template.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md"
+                "file": "Templates/daily_template.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
+                "file": "Templates/daily_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Machine Learning - TIC em Trilhas.md",
+                "file": "Templates/daily_template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,20 +200,21 @@
   },
   "active": "89e59dcdb1315030",
   "lastOpenFiles": [
+    "Notas/Machine Learning - TIC em Trilhas.md",
+    "Notas/HOME.md",
+    "Templates/daily_template.md",
+    "Templates/moc_template.md",
+    "Templates/note_template.md",
+    "Templates/study_template.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
-    "Notas/HOME.md",
-    "Templates/study_template.md",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Templates/moc_template.md",
-    "Templates/daily_template.md",
     "Diario/2024-07-31.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
-    "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/Data Science.md",
@@ -231,7 +232,6 @@
     "Notas/análise da aplicação.md",
     "Arquivos/support-vector machine.png",
     "Arquivos/divisão não linear.png",
-    "Arquivos/Exemplo de regressão linear.png",
     "Notas/Machine.md",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
