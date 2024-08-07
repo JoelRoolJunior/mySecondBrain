@@ -225,8 +225,10 @@ Algoritmos de Recomendação
 
 Aprendizado por Reforço
 - Fundamentos do aprendizado por reforço
-	- o aprendizado por reforço pode env
+	- o aprendizado por reforço pode envolver recompensas ou punições
+	- envolve várias técnicas desafiadoras
 - Aprendizado por reforço na prática
+	- Alguns dos principais exemplos do Aprendizado por Reforço podem ser observados em ambientes interativos, que apresentam diversas decisões e táticas complexas, e os jogos proporcionam um desafio interessante para o aprendizado.
 
 ---
 ## Referencias
