@@ -272,7 +272,7 @@ collapse: closed
 	11. Para entender um pouco mais sobre aprendizado por reforço e os feitos conquistados pelos modelos AlphaGo, OpenAI Five e AlphaStar, estes 3 vídeos exploram como estes modelos conseguiram superar os seres humanos em seus respectivos jogos: 
 		- [AlphaGo: The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 		- [Artificial Gamer](https://www.youtube.com/watch?v=AZQeaUyNVsw)
-		- 
+		- [AlphaStar](https://www.youtube.com/watch?v=3UdH3lPF7nE)
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---
