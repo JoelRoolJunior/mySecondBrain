@@ -185,14 +185,15 @@ title:Podcast
 ```
 
 ## Módulo 3 - Métodos de IA
-IA Clássica
-- Lógica e raciocínio
-	- primeira forma de imitar um comportamento humano foi a mais de 200 anos
-	- lógica aristotélica
-		- só lembrar de portas lógicas **and**, **or** e **not**
-		- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é **mortal**
+### IA Clássica
 
-- Planejamento e rotas
+**Lógica e raciocínio**
+- primeira forma de imitar um comportamento humano foi a mais de 200 anos
+- lógica aristotélica
+	- só lembrar de portas lógicas **and**, **or** e **not**
+	- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é **mortal**
+
+- **Planejamento e rotas**
 	- relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 	- algoritmos de busca informadas
 		- busca não informada - apenas definição do problema sem a necessidade de dados específicos
@@ -211,7 +212,7 @@ IA Clássica
 				- não adequado a problemas complexos
 				- complexidade exponencial
 
-- Algoritmos genéticos
+- **Algoritmos genéticos**
 	- computação evolutiva
 	- técnica de otimização usando conceitos de seleção natural.
 	- aplicações
@@ -219,11 +220,11 @@ IA Clássica
 		- robótica
 		- indústria automobilística
 
-Algoritmos de Recomendação
+### Algoritmos de Recomendação
 - Sistemas de recomendações personalizadas
 	- modelos de machine Learning capazes de aprender o gosto do usuário
 
-Aprendizado por Reforço
+### Aprendizado por Reforço
 - Fundamentos do aprendizado por reforço
 	- o aprendizado por reforço pode envolver recompensas ou punições
 	- envolve várias técnicas desafiadoras
