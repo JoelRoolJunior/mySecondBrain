@@ -270,7 +270,9 @@ collapse: closed
 	9. [Ted Talk algoritmos genéticos.](https://www.youtube.com/watch?v=D3zUmfDd79s)
 	10. Esse [tutorial](https://www.datacamp.com/tutorial/recommender-systems-python) demonstra o passo-a-passo de como construir um recomendador de filmes usando Filtragem Colaborativa com Python.
 	11. Para entender um pouco mais sobre aprendizado por reforço e os feitos conquistados pelos modelos AlphaGo, OpenAI Five e AlphaStar, estes 3 vídeos exploram como estes modelos conseguiram superar os seres humanos em seus respectivos jogos: 
-		- AlphaGo: The Movie
+		- [AlphaGo: The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+		- [Artificial Gamer](https://www.youtube.com/watch?v=AZQeaUyNVsw)
+		- 
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---
