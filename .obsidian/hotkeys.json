@@ -14,5 +14,15 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
   ]
 }
