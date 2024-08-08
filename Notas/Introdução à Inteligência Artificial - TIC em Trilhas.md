@@ -246,6 +246,7 @@ collapse: closed
 ```
 
 
+
 ---
 ## Referencias
 - **LEITURAS**:
@@ -266,6 +267,10 @@ collapse: closed
 		- [O QUE É GDPR](https://www.youtube.com/watch?v=RiT3X2q8eFo)
 	7. [Ted Talk Consciência Humana](https://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness?subtitle=en&lng=pt-br&geo=pt-br)
 	8. [INTELIGÊNCIA ARTIFICIAL E DIREITOS AUTORAIS](https://www.youtube.com/watch?v=CVcHGnvKduU)
+	9. [Ted Talk algoritmos genéticos.](https://www.youtube.com/watch?v=D3zUmfDd79s)
+	10. Esse [tutorial](https://www.datacamp.com/tutorial/recommender-systems-python) demonstra o passo-a-passo de como construir um recomendador de filmes usando Filtragem Colaborativa com Python.
+	11. Para entender um pouco mais sobre aprendizado por reforço e os feitos conquistados pelos modelos AlphaGo, OpenAI Five e AlphaStar, estes 3 vídeos exploram como estes modelos conseguiram superar os seres humanos em seus respectivos jogos: 
+		- AlphaGo: The Movie
 - **OUTRAS REFERÊNCIAS**
 	1.
 ---
