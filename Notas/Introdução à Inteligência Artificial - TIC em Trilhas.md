@@ -187,12 +187,19 @@ title:Podcast
 ## Módulo 3 - Métodos de IA
 ### IA Clássica
 
+|     |     |
+| --- | --- |
+|     |     |
 
-**Lógica e raciocínio**
+
+```ad-note
+title: **Lógica e Raciocínio**
+collapse: closed
 - primeira forma de imitar um comportamento humano foi a mais de 200 anos
 - lógica aristotélica
 	- só lembrar de portas lógicas **and**, **or** e **not**
-	- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é **mortal**
+	- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é         **mortal**
+```
 
 **Planejamento e rotas**
 - relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
