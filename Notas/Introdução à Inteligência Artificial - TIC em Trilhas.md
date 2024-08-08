@@ -187,14 +187,8 @@ title:Podcast
 ## Módulo 3 - Métodos de IA
 ### IA Clássica
 
-|     |     |
-| --- | --- |
-|     |     |
-
-
 ```ad-note
 title: **Lógica e Raciocínio**
-collapse: closed
 - primeira forma de imitar um comportamento humano foi a mais de 200 anos
 - lógica aristotélica
 	- só lembrar de portas lógicas **and**, **or** e **not**
