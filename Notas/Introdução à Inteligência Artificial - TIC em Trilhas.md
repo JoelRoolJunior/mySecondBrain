@@ -186,16 +186,17 @@ title:Podcast
 
 ## Módulo 3 - Métodos de IA
 ### IA Clássica
-
 ```ad-note
 title: **Lógica e Raciocínio**
+collapse:closed
 - primeira forma de imitar um comportamento humano foi a mais de 200 anos
 - lógica aristotélica
 	- só lembrar de portas lógicas **and**, **or** e **not**
 	- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é         **mortal**
 ```
-
-**Planejamento e rotas**
+```ad-note
+title:**Planejamento e rotas**
+collapse:closed
 - relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 - algoritmos de busca informadas
 	- busca não informada - apenas definição do problema sem a necessidade de dados específicos
@@ -213,25 +214,37 @@ title: **Lógica e Raciocínio**
 			- garantia de achar o menor caminho calculando  o menor número de passos possíveis
 			- não adequado a problemas complexos
 			- complexidade exponencial
-
-**Algoritmos genéticos**
+```
+```ad-note
+title:**Algoritmos genéticos**
+collapse:closed
 - computação evolutiva
 - técnica de otimização usando conceitos de seleção natural.
 - aplicações
 	- planejamento de rotas
 	- robótica
 	- indústria automobilística
-
+```
 ### Algoritmos de Recomendação
-- Sistemas de recomendações personalizadas
-	- modelos de machine Learning capazes de aprender o gosto do usuário
-
+```ad-note
+title: **Sistemas de recomendações personalizadas**
+collapse: closed
+- modelos de machine Learning capazes de aprender o gosto do usuário
+```
 ### Aprendizado por Reforço
-- Fundamentos do aprendizado por reforço
-	- o aprendizado por reforço pode envolver recompensas ou punições
-	- envolve várias técnicas desafiadoras
-- Aprendizado por reforço na prática
-	- Alguns dos principais exemplos do Aprendizado por Reforço podem ser observados em ambientes interativos, que apresentam diversas decisões e táticas complexas, e os jogos proporcionam um desafio interessante para o aprendizado.
+
+```ad-note
+title: **Fundamentos do aprendizado por reforço**
+collapse: closed
+- o aprendizado por reforço pode envolver recompensas ou punições
+- envolve várias técnicas desafiadoras
+```
+```ad-note
+title: **Aprendizado por reforço na prática**
+collapse: closed
+- Alguns dos principais exemplos do Aprendizado por Reforço podem ser observados em ambientes interativos, que apresentam diversas decisões e táticas complexas, e os jogos proporcionam um desafio interessante para o aprendizado.
+```
+
 
 ---
 ## Referencias
