@@ -189,31 +189,31 @@ title:Podcast
 ```ad-note
 title: **Lógica e Raciocínio**
 collapse:closed
-- primeira forma de imitar um comportamento humano foi a mais de 200 anos
-- lógica aristotélica
-	- só lembrar de portas lógicas **and**, **or** e **not**
-	- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é         **mortal**
+primeira forma de imitar um comportamento humano foi a mais de 200 anos
+lógica aristotélica
+- só lembrar de portas lógicas **and**, **or** e **not**
+- exemplo : Todos os homens são **mortais**, Platão é um **homem**, logo Platão é         **mortal**
 ```
 ```ad-note
 title:**Planejamento e rotas**
 collapse:closed
-- relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
-- algoritmos de busca informadas
-	- busca não informada - apenas definição do problema sem a necessidade de dados específicos
-		- algoritmo de Dijkstra
-			- garantia de encontrar o menor caminho para todos os pontos do grafo
-			- lento
-			- exaustivo
-			- consumo de alto de memoria
-	- busca informada - é dado dicas para melhorar a execução da busca
-		- algoritmo guloso
-			- simples
-			- rápido
-			- nem sempre nos leva a melhor solução
-		- algoritmo A-estrela
-			- garantia de achar o menor caminho calculando  o menor número de passos possíveis
-			- não adequado a problemas complexos
-			- complexidade exponencial
+relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
+algoritmos de busca informadas
+- busca não informada - apenas definição do problema sem a necessidade de dados específicos
+	- algoritmo de Dijkstra
+		- garantia de encontrar o menor caminho para todos os pontos do grafo
+		- lento
+		- exaustivo
+		- consumo de alto de memoria
+- busca informada - é dado dicas para melhorar a execução da busca
+	- algoritmo guloso
+		- simples
+		- rápido
+		- nem sempre nos leva a melhor solução
+	- algoritmo A-estrela
+		- garantia de achar o menor caminho calculando  o menor número de passos possíveis
+		- não adequado a problemas complexos
+		- complexidade exponencial
 ```
 ```ad-note
 title:**Algoritmos genéticos**
