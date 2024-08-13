@@ -250,7 +250,9 @@ collapse: open
 ```ad-note
 title: A evolução da visão computacional
 collapse: open
-
+- Como os computadores exergam?
+- os computadores enxergam apenas valores numericos.
+- houve estudos sobre como a visão biológica 
 ```
 ```ad-note
 title: Preprocessamento e filtros
