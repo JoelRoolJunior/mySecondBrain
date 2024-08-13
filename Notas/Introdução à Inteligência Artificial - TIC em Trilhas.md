@@ -188,7 +188,7 @@ title:Podcast
 ### IA Clássica
 ```ad-note
 title: **Lógica e Raciocínio**
-collapse:closed
+collapse: open
 primeira forma de imitar um comportamento humano foi a mais de 200 anos
 lógica aristotélica
 - só lembrar de portas lógicas **and**, **or** e **not**
@@ -196,7 +196,7 @@ lógica aristotélica
 ```
 ```ad-note
 title:**Planejamento e rotas**
-collapse:closed
+collapse: open
 relembrando conceitos de grafos dando exemplos com mapas e rotas que podem seguidos
 algoritmos de busca informadas
 - busca não informada - apenas definição do problema sem a necessidade de dados específicos
@@ -217,7 +217,7 @@ algoritmos de busca informadas
 ```
 ```ad-note
 title:**Algoritmos genéticos**
-collapse:closed
+collapse: open
 - computação evolutiva
 - técnica de otimização usando conceitos de seleção natural.
 - aplicações
@@ -228,23 +228,24 @@ collapse:closed
 ### Algoritmos de Recomendação
 ```ad-note
 title: **Sistemas de recomendações personalizadas**
-collapse: closed
+collapse: open
 - modelos de machine Learning capazes de aprender o gosto do usuário
 ```
 ### Aprendizado por Reforço
 
 ```ad-note
 title: **Fundamentos do aprendizado por reforço**
-collapse: closed
+collapse: open
 - o aprendizado por reforço pode envolver recompensas ou punições
 - envolve várias técnicas desafiadoras
 ```
 ```ad-note
 title: **Aprendizado por reforço na prática**
-collapse: closed
+collapse: open
 - Alguns dos principais exemplos do Aprendizado por Reforço podem ser observados em ambientes interativos, que apresentam diversas decisões e táticas complexas, e os jogos proporcionam um desafio interessante para o aprendizado.
 ```
 
+## Módulo 4 - Visão Computacional
 
 
 ---
