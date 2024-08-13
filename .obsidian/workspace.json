@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "20889fcafd3c239e",
+        "id": "257a016906040f2e",
         "type": "tabs",
         "children": [
           {
-            "id": "cb39adeebcf03b6d",
+            "id": "17f08d123168e051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Programação orientada a objetos em Java.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e6ccfdb0a82d79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/IncluseMind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a84531ef7c48f446",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md"
               }
             }
           },
@@ -154,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,11 +221,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb39adeebcf03b6d",
+  "active": "a84531ef7c48f446",
   "lastOpenFiles": [
+    "Projetos/IncluseMind.md",
+    "Notas/Programação orientada a objetos em Java.md",
+    "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
+    "Notas/Estatística e Probabilidade.md",
+    "Notas/HOME.md",
+    "Notas/Tipos de Diagrama UML.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Rup.md",
-    "Notas/HOME.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Data Science do Zero.md",
     "Diario/2024-08-06.md",
@@ -218,14 +246,12 @@
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
-    "Notas/Tipos de Diagrama UML.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Arquivos/ROC e AUC.png",
     "Arquivos/modelo Kmeans.png",
     "Arquivos/Naive Bayes Classifier.png",
     "Arquivos/Arvore de decisão.png",
     "Arquivos/KNN exemplo.png",
-    "Notas/Estatística e Probabilidade.md",
     "Notas/Esquema de flynn.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
@@ -236,9 +262,6 @@
     "Notas/Machine.md",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
-    "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
-    "Projetos/IncluseMind.md",
-    "Projetos/projeto de visão computacional.md",
     "Banners",
     "snippets",
     "Nova pasta",
