@@ -246,7 +246,18 @@ collapse: open
 ```
 
 ## Módulo 4 - Visão Computacional
+### Introdução a Visão computacional
+```ad-note
+title: A evolução da visão computacional
+collapse: open
 
+```
+```ad-note
+title: Preprocessamento e filtros
+collapse: open
+```
+### Aplicações da visão computacional
+### IA Generativa
 
 ---
 ## Referencias
