@@ -1,5 +1,7 @@
 ---
-tags: 
+tags:
+  - estacio
+  - CIÊNCIA_DA_COMPUTAÇÃO
 created: 2024-08-13 22:12
 ---
 # Pensamento Computacional
@@ -8,11 +10,10 @@ created: 2024-08-13 22:12
 - computadores são o que nós queremos que ele sejam, elas representam o ser humano em busca de soluções
 ```ad-question
 title:**O que é pensamento computacional?**
-collapse: closed
+collapse: open
 Pode ser considerada o processo de tradução de problemas do mundo real para o mundo dos computadores.
 ```
 
-sasas
 
 
 ---

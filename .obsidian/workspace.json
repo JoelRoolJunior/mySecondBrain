@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8628eb0021a1460d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas/Pensamento Computacional.md",
-                "mode": "source",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +79,7 @@
       {
         "id": "e400d1eddabb3a06",
         "type": "tabs",
-        "dimension": 44.33862433862433,
+        "dimension": 32.346723044397464,
         "children": [
           {
             "id": "f3fbcde603720b81",
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Pensamento Computacional.md"
+                "file": "Notas/Sistemas de Informação e Sociedade.md"
               }
             }
           },
@@ -138,15 +125,7 @@
               "type": "git-history-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c01314046f2c0733",
-        "type": "tabs",
-        "dimension": 32.698412698412696,
-        "children": [
+          },
           {
             "id": "e12554e16a897815",
             "type": "leaf",
@@ -155,12 +134,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "05a66dd0e1ed89e1",
         "type": "tabs",
-        "dimension": 22.96296296296297,
+        "dimension": 31.501057082452434,
         "children": [
           {
             "id": "4c82bae5e84b42fa",
@@ -168,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Pensamento Computacional.md",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,9 +165,51 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Pensamento Computacional.md",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2ef715baf40392e",
+        "type": "tabs",
+        "dimension": 36.1522198731501,
+        "children": [
+          {
+            "id": "464c26ddf002c477",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8412344300373653,
+                  "close": true
+                }
               }
             }
           }
@@ -195,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5,
-    "collapsed": true
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,11 +233,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8628eb0021a1460d",
+  "active": "68d961e500a93e52",
   "lastOpenFiles": [
-    "Templates/study_template.md",
     "Notas/HOME.md",
+    "Notas/Matérias de ciência da computação.md",
     "Notas/Pensamento Computacional.md",
+    "Notas/Machine Learning - TIC em Trilhas.md",
+    "Notas/Sistemas de Informação e Sociedade.md",
+    "Templates/study_template.md",
     "Arquivos/Quadro de Horario.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Programação orientada a objetos em Java.md",
@@ -225,7 +249,6 @@
     "Notas/Estatística e Probabilidade.md",
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Rup.md",
-    "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Data Science do Zero.md",
     "Diario/2024-08-06.md",
     "Templates/daily_template.md",
@@ -248,8 +271,6 @@
     "Notas/Esquema de flynn.md",
     "Notas/ÁRVORE DE CONHECIMENTO.md",
     "Notas/ÁREA DE TRABALHO.canvas",
-    "Notas/Análise do domínio (ou do negócio).md",
-    "Notas/análise da aplicação.md",
     "Arquivos/support-vector machine.png",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
