@@ -252,7 +252,9 @@ title: A evolução da visão computacional
 collapse: open
 - Como os computadores exergam?
 - os computadores enxergam apenas valores numericos.
-- houve estudos sobre como a visão biológica 
+- houve estudos sobre como a visão biológica funcionar.
+	- começamos primeiro reconhecendo formas e coisas mais básicas.
+	- Após nos focamos mais no detalhes.
 ```
 ```ad-note
 title: Preprocessamento e filtros
