@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4d65878fd57a64",
+        "id": "231bdce9a23fe753",
         "type": "tabs",
         "children": [
           {
-            "id": "68d961e500a93e52",
+            "id": "44663fac9a247579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5f6d6dd91741644",
+            "id": "8d2723509952811b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Geometria Analítica e Álgebra Linear.md"
+                "file": "Notas/Linguagens Formais e Autômatos.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,7 +218,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8412344300373653,
+                  "scale": 0.7730923222357201,
                   "close": true
                 }
               }
@@ -244,18 +244,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "68d961e500a93e52",
+  "active": "44663fac9a247579",
   "lastOpenFiles": [
     "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/HOME.md",
+    "Notas/Linguagens Formais e Autômatos.md",
+    "Notas/Pensamento Computacional.md",
+    "Templates/study_template.md",
     "Notas/Geometria Analítica e Álgebra Linear.md",
     "Diario/2024-03-13.md",
     "Diario/2024-03-08.md",
     "Diario/2024-08-06.md",
     "Notas/Matérias de ciência da computação.md",
-    "Notas/Pensamento Computacional.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
-    "Templates/study_template.md",
     "Arquivos/Quadro de Horario.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Programação orientada a objetos em Java.md",
@@ -280,7 +281,6 @@
     "Arquivos/Naive Bayes Classifier.png",
     "Arquivos/Arvore de decisão.png",
     "Arquivos/KNN exemplo.png",
-    "Notas/Esquema de flynn.md",
     "Notas/ÁREA DE TRABALHO.canvas",
     "Arquivos/support-vector machine.png",
     "Arquivos/edital do ITA 2024.pdf",
