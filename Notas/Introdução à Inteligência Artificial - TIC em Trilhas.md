@@ -260,9 +260,30 @@ collapse: open
 title: Preprocessamento e filtros
 collapse: open
 exemplos de equipamento de captura
-- camer
+- camera de celular
+- cameras de segurança
+- sensores
+- etc...
+
+hoje em dia nos nossos equipamentos possuem um preprocessamento das imagens
+
+**convolução**
+- operação matematica
+- dedicada a encontrar caracteristicas em imagens.
+
+**preprocessamento**
+- detecção de objetos
+- detecção de humanos
+- detecção de faces
+- etc..
 ```
 ### Aplicações da visão computacional
+```ad-note
+title:**visão computacional no dia a dia**
+collapse:open
+- reconhecimento facial para desbloquear o celular
+- 
+```
 ### IA Generativa
 
 ---
