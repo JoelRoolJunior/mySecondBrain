@@ -11,11 +11,11 @@ banner_y: 0.812
 # Estácio
 **Quadro de Horário**
 ![[Quadro de Horario.png]]
-- Pensamento Computacional
-- Sistemas de Informação e Sociedade
-- Geometria Analítica e Álgebra Linear
-- Linguagens Formais e Autômatos
-- Modelagem Matemática
+- [[Pensamento Computacional]]
+- [[Sistemas de Informação e Sociedade]]
+- [[Geometria Analítica e Álgebra Linear]]
+- [[Linguagens Formais e Autômatos]]
+- [[Modelagem Matemática]]
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
 - **Machine Learning**

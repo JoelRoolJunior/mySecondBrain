@@ -1,8 +1,10 @@
 ---
 tags: 
-created: "{{date}} {{time}}"
+created: 2024-08-13 22:12
 ---
-# {{title}}
+# Pensamento Computacional
+## Introdução
+- 
 
 ---
 ## Referencias
