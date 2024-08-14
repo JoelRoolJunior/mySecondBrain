@@ -2,15 +2,13 @@
 tags:
   - estacio
   - CIÊNCIA_DA_COMPUTAÇÃO
-created: 2024-08-13 22:30
+created: 2024-08-13 23:06
 ---
-# Sistemas de Informação e Sociedade
+# Geometria Analítica e Álgebra Linear
 ```ad-question
 title:**Sobre o que é essa matéria?**
-- interações humanas e do impacto social.
-- Fundamentação Histórica dos Direitos Humanos
+- 
 ```
-
 
 ---
 ## Referencias
