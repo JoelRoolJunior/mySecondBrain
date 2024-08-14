@@ -5,7 +5,10 @@ created: 2024-08-13 23:15
 # Linguagens Formais e Autômatos
 ```ad-question
 title:**Sobre o que é essa matéria?**
-- 
+- Conceitos Básicos de Autômatos e Linguagens
+- Linguagens Regulares
+- Linguagens Livres de Contexto
+- Computabilidade e a Máquina de Turing
 ```
 
 ---
