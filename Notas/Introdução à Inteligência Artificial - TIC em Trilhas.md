@@ -259,6 +259,8 @@ collapse: open
 ```ad-note
 title: Preprocessamento e filtros
 collapse: open
+exemplos de equipamento de captura
+- camer
 ```
 ### Aplicações da visão computacional
 ### IA Generativa
