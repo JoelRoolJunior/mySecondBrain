@@ -1,7 +1,3 @@
----
-tags: 
-created: "{{date}} {{time}}"
----
 # {{title}}
 
 ---

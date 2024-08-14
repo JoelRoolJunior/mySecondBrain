@@ -11,12 +11,13 @@ banner_y: 0.812
 # Estácio
 **Quadro de Horário**
 ![[Quadro de Horario.png]]
+## Ciência da Computação
 - [[Pensamento Computacional]]
 - [[Sistemas de Informação e Sociedade]]
 - [[Geometria Analítica e Álgebra Linear]]
 - [[Linguagens Formais e Autômatos]]
 - [[Modelagem Matemática]]
-# Ciência da Computação
+# TIC em Trilhas
 - [[Modelagem de sistemas em UML]]
 - **Machine Learning**
 	- [[Machine Learning - TIC em Trilhas]]
