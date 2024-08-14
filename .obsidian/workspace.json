@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "398da45c13e4cd6f",
+            "id": "68d961e500a93e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
+                "file": "Notas/HOME.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +199,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "398da45c13e4cd6f",
+  "active": "68d961e500a93e52",
   "lastOpenFiles": [
-    "Notas/HOME.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Notas/HOME.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Projetos/IncluseMind.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",

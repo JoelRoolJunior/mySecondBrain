@@ -8,6 +8,8 @@ banner_y: 0.812
 ---
 <div class="title" style="color:white; text-decoration: underline ">HOME</div>
 
+# Estacio
+Quadro de Horario
 # Ciência da Computação
 - [[Modelagem de sistemas em UML]]
 - **Machine Learning**
