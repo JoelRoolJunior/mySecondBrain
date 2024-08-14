@@ -284,6 +284,8 @@ collapse:open
 - reconhecimento facial para desbloquear o celular
 - serviços em diversas áreas
 	- agricultura
+	- fabril
+	- automobilistica
 - carro altonomo
 - area medica
 	- qualquer exame que gere imagem
@@ -293,8 +295,16 @@ collapse:open
 ```ad-note
 title: Panorama de IA Generativa
 collapse: open
+Como a IA generativa funciona
+Essas IA criam novos conteúdos???
+IA's são limitadas a algumas funções
 
-
+**Modelos de IA famosas:**
+- ChatGPT
+- Dall.E
+- Lhama
+- Gemini
+- Copilot
 ```
 
 
