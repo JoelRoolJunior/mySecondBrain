@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notas/HOME.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -201,8 +201,9 @@
   },
   "active": "68d961e500a93e52",
   "lastOpenFiles": [
-    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+    "Arquivos/Quadro de Horario.png",
     "Notas/HOME.md",
+    "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Programação orientada a objetos em Java.md",
     "Projetos/IncluseMind.md",
     "Projetos/Diagrama de Caso de Uso do Matraquinha.md",
@@ -236,8 +237,6 @@
     "Notas/Análise do domínio (ou do negócio).md",
     "Notas/análise da aplicação.md",
     "Arquivos/support-vector machine.png",
-    "Arquivos/divisão não linear.png",
-    "Notas/Machine.md",
     "Arquivos/edital do ITA 2024.pdf",
     "Arquivos/Carlos A. B. Dantas - Probabilidade_ um Curso Introdutório-Edusp (2008).pdf",
     "Banners",
