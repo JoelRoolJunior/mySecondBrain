@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -235,11 +234,14 @@
   },
   "active": "68d961e500a93e52",
   "lastOpenFiles": [
+    "Diario/2024-03-13.md",
+    "Diario/2024-03-08.md",
+    "Notas/Sistemas de Informação e Sociedade.md",
+    "Diario/2024-08-06.md",
     "Notas/HOME.md",
     "Notas/Matérias de ciência da computação.md",
     "Notas/Pensamento Computacional.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
-    "Notas/Sistemas de Informação e Sociedade.md",
     "Templates/study_template.md",
     "Arquivos/Quadro de Horario.png",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
@@ -250,15 +252,12 @@
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Rup.md",
     "Notas/Data Science do Zero.md",
-    "Diario/2024-08-06.md",
     "Templates/daily_template.md",
     "Diario/2024-07-31.md",
     "Templates/moc_template.md",
     "Templates/note_template.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
-    "Diario/2024-03-13.md",
-    "Diario/2024-03-08.md",
     "Notas/Sistemas distribuídos e computação paralela.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
