@@ -282,9 +282,22 @@ hoje em dia nos nossos equipamentos possuem um preprocessamento das imagens
 title:**visão computacional no dia a dia**
 collapse:open
 - reconhecimento facial para desbloquear o celular
-- 
+- serviços em diversas áreas
+	- agricultura
+- carro altonomo
+- area medica
+	- qualquer exame que gere imagem
+- linha de produção de fábricas
 ```
 ### IA Generativa
+```ad-note
+title: Panorama de IA Generativa
+collapse: open
+
+
+```
+
+
 
 ---
 ## Referencias
