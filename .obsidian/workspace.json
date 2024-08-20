@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1770e0eec9ef5073",
+        "id": "1b2e17d957cf42d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8623878b9e300fdc",
+            "id": "7254753fa4429202",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,7 +206,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7730923222357201,
+                  "scale": 0.5881227002315157,
                   "close": true
                 }
               }
@@ -232,7 +232,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8623878b9e300fdc",
+  "active": "7254753fa4429202",
   "lastOpenFiles": [
     "Templates/study_template.md",
     "Notas/Modelagem de sistemas em UML.md",
