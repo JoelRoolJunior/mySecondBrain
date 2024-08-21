@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b67c64d5e4ea878b",
+        "id": "951f7743b49d5bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "87581d4d37e25e54",
+            "id": "961b9c2557233265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "05a66dd0e1ed89e1",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,11 +232,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "87581d4d37e25e54",
+  "active": "961b9c2557233265",
   "lastOpenFiles": [
+    "Notas/HOME.md",
     "Templates/study_template.md",
     "Notas/Modelagem de sistemas em UML.md",
-    "Notas/HOME.md",
     "Notas/Modelagem Matemática.md",
     "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/Linguagens Formais e Autômatos.md",

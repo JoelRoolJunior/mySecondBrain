@@ -307,6 +307,12 @@ IA's são limitadas a algumas funções
 - Copilot
 ```
 
+## Módulo 5 - Processamento de Linguagem Natural
+### Introdução ao processamento de linguagem natural
+### Aplicações do PLN
+### Agentes conversacionais
+### RASA Bot
+
 
 
 ---
