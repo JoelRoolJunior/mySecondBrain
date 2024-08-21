@@ -312,7 +312,12 @@ IA's são limitadas a algumas funções
 ```ad-note
 title:PLN - Visão geral
 **Processamento de Linguagem Natural** (em inglês **Natural Language Processing**)
+- Procura entender como os seres humanos processam e aprendem sobre a liguagem natural.
 
+Sintaxe - estrutura das sentensas
+Semântica - procura o significado das palavras e das sentensas 
+Contexto - estuda a mudança da sintaxe e da semântica
+Fonética - 
 ```
 ```ad-note
 title:Pré-processamento em PLN
