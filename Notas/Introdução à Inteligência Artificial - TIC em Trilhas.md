@@ -321,6 +321,13 @@ Fonética -
 ```
 ```ad-note
 title:Pré-processamento em PLN
+- Tokenização das palavras
+- Normalização
+	- palavras compostas
+	- palavras científicas
+	- textos informais
+	- abreviações
+	- preposiçõe
 ```
 ### Aplicações do PLN
 ```ad-note
