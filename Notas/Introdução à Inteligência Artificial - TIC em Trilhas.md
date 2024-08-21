@@ -332,11 +332,14 @@ title:Pré-processamento em PLN
 	- efetivo em mecanismos de busca
 - Particionamento
 - reconheciemento de entidade nomeada
-- modeelamento de tópico
+- modelamento de tópico
 ```
 ### Aplicações do PLN
 ```ad-note
 title:PLN no dia a dia
+- Podemos fazer uma pesquisa onde podemos predizer opniões de pessoas e até mesmo seus sentimentos.
+- classificação de spam em emails
+- O chat GPT pode ser resumido de uma forma bem burra como algo parecido com o corretor automático que usamos em diversos apps de conversa. 
 ```
 ### Agentes conversacionais
 ```ad-note
