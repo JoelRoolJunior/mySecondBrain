@@ -311,6 +311,8 @@ IA's são limitadas a algumas funções
 ### Introdução ao processamento de linguagem natural
 ```ad-note
 title:PLN - Visão geral
+**Processamento de Linguagem Natural** (em inglês **Natural Language Processing**)
+
 ```
 ```ad-note
 title:Pré-processamento em PLN
