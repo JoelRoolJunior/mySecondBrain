@@ -339,11 +339,13 @@ title:Pré-processamento em PLN
 title:PLN no dia a dia
 - Podemos fazer uma pesquisa onde podemos predizer opniões de pessoas e até mesmo seus sentimentos.
 - classificação de spam em emails
-- O chat GPT pode ser resumido de uma forma bem burra como algo parecido com o corretor automático que usamos em diversos apps de conversa. 
+- O chat GPT pode ser resumido de uma forma bem burra como algo parecido com o corretor automático, prevendo a próxima palavra, em diversos apps de conversa. 
 ```
 ### Agentes conversacionais
 ```ad-note
 title:Chatbots
+- como treinar chatbots?
+- chatbots - são assistentes conversacionais 
 ```
 ```ad-note
 title:ChatGPT
