@@ -349,8 +349,17 @@ title:Chatbots
 ```
 ```ad-note
 title:ChatGPT
+- OpenAI
+- lançamento : 2018
+- palavras são tokenizadas.
+- o treinamento desse troço é caro pra cacete.
+- [[Introdução à Inteligência Artificial - TIC em Trilhas#O que é Consciência?]]
+- o treinamento é **pura força bruta**.
 ```
 ### RASA Bot
+```ad-note
+title:Setup do ambiente
+```
 
 
 
