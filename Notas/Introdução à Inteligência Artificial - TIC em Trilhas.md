@@ -327,7 +327,12 @@ title:Pré-processamento em PLN
 	- palavras científicas
 	- textos informais
 	- abreviações
-	- preposiçõe
+	- preposições
+- Stemming
+	- efetivo em mecanismos de busca
+- Particionamento
+- reconheciemento de entidade nomeada
+- modeelamento de tópico
 ```
 ### Aplicações do PLN
 ```ad-note
