@@ -309,8 +309,20 @@ IA's são limitadas a algumas funções
 
 ## Módulo 5 - Processamento de Linguagem Natural
 ### Introdução ao processamento de linguagem natural
+```ad-note
+title:PLN - Visão geral
+```
+```ad-note
+title:Pré-processamento em PLN
+```
 ### Aplicações do PLN
+```ad-note
+title:PLN no dia a dia
+```
 ### Agentes conversacionais
+```ad-note
+title:PLN - Visão geral
+```
 ### RASA Bot
 
 
