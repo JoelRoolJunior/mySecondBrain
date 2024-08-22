@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd5c246bf93582b6",
+        "id": "72ad96b6154884dc",
         "type": "tabs",
         "children": [
           {
-            "id": "07d1236c0adf4f79",
+            "id": "ede6f969db7b49ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,7 +232,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "07d1236c0adf4f79",
+  "active": "ede6f969db7b49ea",
   "lastOpenFiles": [
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/HOME.md",

@@ -4,7 +4,7 @@ cssclasses:
   - dashboard-ReadLineLength
 banner: "![[banner_mesa_de_trabalho.jpg]]"
 banner_x: "0.5"
-banner_y: 0.812
+banner_y: 0.736
 ---
 <div class="title" style="color:white; text-decoration: underline ">HOME</div>
 
