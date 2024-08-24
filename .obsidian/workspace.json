@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72ad96b6154884dc",
+        "id": "bf4a4a72ae3cce7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ede6f969db7b49ea",
+            "id": "cdf27eaed53d2041",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,7 +206,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08940818968869477,
+                  "scale": 0.5030364283154595,
                   "close": true
                 }
               }
@@ -232,7 +232,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ede6f969db7b49ea",
+  "active": "464c26ddf002c477",
   "lastOpenFiles": [
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/HOME.md",
