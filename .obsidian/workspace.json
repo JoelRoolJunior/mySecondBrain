@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ebcd6bdae2525df3",
+        "id": "048087b66e2cf1ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8421d8ba0390f060",
+            "id": "ffe77aabc2812487",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,7 +234,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8421d8ba0390f060",
+  "active": "ffe77aabc2812487",
   "lastOpenFiles": [
     "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/HOME.md",
