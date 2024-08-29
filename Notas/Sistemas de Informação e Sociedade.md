@@ -17,7 +17,7 @@ title:**Sobre o que é essa matéria?**
 módulos 1 - Conceitos Básicos
 >[!note] 
 >UM SI(Sistema de informação) é um conjunto de componentes inter-relacionados -- **software, hardware e redes de telecomunicações**
-- Vamos Começar
+- **Vamos Começar**
 	- Por que empresas usam sistemas de informação?
 		- suporte a operações
 		- melhor tomada de decisões
@@ -29,20 +29,24 @@ módulos 1 - Conceitos Básicos
 		- Big Data
 			- Deu novas possibilidades
 		- Web 3.0
-- Sistema de informação no mundo real
-	- Em 1960 a SI era diferente
+- **Sistema de informação no mundo real**
+	- ***Em 1960 a SI era diferente***
 		- Tarefa
 		- Pessoa
 		- Estrutura
 		- Tecnologia
-	- **HOJE**
+	- ***HOJE***
 		- Comunicação
+			- Atualmente é impensável um computador não está conectado, ou seja, se ***comunicar*** é essencial 
 		- Pessoas
+			- pessoas são importantes pra poha
 		- Processos
 		- Tecnologia
 			- Hardware
 			- Software
 			- Dados
+- **A evolução dos sistemas de informação**
+	- 
 
 ![[mapa_mental_sistemas_de_informação|900]]
 
