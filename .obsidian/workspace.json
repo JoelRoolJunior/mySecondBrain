@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Sistemas de Informação e Sociedade.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Sistemas de Informação e Sociedade.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +236,8 @@
   },
   "active": "7ec0b37e74434201",
   "lastOpenFiles": [
-    "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/HOME.md",
+    "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Templates/study_template.md",
     "Notas/Modelagem de sistemas em UML.md",
