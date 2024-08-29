@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 Sistemas de Informação ^FaawsvOL
 
-Um sistema de informação (SI) é um conjunto de componentes inter-relacionados – **software**, **hardware** e **redes de telecomunicações** ^lZN1RU33
+Um sistema de informação (SI) é um conjunto de componentes inter-relacionados – software, hardware e redes de telecomunicações ^lZN1RU33
 
 %%
 # Drawing
@@ -22,8 +22,8 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 489,
-			"versionNonce": 385001813,
+			"version": 574,
+			"versionNonce": 266830101,
 			"isDeleted": false,
 			"id": "u9_hiyyjhfkaO4WUrDQrI",
 			"fillStyle": "solid",
@@ -50,22 +50,18 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 					"id": "FaawsvOL"
 				},
 				{
-					"id": "A3E4vv0n3Gq9r_dWn-32Y",
-					"type": "arrow"
-				},
-				{
-					"id": "9u_mIs930KZcYTVbIeMXU",
+					"id": "A7Ri-uwHbFdiTtuVymCtf",
 					"type": "arrow"
 				}
 			],
-			"updated": 1724895832742,
+			"updated": 1724896262664,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 607,
-			"versionNonce": 2123085467,
+			"version": 690,
+			"versionNonce": 797384155,
 			"isDeleted": false,
 			"id": "FaawsvOL",
 			"fillStyle": "solid",
@@ -85,7 +81,7 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724895823527,
+			"updated": 1724896241474,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -101,8 +97,8 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 		},
 		{
 			"type": "rectangle",
-			"version": 604,
-			"versionNonce": 1927157781,
+			"version": 888,
+			"versionNonce": 1255145429,
 			"isDeleted": false,
 			"id": "9Mh887geMR0hMjWW7TBVo",
 			"fillStyle": "solid",
@@ -129,18 +125,18 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 					"id": "lZN1RU33"
 				},
 				{
-					"id": "9u_mIs930KZcYTVbIeMXU",
+					"id": "A7Ri-uwHbFdiTtuVymCtf",
 					"type": "arrow"
 				}
 			],
-			"updated": 1724895832742,
+			"updated": 1724896262664,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 366,
-			"versionNonce": 1649361077,
+			"version": 538,
+			"versionNonce": 440183419,
 			"isDeleted": false,
 			"id": "lZN1RU33",
 			"fillStyle": "solid",
@@ -160,7 +156,7 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1724895824860,
+			"updated": 1724896241475,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -175,29 +171,29 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 			"baseline": 53
 		},
 		{
-			"id": "9u_mIs930KZcYTVbIeMXU",
+			"id": "A7Ri-uwHbFdiTtuVymCtf",
 			"type": "arrow",
-			"x": -160,
+			"x": -100,
 			"y": 0,
-			"width": 160,
+			"width": 100,
 			"height": 40,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#b2f2bb",
 			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
+			"strokeWidth": 4,
+			"strokeStyle": "dashed",
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 902194485,
-			"version": 49,
-			"versionNonce": 794570613,
+			"seed": 1157640859,
+			"version": 20,
+			"versionNonce": 817566069,
 			"isDeleted": false,
-			"boundElements": [],
-			"updated": 1724895893227,
+			"boundElements": null,
+			"updated": 1724896276876,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -206,129 +202,98 @@ Um sistema de informação (SI) é um conjunto de componentes inter-relacionados
 					0
 				],
 				[
-					20,
-					20
-				],
-				[
-					160,
+					100,
 					40
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "u9_hiyyjhfkaO4WUrDQrI",
-				"focus": 0.7333333333333334,
+				"focus": 0.5555555555555556,
 				"gap": 1
 			},
 			"endBinding": {
 				"elementId": "9Mh887geMR0hMjWW7TBVo",
-				"focus": 0.550561797752809,
+				"focus": 0.3043478260869565,
 				"gap": 1
 			},
 			"startArrowhead": null,
-			"endArrowhead": "dot"
+			"endArrowhead": "arrow"
 		},
 		{
-			"id": "Zyrc68esmRAut8MpWAYSH",
-			"type": "line",
-			"x": -180,
-			"y": 0,
-			"width": 180,
-			"height": 40,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
+			"type": "arrow",
+			"version": 1449,
+			"versionNonce": 1038797589,
+			"isDeleted": true,
+			"id": "9u_mIs930KZcYTVbIeMXU",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
-			"strokeStyle": "dashed",
-			"roughness": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": -139,
+			"y": 0.9999999999999929,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#b2f2bb",
+			"width": 151.00000000000006,
+			"height": 36.99999999999996,
+			"seed": 1212533467,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"seed": 1147287515,
-			"version": 30,
-			"versionNonce": 740784629,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724895823527,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1724896244398,
 			"link": null,
 			"locked": false,
+			"startBinding": {
+				"elementId": "u9_hiyyjhfkaO4WUrDQrI",
+				"focus": 0.8153846153846154,
+				"gap": 1
+			},
+			"endBinding": {
+				"elementId": "9Mh887geMR0hMjWW7TBVo",
+				"focus": 0.4705882352941195,
+				"gap": 2.000000000000057
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					180,
-					40
+					79,
+					19.000000000000007
+				],
+				[
+					151.00000000000006,
+					36.99999999999996
 				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": null
-		},
-		{
-			"id": "qGOGu1JK",
-			"type": "text",
-			"x": -144,
-			"y": 10,
-			"width": 8,
-			"height": 20,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#b2f2bb",
-			"fillStyle": "solid",
-			"strokeWidth": 0.5,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1609924731,
-			"version": 2,
-			"versionNonce": 1802533077,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1724895893228,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 16,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 13,
-			"containerId": "9u_mIs930KZcYTVbIeMXU",
-			"originalText": "",
-			"lineHeight": 1.25
+			]
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#f8f9fa",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#b2f2bb",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 0.5,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemStrokeWidth": 4,
+		"currentItemStrokeStyle": "dashed",
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "dot",
-		"scrollX": 413.52716064453125,
-		"scrollY": 145.27352905273438,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 359.90271428699805,
+		"scrollY": 213.8243590214939,
 		"zoom": {
-			"value": 2
+			"value": 1.9800255991047517
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
