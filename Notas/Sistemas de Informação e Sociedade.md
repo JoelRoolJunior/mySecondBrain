@@ -14,8 +14,13 @@ title:**Sobre o que é essa matéria?**
 ```
 
 ## Sistemas de informação
-módulos 1
-
+módulos 1 - Conceitos Básicos
+- Por que empresas k
+- Eram usados para armazenamento de dados
+- Planejamento de recursos empresariais
+- Big Data
+	- Deu novas possibilidades
+- Web 3.0
 
 
 ---
