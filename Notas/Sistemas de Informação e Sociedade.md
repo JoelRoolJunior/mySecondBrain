@@ -15,7 +15,12 @@ title:**Sobre o que é essa matéria?**
 
 ## Sistemas de informação
 módulos 1 - Conceitos Básicos
-- Por que empresas k
+- Por que empresas usam sistemas de informação?
+	- suporte a operações
+	- melhor tomada de decisões
+	- gerenciamento de análise de dados
+	- vantagem competitiva
+	- meios de comunicação
 - Eram usados para armazenamento de dados
 - Planejamento de recursos empresariais
 - Big Data
