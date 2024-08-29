@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c94a813ee23fe024",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Notas/mapa_mental_sistemas_de_informação.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md"
+                "file": "Notas/mapa_mental_sistemas_de_informação.md"
               }
             }
           },
@@ -148,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/mapa_mental_sistemas_de_informação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/mapa_mental_sistemas_de_informação.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +195,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/mapa_mental_sistemas_de_informação.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,15 +245,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ec0b37e74434201",
+  "active": "c94a813ee23fe024",
   "lastOpenFiles": [
+    "Notas/Sistemas de Informação e Sociedade.md",
+    "Notas/mapa_mental_sistemas_de_informação.md",
     "Notas/HOME.md",
     "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Templates/study_template.md",
     "Notas/Modelagem de sistemas em UML.md",
     "Notas/Modelagem Matemática.md",
-    "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/Linguagens Formais e Autômatos.md",
     "Templates/note_template.md",
     "Templates/daily_template.md",
@@ -263,7 +275,6 @@
     "Notas/Data Science do Zero.md",
     "Diario/2024-07-31.md",
     "Arquivos/Parte Serial e Parte paralela.png",
-    "Notas/CIÊNCIA DA COMPUTAÇÃO.md",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
     "Arquivos/ROC e AUC.png",

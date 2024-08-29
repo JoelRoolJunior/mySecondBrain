@@ -26,6 +26,8 @@ módulos 1 - Conceitos Básicos
 - Big Data
 	- Deu novas possibilidades
 - Web 3.0
+- UM SI(Sistema de informação) é um conjunto de componentes inter-relacionados -- **software, hardware e redes de telecomunicações**
+mapa_mental_sistemas_de_informação
 
 
 ---
