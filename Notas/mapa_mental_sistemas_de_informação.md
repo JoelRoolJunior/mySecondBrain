@@ -38,9 +38,9 @@ Sistemas de Informação ^FaawsvOL
 			"roundness": {
 				"type": 3
 			},
-			"seed": 443095509,
-			"version": 417,
-			"versionNonce": 2050568091,
+			"seed": 17954523,
+			"version": 440,
+			"versionNonce": 154317973,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -48,7 +48,7 @@ Sistemas de Informação ^FaawsvOL
 					"id": "FaawsvOL"
 				}
 			],
-			"updated": 1724894119776,
+			"updated": 1724894854060,
 			"link": null,
 			"locked": false
 		},
@@ -71,11 +71,11 @@ Sistemas de Informação ^FaawsvOL
 			"frameId": null,
 			"roundness": null,
 			"seed": 1145596661,
-			"version": 550,
-			"versionNonce": 1596546171,
+			"version": 565,
+			"versionNonce": 1578254709,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1724894119103,
+			"updated": 1724894829555,
 			"link": null,
 			"locked": false,
 			"text": "Sistemas de\nInformação",
@@ -88,11 +88,59 @@ Sistemas de Informação ^FaawsvOL
 			"containerId": "u9_hiyyjhfkaO4WUrDQrI",
 			"originalText": "Sistemas de Informação",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "2EVhjddHadLXXQQPCqOwn",
+			"type": "arrow",
+			"x": -24.786329457583292,
+			"y": -82.70917899862897,
+			"width": 9.810103810819555,
+			"height": 79.63486105242876,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 788546779,
+			"version": 118,
+			"versionNonce": 1950645339,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1724894829555,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-9.810103810819555,
+					-79.63486105242876
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "u9_hiyyjhfkaO4WUrDQrI",
+				"focus": 0.28446356745019835,
+				"gap": 11.477871015230534
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"theme": "dark",
+		"viewBackgroundColor": "#e3fafc",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
@@ -101,20 +149,20 @@ Sistemas de Informação ^FaawsvOL
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 818.3043212890625,
-		"scrollY": 424.29705810546875,
+		"scrollX": 569.4126457539313,
+		"scrollY": 330.0436733021711,
 		"zoom": {
-			"value": 1
+			"value": 1.5186456307048968
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
+			"Bold": "#82E9F2FF",
+			"Regular": "#C3F4F9FF"
 		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
