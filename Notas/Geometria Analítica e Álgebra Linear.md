@@ -15,12 +15,20 @@ title:**Sobre o que é essa matéria?**
 ```
 ## Vetores e Espaços Vetoriais
 - Espaço Vetorial
-	- grandeza vetorial : magnitude(valor, tamanho), direção  e sentido
-	- Operações básicas
+	- **grandeza vetorial** : magnitude(valor, tamanho), direção  e sentido
+	- **Operações básicas**
 		- Igualdade
 		- Adição
 		- Multiplicação
-	- 
+	- **Propriedades**
+		- Associativa na Adição
+		- Comutativa
+		- Existência do Elemento Neutro na Adição
+		- Existência do Elemento Oposto na Adição
+		- Distributiva por Vetor
+		- Distributiva por Escalar
+		- Associativa na Multiplicação por Real
+		- Existência do Elemento Neutro na Multiplicação
 
 ---
 ## Referencias
