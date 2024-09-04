@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Geometria Analítica e Álgebra Linear.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Geometria Analítica e Álgebra Linear.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +236,8 @@
   },
   "active": "359984cf3c69cb1d",
   "lastOpenFiles": [
-    "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/HOME.md",
+    "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/mapa_mental_sistemas_de_informação.md",
     "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
