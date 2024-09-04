@@ -15,7 +15,11 @@ title:**Sobre o que é essa matéria?**
 ```
 ## Vetores e Espaços Vetoriais
 - Espaço Vetorial
-	- grandeza vetorial : magnitude(valor), direção  e sentido
+	- grandeza vetorial : magnitude(valor, tamanho), direção  e sentido
+	- Operações básicas
+		- Igualdade
+		- Adição
+		- Multiplicação
 	- 
 
 ---
