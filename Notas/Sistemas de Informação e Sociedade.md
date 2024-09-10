@@ -63,6 +63,7 @@ módulos 1 - Conceitos Básicos
 		- mais fornecedores, menos barganha eles tem sobre a empresa
 		- menos fornecedores, mais barganha.
 	- Rivalidade entre os  Concorrentes
+- Vantagem competitiva
 
 
 ---
