@@ -68,7 +68,8 @@ módulos 1 - Conceitos Básicos
 		- ESS - Sistema de Apoio  executivo
 		- DSS - Sistema de Apoio  a decisão
 		- MIS - Sistemas de Informação Gerencial
-		- TPS - Sistemas de Processamento de Transações 
+		- TPS - Sistemas de Processamento de Transações
+- Tomada de Decisão
 
 
 ---
