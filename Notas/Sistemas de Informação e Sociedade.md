@@ -52,7 +52,7 @@ módulos 1 - Conceitos Básicos
 
 ## Competitividade
 **forças competitivas**
-- 5 forças de Porter
+- 5 forças de Porter (==Forças Competitivas==)
 	- ***Ameaça de produtos Substituídos***
 		- com a internet surgiu mais opções similares que desempenham a mesma função de qualquer objeto/ produto.
 	- ***Ameaça  de Novos Entrantes***
@@ -88,7 +88,7 @@ módulos 1 - Conceitos Básicos
 			- Oferecer ofertas especiais aos clientes.
 >[!info] **Resumindo** 
 >Decisões estruturadas são mais comuns em níveis mais baixos da organização, enquanto problemas não estruturados são mais comuns em níveis de negócios mais altos. Quanto ***mais estruturada for a decisão***, mais fácil será ***automatizar***.
-
+- 
 
 ---
 ## Referencias
