@@ -62,8 +62,13 @@ módulos 1 - Conceitos Básicos
 	- ***Poder de Negociação dos Fornecedores***
 		- mais fornecedores, menos barganha eles tem sobre a empresa
 		- menos fornecedores, mais barganha.
-	- Rivalidade entre os  Concorrentes
+	- ***Rivalidade entre os  Concorrentes***
 - Vantagem competitiva
+	- ***tipos de sistemas de informação usados em empresas***
+		- ESS - Sistema de Apoio  executivo
+		- DSS - Sistema de Apoio  a decisão
+		- MIS - Sistemas de Informação Gerencial
+		- TPS - Sistemas de Processamento de Transações 
 
 
 ---
