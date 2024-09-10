@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Projetos/Como Cuidar das minhas Roupas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "5c4dabbda835bf68",
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Projetos/Como Cuidar das minhas Roupas.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Projetos/Como Cuidar das minhas Roupas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Projetos/Como Cuidar das minhas Roupas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Projetos/Como Cuidar das minhas Roupas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +235,9 @@
   },
   "active": "b268a71ec7fba0b6",
   "lastOpenFiles": [
-    "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/HOME.md",
+    "Projetos/Como Cuidar das minhas Roupas.md",
+    "Notas/Geometria Analítica e Álgebra Linear.md",
     "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/mapa_mental_sistemas_de_informação.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
@@ -262,7 +262,6 @@
     "Notas/Tipos de Diagrama UML.md",
     "Notas/Rup.md",
     "Notas/Data Science do Zero.md",
-    "Diario/2024-07-31.md",
     "Arquivos/Parte Serial e Parte paralela.png",
     "Arquivos/Dados Desbalanceados.png",
     "Arquivos/Pasted image 20240713175024.png",
