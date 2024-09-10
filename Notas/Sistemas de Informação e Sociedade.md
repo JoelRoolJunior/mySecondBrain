@@ -16,7 +16,7 @@ title:**Sobre o que é essa matéria?**
 ## Sistemas de informação
 módulos 1 - Conceitos Básicos
 >[!note] 
->UM SI(Sistema de informação) é um conjunto de componentes inter-relacionados -- **software, hardware e redes de telecomunicações**
+>Um SI(Sistema de informação) é um conjunto de componentes inter-relacionados -- **software, hardware e redes de telecomunicações**
 - **Vamos Começar**
 	- Por que empresas usam sistemas de informação?
 		- suporte a operações
@@ -49,6 +49,8 @@ módulos 1 - Conceitos Básicos
 	- 
 
 ![[mapa_mental_sistemas_de_informação|900]]
+
+## Competitividade
 
 
 ---
