@@ -53,11 +53,15 @@ módulos 1 - Conceitos Básicos
 ## Competitividade
 **forças competitivas**
 - 5 forças de Porter
-	- Ameaça de produtos Substituídos
-	- Ameaça  de Novos Entrantes
-	- Poder de Negociação dos Clientes
-	- Poder de Negociação dos Fornecedores
-		- 
+	- ***Ameaça de produtos Substituídos***
+		- com a internet surgiu mais opções similares que desempenham a mesma função de qualquer objeto/ produto.
+	- ***Ameaça  de Novos Entrantes***
+		- Quanto **mais fácil** for entrar em um setor, **mais desafiador** será obter lucro nesse setor.
+	- ***Poder de Negociação dos Clientes***
+		- Se houver **poucos fornecedores** em seu setor, o poder de barganha do cliente é considerado baixo.
+	- ***Poder de Negociação dos Fornecedores***
+		- mais fornecedores, menos barganha eles tem sobre a empresa
+		- menos fornecedores, mais barganha.
 	- Rivalidade entre os  Concorrentes
 
 
