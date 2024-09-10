@@ -51,6 +51,13 @@ módulos 1 - Conceitos Básicos
 ![[mapa_mental_sistemas_de_informação|900]]
 
 ## Competitividade
+**forças competitivas**
+- 5 forças de Porter
+	- Ameaça de produtos Substituídos
+	- Ameaça  de Novos Entrantes
+	- Poder de Negociação dos Clientes
+	- Poder de Negociação dos Fornecedores
+	- Rivalidade entre os  Concorrentes
 
 
 ---
