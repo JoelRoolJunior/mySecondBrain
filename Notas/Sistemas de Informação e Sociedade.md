@@ -57,6 +57,7 @@ módulos 1 - Conceitos Básicos
 	- Ameaça  de Novos Entrantes
 	- Poder de Negociação dos Clientes
 	- Poder de Negociação dos Fornecedores
+		- 
 	- Rivalidade entre os  Concorrentes
 
 
