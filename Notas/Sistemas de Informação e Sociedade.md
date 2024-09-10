@@ -70,6 +70,24 @@ módulos 1 - Conceitos Básicos
 		- MIS - Sistemas de Informação Gerencial
 		- TPS - Sistemas de Processamento de Transações
 - Tomada de Decisão
+	- **Gestão de Topo**
+		- ***Características das decisões:*** Dados não estruturados  ***Exemplos de decisões:***
+			- Decidir se quer ou não entrar no mercado.
+			- Aprovar o orçamento destinado ao capital.
+			- Decidir sobre metas de longo prazo.
+	- **Gestão Intermediaria**
+		- ****Características das decisões:**** Dados semiestruturados  ***Exemplos de decisões:***
+			- Desenhar um plano de marketing.
+			- Desenvolver um orçamento departamental.
+			- Criar um site para a empresa.
+	- **Gestão Operacional**
+		- ***Características das decisões:*** Dados estruturados ***Exemplos de decisões:***
+			- Determinar as horas extras.
+			- Determinar as regras para reposição de estoque.
+			- Conceder crédito aos clientes.
+			- Oferecer ofertas especiais aos clientes.
+>[!info] **Resumindo** 
+>Decisões estruturadas são mais comuns em níveis mais baixos da organização, enquanto problemas não estruturados são mais comuns em níveis de negócios mais altos. Quanto ***mais estruturada for a decisão***, mais fácil será ***automatizar***.
 
 
 ---
