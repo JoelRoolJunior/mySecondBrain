@@ -28,6 +28,7 @@ title:**Sobre o que é essa matéria?**
 			- concatenação
 			- Prefixo e sufixo
 			- Subcadeia
+		- Fechamento de Kleene
 
 ---
 ## Referencias
