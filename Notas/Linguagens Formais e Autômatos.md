@@ -26,7 +26,8 @@ title:**Sobre o que é essa matéria?**
 		- cadeia elementar
 		- estrutura das cadeias
 			- concatenação
-			- 
+			- Prefixo e sufixo
+			- Subcadeia
 
 ---
 ## Referencias
