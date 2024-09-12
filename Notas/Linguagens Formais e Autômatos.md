@@ -24,7 +24,9 @@ title:**Sobre o que é essa matéria?**
 		- Cada símbolo é considerado uma unidade atômica, não importando a sua representação visual, ou seja, um símbolo pode ser formado por um ou mais caracteres.
 	- Cadeias
 		- cadeia elementar
-		- 
+		- estrutura das cadeias
+			- concatenação
+			- 
 
 ---
 ## Referencias
