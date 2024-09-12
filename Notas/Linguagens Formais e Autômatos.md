@@ -11,6 +11,12 @@ title:**Sobre o que é essa matéria?**
 - Computabilidade e a Máquina de Turing
 ```
 
+## Conceitos básicos de autômatos e linguagens
+- Estudo da Teoria dos Conjuntos
+	- operações básicas
+		- união 
+		- interseção
+
 ---
 ## Referencias
 - **LEITURA **:
