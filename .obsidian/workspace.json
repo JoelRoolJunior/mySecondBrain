@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Modelagem Matemática.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Modelagem Matemática.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Modelagem Matemática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Modelagem Matemática.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Modelagem Matemática.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +236,8 @@
   },
   "active": "2ce34029d0337d6e",
   "lastOpenFiles": [
-    "Notas/Linguagens Formais e Autômatos.md",
     "Notas/HOME.md",
+    "Notas/Linguagens Formais e Autômatos.md",
     "Notas/Sistemas de Informação e Sociedade.md",
     "Projetos/Como Cuidar das minhas Roupas.md",
     "Notas/Geometria Analítica e Álgebra Linear.md",

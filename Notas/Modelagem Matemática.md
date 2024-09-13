@@ -12,6 +12,8 @@ title:**Sobre o que é essa matéria?**
 - Bases de Otimização Com ms Excel
 ```
 
+
+
 ---
 ## Referencias
 - **LEITURA **:
