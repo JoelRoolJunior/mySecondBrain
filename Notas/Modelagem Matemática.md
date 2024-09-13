@@ -12,6 +12,12 @@ title:**Sobre o que é essa matéria?**
 - Bases de Otimização Com ms Excel
 ```
 
+## Aritmética Computacional em Python
+Representação de números inteiros
+- Binário
+- Octal
+- Hexadecimal
+- Mudança da base ***b*** para a base decimal ***10*** e da base ***10*** para a base ***b***
 
 
 ---
