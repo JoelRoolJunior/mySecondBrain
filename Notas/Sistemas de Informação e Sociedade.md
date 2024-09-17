@@ -95,6 +95,11 @@ módulos 1 - Conceitos Básicos
 - **Tipos de infraestrutura**
 	- Infraestrutura tradicional
 	- Infraestrutura em nuvem
+- **Componentes da Infraestrutura**
+	- é muito caro, pode acreditar
+	- Datacenter
+	- Refrigedares
+	- 
 
 ---
 ## Referencias
