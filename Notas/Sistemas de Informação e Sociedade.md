@@ -97,8 +97,13 @@ módulos 1 - Conceitos Básicos
 	- Infraestrutura em nuvem
 - **Componentes da Infraestrutura**
 	- é muito caro, pode acreditar
+	- Hardware
 	- Datacenter
-	- Refrigedares
+	- Refrigeradores
+	- **infraestrutura convergente**
+	- **infraestrutura hiperconvergente**
+- **Gerenciamento de Infraestrutura**
+	- gerenciamento predial(BMS)
 	- 
 
 ---
