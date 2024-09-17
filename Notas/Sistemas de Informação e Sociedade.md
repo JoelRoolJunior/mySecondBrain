@@ -111,6 +111,8 @@ módulos 1 - Conceitos Básicos
 	- Rede de longa distância (WAN) otimizada
 	- Virtualização
 	- Tempo de inatividade zero
+## Principais tipos de sistemas de informação
+
 
 ---
 ## Referencias
