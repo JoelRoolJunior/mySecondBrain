@@ -127,7 +127,17 @@ módulos 1 - Conceitos Básicos
 ---
 ## Referencias
 - **LEITURA **:
-	1. 
+
+LAUDON, K. C.; LAUDON, J. P. **Management Information Systems**. 12. ed. Upper Saddle River, New Jersey: Prentice-Hall, 2012.
+
+LAUDON, K. C.; LAUDON, J. P. **Management Information Systems**. 13. ed. Upper Saddle River, New Jersey: Pearson, 2014.
+
+LEAVITT, H. J. **Applied Organizational Change in Industry**: Structural, Technical and Humanistic Approaches. _In_: MARCH, J. G. (Org.). Handbook of Organizations. Rand McNally, 1965. p. 1144-1170.
+
+STAIR, R. M.; REYNOLDS, G. **Fundamentals of business information systems**. Thomson Learning, 2008. p. 118-129.
+
+VALACICH, J.; SCHNEIDER, C. **Information Systems Today** – Managing in the Digital World. 4. ed. Upper Saddle River, New Jersey: Prentice-Hall, 2010.
+
 - **VIDEOS**
 	1. 
 - **OUTRAS REFERÊNCIAS**
