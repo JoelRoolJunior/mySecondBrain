@@ -88,7 +88,13 @@ módulos 1 - Conceitos Básicos
 			- Oferecer ofertas especiais aos clientes.
 >[!info] **Resumindo** 
 >Decisões estruturadas são mais comuns em níveis mais baixos da organização, enquanto problemas não estruturados são mais comuns em níveis de negócios mais altos. Quanto ***mais estruturada for a decisão***, mais fácil será ***automatizar***.
-- 
+
+## Infraestrutura para sistemas de informação
+**Características  da infraestrutura para SI**
+- A infraestrutura do sistema de informação deve ser estabelecida para criar oportunidades significativas para o futuro desenvolvimento corporativo.
+- **Tipos de infraestrutura**
+	- Infraestrutura tradicional
+	- Infraestrutura em nuvem
 
 ---
 ## Referencias
