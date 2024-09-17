@@ -104,7 +104,13 @@ módulos 1 - Conceitos Básicos
 	- **infraestrutura hiperconvergente**
 - **Gerenciamento de Infraestrutura**
 	- gerenciamento predial(BMS)
-	- 
+- **Uma infraestrutura para sistemas de informação IDEAL**
+	- Sistemas de armazenamento de alto desempenho
+	- Redes de baixa latência
+	- Infraestruturas seguras
+	- Rede de longa distância (WAN) otimizada
+	- Virtualização
+	- Tempo de inatividade zero
 
 ---
 ## Referencias
