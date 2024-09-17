@@ -112,13 +112,14 @@ módulos 1 - Conceitos Básicos
 	- Virtualização
 	- Tempo de inatividade zero
 ## Principais tipos de sistemas de informação
--  ERP
-	- **Comércio**
-	- **Finanças**
-	- **Manufatura**
-	- **Cadeia de suplementos**
-	- **Recursos humanos**
-- 
+-  **ERP** - planejamento de recursos empresariais
+	- Comércio
+	- Finanças
+	- Manufatura
+	- Cadeia de suplementos
+	- Recursos humanos
+- **CRM** - gerenciamento de relacionamento com o cliente
+	- 
 
 
 ---
