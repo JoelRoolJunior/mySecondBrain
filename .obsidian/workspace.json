@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b72821b888e23f5e",
+        "id": "b070a6687e25a341",
         "type": "tabs",
         "children": [
           {
-            "id": "951b55a320761e3f",
+            "id": "f0bb44645c877fdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/HOME.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md"
+                "file": "Notas/HOME.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Sistemas de Informação e Sociedade.md",
+                "file": "Notas/HOME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,10 +234,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "951b55a320761e3f",
+  "active": "f0bb44645c877fdb",
   "lastOpenFiles": [
-    "Notas/HOME.md",
     "Notas/Sistemas de Informação e Sociedade.md",
+    "Notas/HOME.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Modelagem de sistemas em UML.md",
