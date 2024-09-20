@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/HOME.md",
-                "mode": "preview",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/HOME.md"
+                "file": "Notas/Linguagens Formais e Autômatos.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/HOME.md",
+                "file": "Notas/Linguagens Formais e Autômatos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,8 +236,8 @@
   },
   "active": "b8fb39b4e4014150",
   "lastOpenFiles": [
-    "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/HOME.md",
+    "Notas/Sistemas de Informação e Sociedade.md",
     "Notas/Introdução à Inteligência Artificial - TIC em Trilhas.md",
     "Notas/Machine Learning - TIC em Trilhas.md",
     "Notas/Modelagem de sistemas em UML.md",

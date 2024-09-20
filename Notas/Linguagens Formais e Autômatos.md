@@ -29,6 +29,10 @@ title:**Sobre o que é essa matéria?**
 			- Prefixo e sufixo
 			- Subcadeia
 		- Fechamento de Kleene
+- Linguagem
+	- Conjuntos
+		- Linguagens
+		- Gramáticas
 
 ---
 ## Referencias
