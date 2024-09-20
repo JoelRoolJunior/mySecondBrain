@@ -33,6 +33,13 @@ title:**Sobre o que é essa matéria?**
 	- Conjuntos
 		- Linguagens
 		- Gramáticas
+		- ![[Grafo  de  com os conceitos básicos de uma linguagem.png]]
+- Gramática
+	- A gramática é um conjunto de regras para definir uma frase válida em qualquer idioma. Uma linguagem não está completa sem sua respectiva gramática.
+	- Gramáticas exercem determinadas funções requeridas. São elas:
+		- Definir linguagens
+		- Gerar cadeia pertencente à linguagem
+		- Constituir  sistemas formais
 
 ---
 ## Referencias
