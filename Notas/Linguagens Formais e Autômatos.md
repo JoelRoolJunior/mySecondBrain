@@ -12,14 +12,14 @@ title:**Sobre o que é essa matéria?**
 ```
 
 ## Conceitos básicos de autômatos e linguagens
-- Estudo da Teoria dos Conjuntos
+- ==Estudo da Teoria dos Conjuntos==
 	- operações básicas
 		- união 
 		- interseção
 	- Grafos
 		- Arvores
 		- Arvore binária
-- Símbolos e Cadeias
+- ==Símbolos e Cadeias==
 	- Simbolo
 		- Cada símbolo é considerado uma unidade atômica, não importando a sua representação visual, ou seja, um símbolo pode ser formado por um ou mais caracteres.
 	- Cadeias
@@ -29,17 +29,24 @@ title:**Sobre o que é essa matéria?**
 			- Prefixo e sufixo
 			- Subcadeia
 		- Fechamento de Kleene
-- Linguagem
+- ==Linguagem==
 	- Conjuntos
 		- Linguagens
 		- Gramáticas
 		- ![[Grafo  de  com os conceitos básicos de uma linguagem.png]]
-- Gramática
+- ==Gramática==
 	- A gramática é um conjunto de regras para definir uma frase válida em qualquer idioma. Uma linguagem não está completa sem sua respectiva gramática.
 	- Gramáticas exercem determinadas funções requeridas. São elas:
 		- Definir linguagens
 		- Gerar cadeia pertencente à linguagem
 		- Constituir  sistemas formais
+		-  **G = (V, T, P, S)**
+			- **V** : *variáveis*
+			- **T** : *símbolos terminais*
+			- **P** : *produções ou regras de substituição* 
+			- **S** : *símbolo inicial*
+- ==Aplicações Práticas==
+	- 
 
 ---
 ## Referencias
