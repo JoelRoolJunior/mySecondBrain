@@ -46,7 +46,8 @@ title:**Sobre o que é essa matéria?**
 			- **P** : *produções ou regras de substituição* 
 			- **S** : *símbolo inicial*
 - ==Aplicações Práticas==
-	- 
+	- Compiladores
+	- Arvores de derivação
 
 ---
 ## Referencias
