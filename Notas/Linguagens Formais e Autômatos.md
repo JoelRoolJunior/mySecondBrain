@@ -51,11 +51,11 @@ title:**Sobre o que é essa matéria?**
 - ==Hierarquia de Chomsky==
 	- Tipos de classes:
 		- Tipo 0
-			- Gramáticas com Estrutura de  frase
+			- Gramáticas com Estrutura de  Frase
 		- Tipo 1
-			- Gramáticas Sensíveis ao contexto
+			- Gramáticas Sensíveis ao Contexto
 		- Tipo 2
-			- Gramáticas Livres de contexto
+			- Gramáticas Livres de Contexto
 		- Tipo 3
 			- Gramáticas Regulares
 	- ![[hierarquia  de classes de gramática.png]]
