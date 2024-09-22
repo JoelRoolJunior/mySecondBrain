@@ -49,6 +49,16 @@ title:**Sobre o que é essa matéria?**
 	- Compiladores
 	- Arvores de derivação
 - ==Hierarquia de Chomsky==
+	- Tipos de classes:
+		- Tipo 0
+			- Gramáticas com Estrutura de  frase
+		- Tipo 1
+			- Gramáticas Sensíveis ao contexto
+		- Tipo 2
+			- Gramáticas Livres de contexto
+		- Tipo 3
+			- Gramáticas Regulares
+	- ![[hierarquia  de classes de gramática.png]]
 	- 
 
 ---
