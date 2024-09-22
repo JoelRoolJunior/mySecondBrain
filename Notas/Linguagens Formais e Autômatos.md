@@ -59,7 +59,10 @@ title:**Sobre o que é essa matéria?**
 		- Tipo 3
 			- Gramáticas Regulares
 	- ![[hierarquia  de classes de gramática.png]]
-	- 
+
+## Linguagens Regulares
+Gramáticas Regulares
+
 
 ---
 ## Referencias
