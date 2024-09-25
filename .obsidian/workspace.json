@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "79aba6d232866e65",
+        "id": "79387e9b3230bf71",
         "type": "tabs",
         "children": [
           {
-            "id": "d6f8641aa1d8b836",
+            "id": "d99c0db6b6b593a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas/Linguagens Formais e Autômatos.md",
-                "mode": "source",
+                "file": "Notas/HOME.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas/Linguagens Formais e Autômatos.md"
+                "file": "Notas/HOME.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas/Linguagens Formais e Autômatos.md",
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas/Linguagens Formais e Autômatos.md",
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Notas/Linguagens Formais e Autômatos.md",
+                "file": "Notas/HOME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,10 +234,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d6f8641aa1d8b836",
+  "active": "d99c0db6b6b593a5",
   "lastOpenFiles": [
-    "Arquivos/hierarquia  de classes de gramática.png",
     "Notas/Linguagens Formais e Autômatos.md",
+    "Arquivos/hierarquia  de classes de gramática.png",
     "Notas/HOME.md",
     "Arquivos/Grafo  de  com os conceitos básicos de uma linguagem.png",
     "Notas/Sistemas de Informação e Sociedade.md",
