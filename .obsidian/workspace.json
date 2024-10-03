@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b60769bcbebfd814",
+        "id": "6dc46c40308a6e82",
         "type": "tabs",
         "children": [
           {
-            "id": "219670f8df885443",
+            "id": "b4f3a95ead409fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,7 +234,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "219670f8df885443",
+  "active": "b4f3a95ead409fbe",
   "lastOpenFiles": [
     "Notas/Linguagens Formais e Autômatos.md",
     "Arquivos/hierarquia  de classes de gramática.png",
