@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c67cbb805f612a2",
+        "id": "9802cf0c90ee29df",
         "type": "tabs",
         "children": [
           {
-            "id": "bb1bc9091a72e935",
+            "id": "eef82a4320072408",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/HOME.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -93,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notas/HOME.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notas/HOME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas/HOME.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Notas/HOME.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,7 +234,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bb1bc9091a72e935",
+  "active": "eef82a4320072408",
   "lastOpenFiles": [
     "Notas/Pensamento Computacional.md",
     "Notas/HOME.md",
