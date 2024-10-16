@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a22bb9961fe60c",
+        "id": "72073d0d599ede42",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc7a67fe3e21b08",
+            "id": "b4701c8e5862f88d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -234,7 +234,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ffc7a67fe3e21b08",
+  "active": "b4701c8e5862f88d",
   "lastOpenFiles": [
     "Notas/Pensamento Computacional.md",
     "Notas/HOME.md",
