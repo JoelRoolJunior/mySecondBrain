@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3614890ef7021286",
+        "id": "bc9efb75e0566f8a",
         "type": "tabs",
         "children": [
           {
-            "id": "a3fbce5854929952",
+            "id": "6d74e7c6b892bb57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,12 +168,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cdf6fb79a942d9be",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "05a66dd0e1ed89e1",
@@ -275,7 +285,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a3fbce5854929952",
+  "active": "6d74e7c6b892bb57",
   "lastOpenFiles": [
     "Notas/HOME.md",
     "Notas/Pensamento Computacional.md",
